@@ -1,0 +1,1441 @@
+Record ID,Brand,Model,Release Year,Segment,Operating System,RAM (GB),Storage (GB),Screen Size (in),Battery (mAh),Main Camera (MP),Customer Rating (out of 5),Region,Avg Price (USD),Units Sold (thousands)
+MB-70001,Apple,iPhone SE,2022,Mid-Range,iOS,4,256,6.9,5099,13,4.2,North America,$292.50,287.1
+MB-70002,Apple,iPhone SE,2022,Mid-Range,iOS,4,256,6.9,5099,13,4.2,Europe,$352.53,448.4
+MB-70003,Apple,iPhone SE,2022,Mid-Range,iOS,4,256,6.9,5099,13,4.2,Asia Pacific,$374.02,87.8
+MB-70004,Apple,iPhone SE,2022,Mid-Range,iOS,4,256,6.9,5099,13,4.2,Middle East,$316.17,282.5
+MB-70005,Apple,iPhone SE,2022,Mid-Range,iOS,4,256,6.9,5099,13,4.2,Latin America,$395.04,55.6
+MB-70006,Apple,iPhone SE,2022,Mid-Range,iOS,4,256,6.9,5099,13,4.2,Africa,$382.40,887.7
+MB-70007,Apple,iPhone SE,2023,Budget,iOS,8,1024,5.5,4509,12,3.7,North America,$106.03,981.9
+MB-70008,Apple,iPhone SE,2023,Budget,iOS,8,1024,5.5,4509,12,3.7,Europe,$117.79,"1,113.9"
+MB-70009,Apple,iPhone SE,2023,Budget,iOS,8,1024,5.5,4509,12,3.7,Asia Pacific,$113.84,664.6
+MB-70010,Apple,iPhone SE,2023,Budget,iOS,8,1024,5.5,4509,12,3.7,Middle East,$108.25,584.2
+MB-70011,Apple,iPhone SE,2023,Budget,iOS,8,1024,5.5,4509,12,3.7,Latin America,$132.58,49.4
+MB-70012,Apple,iPhone SE,2023,Budget,iOS,8,1024,5.5,4509,12,3.7,Africa,$129.51,285.7
+MB-70013,Apple,iPhone 13,2021,Flagship,iOS,12,1024,5.5,3501,64,4.2,North America,"$1,437.68",993.3
+MB-70014,Apple,iPhone 13,2021,Flagship,iOS,12,1024,5.5,3501,64,4.2,Europe,"$1,762.93","1,108.2"
+MB-70015,Apple,iPhone 13,2021,Flagship,iOS,12,1024,5.5,3501,64,4.2,Asia Pacific,"$1,515.45",494.5
+MB-70016,Apple,iPhone 13,2021,Flagship,iOS,12,1024,5.5,3501,64,4.2,Middle East,"$1,525.19",544.3
+MB-70017,Apple,iPhone 13,2021,Flagship,iOS,12,1024,5.5,3501,64,4.2,Latin America,"$1,525.58","1,193.8"
+MB-70018,Apple,iPhone 13,2021,Flagship,iOS,12,1024,5.5,3501,64,4.2,Africa,"$1,386.60",37.1
+MB-70019,Apple,iPhone 13,2022,Flagship,iOS,8,32,6.7,5455,108,4.2,North America,"$1,273.15",688.0
+MB-70020,Apple,iPhone 13,2022,Flagship,iOS,8,32,6.7,5455,108,4.2,Europe,"$1,189.97","1,176.1"
+MB-70021,Apple,iPhone 13,2022,Flagship,iOS,8,32,6.7,5455,108,4.2,Asia Pacific,"$1,397.51",805.3
+MB-70022,Apple,iPhone 13,2022,Flagship,iOS,8,32,6.7,5455,108,4.2,Middle East,"$1,278.70","1,001.2"
+MB-70023,Apple,iPhone 13,2022,Flagship,iOS,8,32,6.7,5455,108,4.2,Latin America,"$1,519.98",915.4
+MB-70024,Apple,iPhone 13,2022,Flagship,iOS,8,32,6.7,5455,108,4.2,Africa,"$1,212.59",298.7
+MB-70025,Apple,iPhone 13,2023,Budget,iOS,4,1024,5.5,5128,108,4.8,North America,$150.74,491.4
+MB-70026,Apple,iPhone 13,2023,Budget,iOS,4,1024,5.5,5128,108,4.8,Europe,$135.02,"1,153.9"
+MB-70027,Apple,iPhone 13,2023,Budget,iOS,4,1024,5.5,5128,108,4.8,Asia Pacific,$131.09,"1,060.4"
+MB-70028,Apple,iPhone 13,2023,Budget,iOS,4,1024,5.5,5128,108,4.8,Middle East,$121.48,453.8
+MB-70029,Apple,iPhone 13,2023,Budget,iOS,4,1024,5.5,5128,108,4.8,Latin America,$118.13,"1,052.0"
+MB-70030,Apple,iPhone 13,2023,Budget,iOS,4,1024,5.5,5128,108,4.8,Africa,$143.49,87.9
+MB-70031,Apple,iPhone 13,2024,Mid-Range,iOS,3,128,6.8,4187,12,4.1,North America,$392.83,208.9
+MB-70032,Apple,iPhone 13,2024,Mid-Range,iOS,3,128,6.8,4187,12,4.1,Europe,$505.12,409.0
+MB-70033,Apple,iPhone 13,2024,Mid-Range,iOS,3,128,6.8,4187,12,4.1,Asia Pacific,$484.37,"1,180.2"
+MB-70034,Apple,iPhone 13,2024,Mid-Range,iOS,3,128,6.8,4187,12,4.1,Middle East,$417.57,577.4
+MB-70035,Apple,iPhone 13,2024,Mid-Range,iOS,3,128,6.8,4187,12,4.1,Latin America,$454.57,"1,150.9"
+MB-70036,Apple,iPhone 13,2024,Mid-Range,iOS,3,128,6.8,4187,12,4.1,Africa,$387.26,875.7
+MB-70037,Apple,iPhone 14,2022,Premium,iOS,12,256,6.5,5380,200,4.2,North America,$875.19,170.9
+MB-70038,Apple,iPhone 14,2022,Premium,iOS,12,256,6.5,5380,200,4.2,Europe,$909.05,171.5
+MB-70039,Apple,iPhone 14,2022,Premium,iOS,12,256,6.5,5380,200,4.2,Asia Pacific,$756.89,461.9
+MB-70040,Apple,iPhone 14,2022,Premium,iOS,12,256,6.5,5380,200,4.2,Middle East,$792.33,860.2
+MB-70041,Apple,iPhone 14,2022,Premium,iOS,12,256,6.5,5380,200,4.2,Latin America,$788.58,394.8
+MB-70042,Apple,iPhone 14,2022,Premium,iOS,12,256,6.5,5380,200,4.2,Africa,$832.40,"1,147.0"
+MB-70043,Apple,iPhone 14,2023,Premium,iOS,4,64,6.1,3388,50,3.6,North America,$811.71,35.3
+MB-70044,Apple,iPhone 14,2023,Premium,iOS,4,64,6.1,3388,50,3.6,Europe,$915.76,173.3
+MB-70045,Apple,iPhone 14,2023,Premium,iOS,4,64,6.1,3388,50,3.6,Asia Pacific,$732.44,788.1
+MB-70046,Apple,iPhone 14,2023,Premium,iOS,4,64,6.1,3388,50,3.6,Middle East,$781.38,648.7
+MB-70047,Apple,iPhone 14,2023,Premium,iOS,4,64,6.1,3388,50,3.6,Latin America,$755.47,595.2
+MB-70048,Apple,iPhone 14,2023,Premium,iOS,4,64,6.1,3388,50,3.6,Africa,$746.65,203.5
+MB-70049,Apple,iPhone 14,2024,Premium,iOS,3,512,6.8,5067,200,4.5,North America,$812.72,72.7
+MB-70050,Apple,iPhone 14,2024,Premium,iOS,3,512,6.8,5067,200,4.5,Europe,$798.74,468.2
+MB-70051,Apple,iPhone 14,2024,Premium,iOS,3,512,6.8,5067,200,4.5,Asia Pacific,$734.47,480.5
+MB-70052,Apple,iPhone 14,2024,Premium,iOS,3,512,6.8,5067,200,4.5,Middle East,$662.41,"1,026.1"
+MB-70053,Apple,iPhone 14,2024,Premium,iOS,3,512,6.8,5067,200,4.5,Latin America,$742.73,"1,157.0"
+MB-70054,Apple,iPhone 14,2024,Premium,iOS,3,512,6.8,5067,200,4.5,Africa,$664.87,896.2
+MB-70055,Apple,iPhone 15,2022,Flagship,iOS,12,256,6.7,3403,64,4.3,North America,"$1,750.96",612.3
+MB-70056,Apple,iPhone 15,2022,Flagship,iOS,12,256,6.7,3403,64,4.3,Europe,"$1,542.67","1,160.7"
+MB-70057,Apple,iPhone 15,2022,Flagship,iOS,12,256,6.7,3403,64,4.3,Asia Pacific,"$1,648.49",840.8
+MB-70058,Apple,iPhone 15,2022,Flagship,iOS,12,256,6.7,3403,64,4.3,Middle East,"$1,421.74",675.0
+MB-70059,Apple,iPhone 15,2022,Flagship,iOS,12,256,6.7,3403,64,4.3,Latin America,"$1,869.85",978.6
+MB-70060,Apple,iPhone 15,2022,Flagship,iOS,12,256,6.7,3403,64,4.3,Africa,"$1,546.57",429.5
+MB-70061,Apple,iPhone 15,2023,Budget,iOS,3,1024,6.9,4835,64,4.4,North America,$93.00,28.6
+MB-70062,Apple,iPhone 15,2023,Budget,iOS,3,1024,6.9,4835,64,4.4,Europe,$89.60,534.0
+MB-70063,Apple,iPhone 15,2023,Budget,iOS,3,1024,6.9,4835,64,4.4,Asia Pacific,$86.50,470.3
+MB-70064,Apple,iPhone 15,2023,Budget,iOS,3,1024,6.9,4835,64,4.4,Middle East,$77.07,274.5
+MB-70065,Apple,iPhone 15,2023,Budget,iOS,3,1024,6.9,4835,64,4.4,Latin America,$82.37,523.5
+MB-70066,Apple,iPhone 15,2023,Budget,iOS,3,1024,6.9,4835,64,4.4,Africa,$97.61,846.5
+MB-70067,Apple,iPhone 15,2024,Mid-Range,iOS,8,128,6.5,3933,108,4.8,North America,$233.33,786.9
+MB-70068,Apple,iPhone 15,2024,Mid-Range,iOS,8,128,6.5,3933,108,4.8,Europe,$260.61,211.6
+MB-70069,Apple,iPhone 15,2024,Mid-Range,iOS,8,128,6.5,3933,108,4.8,Asia Pacific,$247.84,727.5
+MB-70070,Apple,iPhone 15,2024,Mid-Range,iOS,8,128,6.5,3933,108,4.8,Middle East,$281.71,542.4
+MB-70071,Apple,iPhone 15,2024,Mid-Range,iOS,8,128,6.5,3933,108,4.8,Latin America,$289.71,745.3
+MB-70072,Apple,iPhone 15,2024,Mid-Range,iOS,8,128,6.5,3933,108,4.8,Africa,$296.96,728.7
+MB-70073,Apple,iPhone 15 Pro,2021,Mid-Range,iOS,6,512,6.5,5147,108,4.9,North America,$329.95,12.6
+MB-70074,Apple,iPhone 15 Pro,2021,Mid-Range,iOS,6,512,6.5,5147,108,4.9,Europe,$338.19,377.5
+MB-70075,Apple,iPhone 15 Pro,2021,Mid-Range,iOS,6,512,6.5,5147,108,4.9,Asia Pacific,$355.18,178.8
+MB-70076,Apple,iPhone 15 Pro,2021,Mid-Range,iOS,6,512,6.5,5147,108,4.9,Middle East,$328.90,100.0
+MB-70077,Apple,iPhone 15 Pro,2021,Mid-Range,iOS,6,512,6.5,5147,108,4.9,Latin America,$375.02,"1,132.5"
+MB-70078,Apple,iPhone 15 Pro,2021,Mid-Range,iOS,6,512,6.5,5147,108,4.9,Africa,$308.51,557.5
+MB-70079,Apple,iPhone 15 Pro,2022,Premium,iOS,6,128,6.8,5382,108,3.8,North America,$499.98,103.0
+MB-70080,Apple,iPhone 15 Pro,2022,Premium,iOS,6,128,6.8,5382,108,3.8,Europe,$660.06,620.0
+MB-70081,Apple,iPhone 15 Pro,2022,Premium,iOS,6,128,6.8,5382,108,3.8,Asia Pacific,$652.16,"1,160.8"
+MB-70082,Apple,iPhone 15 Pro,2022,Premium,iOS,6,128,6.8,5382,108,3.8,Middle East,$536.63,610.9
+MB-70083,Apple,iPhone 15 Pro,2022,Premium,iOS,6,128,6.8,5382,108,3.8,Latin America,$620.10,827.4
+MB-70084,Apple,iPhone 15 Pro,2022,Premium,iOS,6,128,6.8,5382,108,3.8,Africa,$563.58,192.8
+MB-70085,Apple,iPhone 15 Pro,2023,Mid-Range,iOS,16,64,6.8,4575,64,3.9,North America,$454.99,230.2
+MB-70086,Apple,iPhone 15 Pro,2023,Mid-Range,iOS,16,64,6.8,4575,64,3.9,Europe,$436.96,46.1
+MB-70087,Apple,iPhone 15 Pro,2023,Mid-Range,iOS,16,64,6.8,4575,64,3.9,Asia Pacific,$424.27,"1,122.0"
+MB-70088,Apple,iPhone 15 Pro,2023,Mid-Range,iOS,16,64,6.8,4575,64,3.9,Middle East,$399.87,27.7
+MB-70089,Apple,iPhone 15 Pro,2023,Mid-Range,iOS,16,64,6.8,4575,64,3.9,Latin America,$412.66,51.9
+MB-70090,Apple,iPhone 15 Pro,2023,Mid-Range,iOS,16,64,6.8,4575,64,3.9,Africa,$368.58,842.0
+MB-70091,Apple,iPhone 16,2021,Budget,iOS,8,128,5.5,4515,13,3.7,North America,$128.40,951.1
+MB-70092,Apple,iPhone 16,2021,Budget,iOS,8,128,5.5,4515,13,3.7,Europe,$101.24,637.7
+MB-70093,Apple,iPhone 16,2021,Budget,iOS,8,128,5.5,4515,13,3.7,Asia Pacific,$113.67,229.2
+MB-70094,Apple,iPhone 16,2021,Budget,iOS,8,128,5.5,4515,13,3.7,Middle East,$107.43,664.5
+MB-70095,Apple,iPhone 16,2021,Budget,iOS,8,128,5.5,4515,13,3.7,Latin America,$129.14,963.8
+MB-70096,Apple,iPhone 16,2021,Budget,iOS,8,128,5.5,4515,13,3.7,Africa,$130.55,"1,110.6"
+MB-70097,Apple,iPhone 16,2023,Budget,iOS,16,1024,6.1,3623,12,4.2,North America,$189.96,634.2
+MB-70098,Apple,iPhone 16,2023,Budget,iOS,16,1024,6.1,3623,12,4.2,Europe,$198.07,592.2
+MB-70099,Apple,iPhone 16,2023,Budget,iOS,16,1024,6.1,3623,12,4.2,Asia Pacific,$168.38,813.0
+MB-70100,Apple,iPhone 16,2023,Budget,iOS,16,1024,6.1,3623,12,4.2,Middle East,$176.00,188.4
+MB-70101,Apple,iPhone 16,2023,Budget,iOS,16,1024,6.1,3623,12,4.2,Latin America,$160.29,769.8
+MB-70102,Apple,iPhone 16,2023,Budget,iOS,16,1024,6.1,3623,12,4.2,Africa,$197.44,969.3
+MB-70103,Apple,iPhone 16 Pro,2022,Mid-Range,iOS,4,32,6.7,5027,48,4.5,North America,$274.36,785.5
+MB-70104,Apple,iPhone 16 Pro,2022,Mid-Range,iOS,4,32,6.7,5027,48,4.5,Europe,$345.23,129.4
+MB-70105,Apple,iPhone 16 Pro,2022,Mid-Range,iOS,4,32,6.7,5027,48,4.5,Asia Pacific,$297.31,648.6
+MB-70106,Apple,iPhone 16 Pro,2022,Mid-Range,iOS,4,32,6.7,5027,48,4.5,Middle East,$326.60,830.6
+MB-70107,Apple,iPhone 16 Pro,2022,Mid-Range,iOS,4,32,6.7,5027,48,4.5,Latin America,$267.04,631.9
+MB-70108,Apple,iPhone 16 Pro,2022,Mid-Range,iOS,4,32,6.7,5027,48,4.5,Africa,$279.45,993.6
+MB-70109,Apple,iPhone 16 Pro,2024,Mid-Range,iOS,4,32,6.8,4509,50,4.2,North America,$381.65,"1,037.7"
+MB-70110,Apple,iPhone 16 Pro,2024,Mid-Range,iOS,4,32,6.8,4509,50,4.2,Europe,$362.78,27.5
+MB-70111,Apple,iPhone 16 Pro,2024,Mid-Range,iOS,4,32,6.8,4509,50,4.2,Asia Pacific,$409.56,71.5
+MB-70112,Apple,iPhone 16 Pro,2024,Mid-Range,iOS,4,32,6.8,4509,50,4.2,Middle East,$401.99,779.2
+MB-70113,Apple,iPhone 16 Pro,2024,Mid-Range,iOS,4,32,6.8,4509,50,4.2,Latin America,$343.22,726.3
+MB-70114,Apple,iPhone 16 Pro,2024,Mid-Range,iOS,4,32,6.8,4509,50,4.2,Africa,$354.69,376.0
+MB-70115,Samsung,Galaxy A14,2021,Premium,Android,6,64,6.7,4086,64,3.5,North America,$695.01,454.5
+MB-70116,Samsung,Galaxy A14,2021,Premium,Android,6,64,6.7,4086,64,3.5,Europe,$738.86,222.9
+MB-70117,Samsung,Galaxy A14,2021,Premium,Android,6,64,6.7,4086,64,3.5,Asia Pacific,$629.82,603.1
+MB-70118,Samsung,Galaxy A14,2021,Premium,Android,6,64,6.7,4086,64,3.5,Middle East,$649.63,275.5
+MB-70119,Samsung,Galaxy A14,2021,Premium,Android,6,64,6.7,4086,64,3.5,Latin America,$637.09,346.7
+MB-70120,Samsung,Galaxy A14,2021,Premium,Android,6,64,6.7,4086,64,3.5,Africa,$735.08,921.7
+MB-70121,Samsung,Galaxy A14,2022,Budget,Android,6,512,6.8,4483,64,3.7,North America,$148.41,37.3
+MB-70122,Samsung,Galaxy A14,2022,Budget,Android,6,512,6.8,4483,64,3.7,Europe,$130.33,698.6
+MB-70123,Samsung,Galaxy A14,2022,Budget,Android,6,512,6.8,4483,64,3.7,Asia Pacific,$138.74,800.2
+MB-70124,Samsung,Galaxy A14,2022,Budget,Android,6,512,6.8,4483,64,3.7,Middle East,$171.41,132.9
+MB-70125,Samsung,Galaxy A14,2022,Budget,Android,6,512,6.8,4483,64,3.7,Latin America,$169.93,630.0
+MB-70126,Samsung,Galaxy A14,2022,Budget,Android,6,512,6.8,4483,64,3.7,Africa,$134.73,619.2
+MB-70127,Samsung,Galaxy A14,2024,Mid-Range,Android,4,1024,6.1,4036,13,4.1,North America,$429.91,456.8
+MB-70128,Samsung,Galaxy A14,2024,Mid-Range,Android,4,1024,6.1,4036,13,4.1,Europe,$436.15,322.3
+MB-70129,Samsung,Galaxy A14,2024,Mid-Range,Android,4,1024,6.1,4036,13,4.1,Asia Pacific,$371.17,553.2
+MB-70130,Samsung,Galaxy A14,2024,Mid-Range,Android,4,1024,6.1,4036,13,4.1,Middle East,$442.44,988.4
+MB-70131,Samsung,Galaxy A14,2024,Mid-Range,Android,4,1024,6.1,4036,13,4.1,Latin America,$461.86,964.3
+MB-70132,Samsung,Galaxy A14,2024,Mid-Range,Android,4,1024,6.1,4036,13,4.1,Africa,$495.10,878.3
+MB-70133,Samsung,Galaxy A54,2021,Mid-Range,Android,16,512,6.4,5361,200,4.9,North America,$184.66,240.3
+MB-70134,Samsung,Galaxy A54,2021,Mid-Range,Android,16,512,6.4,5361,200,4.9,Europe,$219.97,882.3
+MB-70135,Samsung,Galaxy A54,2021,Mid-Range,Android,16,512,6.4,5361,200,4.9,Asia Pacific,$174.27,582.0
+MB-70136,Samsung,Galaxy A54,2021,Mid-Range,Android,16,512,6.4,5361,200,4.9,Middle East,$220.81,447.7
+MB-70137,Samsung,Galaxy A54,2021,Mid-Range,Android,16,512,6.4,5361,200,4.9,Latin America,$198.80,602.3
+MB-70138,Samsung,Galaxy A54,2021,Mid-Range,Android,16,512,6.4,5361,200,4.9,Africa,$208.87,470.4
+MB-70139,Samsung,Galaxy A54,2022,Premium,Android,3,128,6.8,4025,108,4.6,North America,$954.79,952.5
+MB-70140,Samsung,Galaxy A54,2022,Premium,Android,3,128,6.8,4025,108,4.6,Europe,$934.37,242.6
+MB-70141,Samsung,Galaxy A54,2022,Premium,Android,3,128,6.8,4025,108,4.6,Asia Pacific,$738.79,"1,069.3"
+MB-70142,Samsung,Galaxy A54,2022,Premium,Android,3,128,6.8,4025,108,4.6,Middle East,$880.04,373.0
+MB-70143,Samsung,Galaxy A54,2022,Premium,Android,3,128,6.8,4025,108,4.6,Latin America,$930.17,179.7
+MB-70144,Samsung,Galaxy A54,2022,Premium,Android,3,128,6.8,4025,108,4.6,Africa,$892.40,321.5
+MB-70145,Samsung,Galaxy A54,2023,Budget,Android,8,1024,6.5,3892,12,4.5,North America,$109.53,405.4
+MB-70146,Samsung,Galaxy A54,2023,Budget,Android,8,1024,6.5,3892,12,4.5,Europe,$95.19,445.0
+MB-70147,Samsung,Galaxy A54,2023,Budget,Android,8,1024,6.5,3892,12,4.5,Asia Pacific,$90.93,173.5
+MB-70148,Samsung,Galaxy A54,2023,Budget,Android,8,1024,6.5,3892,12,4.5,Middle East,$102.12,837.1
+MB-70149,Samsung,Galaxy A54,2023,Budget,Android,8,1024,6.5,3892,12,4.5,Latin America,$116.81,152.3
+MB-70150,Samsung,Galaxy A54,2023,Budget,Android,8,1024,6.5,3892,12,4.5,Africa,$89.78,787.5
+MB-70151,Samsung,Galaxy A54,2024,Mid-Range,Android,12,512,6.7,4531,50,4.4,North America,$319.71,764.7
+MB-70152,Samsung,Galaxy A54,2024,Mid-Range,Android,12,512,6.7,4531,50,4.4,Europe,$358.61,418.9
+MB-70153,Samsung,Galaxy A54,2024,Mid-Range,Android,12,512,6.7,4531,50,4.4,Asia Pacific,$328.82,764.7
+MB-70154,Samsung,Galaxy A54,2024,Mid-Range,Android,12,512,6.7,4531,50,4.4,Middle East,$305.50,619.0
+MB-70155,Samsung,Galaxy A54,2024,Mid-Range,Android,12,512,6.7,4531,50,4.4,Latin America,$285.15,948.3
+MB-70156,Samsung,Galaxy A54,2024,Mid-Range,Android,12,512,6.7,4531,50,4.4,Africa,$328.63,773.6
+MB-70157,Samsung,Galaxy S23,2022,Mid-Range,Android,8,64,6.1,3055,200,3.9,North America,$212.42,832.4
+MB-70158,Samsung,Galaxy S23,2022,Mid-Range,Android,8,64,6.1,3055,200,3.9,Europe,$223.10,"1,157.6"
+MB-70159,Samsung,Galaxy S23,2022,Mid-Range,Android,8,64,6.1,3055,200,3.9,Asia Pacific,$192.83,246.2
+MB-70160,Samsung,Galaxy S23,2022,Mid-Range,Android,8,64,6.1,3055,200,3.9,Middle East,$202.51,193.9
+MB-70161,Samsung,Galaxy S23,2022,Mid-Range,Android,8,64,6.1,3055,200,3.9,Latin America,$203.43,663.2
+MB-70162,Samsung,Galaxy S23,2022,Mid-Range,Android,8,64,6.1,3055,200,3.9,Africa,$234.75,773.8
+MB-70163,Samsung,Galaxy S24,2021,Budget,Android,4,64,6.7,5326,12,3.8,North America,$89.27,521.1
+MB-70164,Samsung,Galaxy S24,2021,Budget,Android,4,64,6.7,5326,12,3.8,Europe,$87.05,"1,114.6"
+MB-70165,Samsung,Galaxy S24,2021,Budget,Android,4,64,6.7,5326,12,3.8,Asia Pacific,$79.69,976.0
+MB-70166,Samsung,Galaxy S24,2021,Budget,Android,4,64,6.7,5326,12,3.8,Middle East,$89.71,"1,151.7"
+MB-70167,Samsung,Galaxy S24,2021,Budget,Android,4,64,6.7,5326,12,3.8,Latin America,$91.64,826.0
+MB-70168,Samsung,Galaxy S24,2021,Budget,Android,4,64,6.7,5326,12,3.8,Africa,$84.06,504.2
+MB-70169,Samsung,Galaxy S24,2023,Premium,Android,3,1024,5.5,4052,200,4.2,North America,$760.41,317.9
+MB-70170,Samsung,Galaxy S24,2023,Premium,Android,3,1024,5.5,4052,200,4.2,Europe,$666.06,350.5
+MB-70171,Samsung,Galaxy S24,2023,Premium,Android,3,1024,5.5,4052,200,4.2,Asia Pacific,$643.83,591.7
+MB-70172,Samsung,Galaxy S24,2023,Premium,Android,3,1024,5.5,4052,200,4.2,Middle East,$649.84,"1,100.1"
+MB-70173,Samsung,Galaxy S24,2023,Premium,Android,3,1024,5.5,4052,200,4.2,Latin America,$710.50,143.0
+MB-70174,Samsung,Galaxy S24,2023,Premium,Android,3,1024,5.5,4052,200,4.2,Africa,$759.50,586.7
+MB-70175,Samsung,Galaxy S24 Ultra,2021,Budget,Android,6,1024,6.8,4812,13,3.6,North America,$139.32,896.2
+MB-70176,Samsung,Galaxy S24 Ultra,2021,Budget,Android,6,1024,6.8,4812,13,3.6,Europe,$111.88,617.6
+MB-70177,Samsung,Galaxy S24 Ultra,2021,Budget,Android,6,1024,6.8,4812,13,3.6,Asia Pacific,$116.13,"1,166.8"
+MB-70178,Samsung,Galaxy S24 Ultra,2021,Budget,Android,6,1024,6.8,4812,13,3.6,Middle East,$135.45,"1,060.4"
+MB-70179,Samsung,Galaxy S24 Ultra,2021,Budget,Android,6,1024,6.8,4812,13,3.6,Latin America,$131.66,60.8
+MB-70180,Samsung,Galaxy S24 Ultra,2021,Budget,Android,6,1024,6.8,4812,13,3.6,Africa,$124.38,731.8
+MB-70181,Samsung,Galaxy S24 Ultra,2022,Budget,Android,4,32,6.1,3877,13,4.7,North America,$147.36,407.6
+MB-70182,Samsung,Galaxy S24 Ultra,2022,Budget,Android,4,32,6.1,3877,13,4.7,Europe,$146.67,280.5
+MB-70183,Samsung,Galaxy S24 Ultra,2022,Budget,Android,4,32,6.1,3877,13,4.7,Asia Pacific,$150.28,543.0
+MB-70184,Samsung,Galaxy S24 Ultra,2022,Budget,Android,4,32,6.1,3877,13,4.7,Middle East,$135.08,636.5
+MB-70185,Samsung,Galaxy S24 Ultra,2022,Budget,Android,4,32,6.1,3877,13,4.7,Latin America,$144.30,339.7
+MB-70186,Samsung,Galaxy S24 Ultra,2022,Budget,Android,4,32,6.1,3877,13,4.7,Africa,$148.40,999.1
+MB-70187,Samsung,Galaxy S24 Ultra,2023,Budget,Android,16,64,6.4,3321,12,3.8,North America,$177.30,"1,196.1"
+MB-70188,Samsung,Galaxy S24 Ultra,2023,Budget,Android,16,64,6.4,3321,12,3.8,Europe,$213.69,458.9
+MB-70189,Samsung,Galaxy S24 Ultra,2023,Budget,Android,16,64,6.4,3321,12,3.8,Asia Pacific,$181.10,204.9
+MB-70190,Samsung,Galaxy S24 Ultra,2023,Budget,Android,16,64,6.4,3321,12,3.8,Middle East,$174.23,753.0
+MB-70191,Samsung,Galaxy S24 Ultra,2023,Budget,Android,16,64,6.4,3321,12,3.8,Latin America,$203.47,324.1
+MB-70192,Samsung,Galaxy S24 Ultra,2023,Budget,Android,16,64,6.4,3321,12,3.8,Africa,$200.65,737.0
+MB-70193,Samsung,Galaxy S24 Ultra,2024,Flagship,Android,8,64,6.5,5104,13,4.9,North America,"$1,668.74",787.8
+MB-70194,Samsung,Galaxy S24 Ultra,2024,Flagship,Android,8,64,6.5,5104,13,4.9,Europe,"$1,599.36",798.5
+MB-70195,Samsung,Galaxy S24 Ultra,2024,Flagship,Android,8,64,6.5,5104,13,4.9,Asia Pacific,"$1,646.10",159.7
+MB-70196,Samsung,Galaxy S24 Ultra,2024,Flagship,Android,8,64,6.5,5104,13,4.9,Middle East,"$1,450.65",168.6
+MB-70197,Samsung,Galaxy S24 Ultra,2024,Flagship,Android,8,64,6.5,5104,13,4.9,Latin America,"$1,680.89",115.6
+MB-70198,Samsung,Galaxy S24 Ultra,2024,Flagship,Android,8,64,6.5,5104,13,4.9,Africa,"$1,473.40",917.2
+MB-70199,Samsung,Galaxy Z Flip5,2021,Budget,Android,6,1024,6.5,4193,50,4.6,North America,$143.53,"1,141.4"
+MB-70200,Samsung,Galaxy Z Flip5,2021,Budget,Android,6,1024,6.5,4193,50,4.6,Europe,$120.29,338.7
+MB-70201,Samsung,Galaxy Z Flip5,2021,Budget,Android,6,1024,6.5,4193,50,4.6,Asia Pacific,$153.61,494.1
+MB-70202,Samsung,Galaxy Z Flip5,2021,Budget,Android,6,1024,6.5,4193,50,4.6,Middle East,$139.68,"1,053.8"
+MB-70203,Samsung,Galaxy Z Flip5,2021,Budget,Android,6,1024,6.5,4193,50,4.6,Latin America,$157.40,"1,089.5"
+MB-70204,Samsung,Galaxy Z Flip5,2021,Budget,Android,6,1024,6.5,4193,50,4.6,Africa,$134.85,321.9
+MB-70205,Samsung,Galaxy Z Flip5,2022,Mid-Range,Android,4,1024,6.1,3375,48,4.6,North America,$443.73,198.1
+MB-70206,Samsung,Galaxy Z Flip5,2022,Mid-Range,Android,4,1024,6.1,3375,48,4.6,Europe,$422.81,56.6
+MB-70207,Samsung,Galaxy Z Flip5,2022,Mid-Range,Android,4,1024,6.1,3375,48,4.6,Asia Pacific,$389.60,833.5
+MB-70208,Samsung,Galaxy Z Flip5,2022,Mid-Range,Android,4,1024,6.1,3375,48,4.6,Middle East,$334.09,55.4
+MB-70209,Samsung,Galaxy Z Flip5,2022,Mid-Range,Android,4,1024,6.1,3375,48,4.6,Latin America,$410.42,393.2
+MB-70210,Samsung,Galaxy Z Flip5,2022,Mid-Range,Android,4,1024,6.1,3375,48,4.6,Africa,$345.66,282.1
+MB-70211,Samsung,Galaxy Z Flip5,2023,Premium,Android,4,32,6.1,4263,50,3.9,North America,$719.78,263.8
+MB-70212,Samsung,Galaxy Z Flip5,2023,Premium,Android,4,32,6.1,4263,50,3.9,Europe,$822.03,950.9
+MB-70213,Samsung,Galaxy Z Flip5,2023,Premium,Android,4,32,6.1,4263,50,3.9,Asia Pacific,$794.04,896.5
+MB-70214,Samsung,Galaxy Z Flip5,2023,Premium,Android,4,32,6.1,4263,50,3.9,Middle East,$703.08,296.7
+MB-70215,Samsung,Galaxy Z Flip5,2023,Premium,Android,4,32,6.1,4263,50,3.9,Latin America,$728.07,368.5
+MB-70216,Samsung,Galaxy Z Flip5,2023,Premium,Android,4,32,6.1,4263,50,3.9,Africa,$853.47,"1,050.0"
+MB-70217,Samsung,Galaxy M14,2021,Flagship,Android,16,64,6.1,4795,12,4.7,North America,"$1,151.03","1,094.4"
+MB-70218,Samsung,Galaxy M14,2021,Flagship,Android,16,64,6.1,4795,12,4.7,Europe,"$1,309.51",859.0
+MB-70219,Samsung,Galaxy M14,2021,Flagship,Android,16,64,6.1,4795,12,4.7,Asia Pacific,"$1,183.43","1,091.5"
+MB-70220,Samsung,Galaxy M14,2021,Flagship,Android,16,64,6.1,4795,12,4.7,Middle East,"$1,165.18",660.8
+MB-70221,Samsung,Galaxy M14,2021,Flagship,Android,16,64,6.1,4795,12,4.7,Latin America,"$1,402.62",966.2
+MB-70222,Samsung,Galaxy M14,2021,Flagship,Android,16,64,6.1,4795,12,4.7,Africa,"$1,239.72",42.2
+MB-70223,Samsung,Galaxy M14,2023,Mid-Range,Android,8,32,6.7,4668,48,4.9,North America,$237.70,"1,036.8"
+MB-70224,Samsung,Galaxy M14,2023,Mid-Range,Android,8,32,6.7,4668,48,4.9,Europe,$203.39,588.8
+MB-70225,Samsung,Galaxy M14,2023,Mid-Range,Android,8,32,6.7,4668,48,4.9,Asia Pacific,$227.95,681.0
+MB-70226,Samsung,Galaxy M14,2023,Mid-Range,Android,8,32,6.7,4668,48,4.9,Middle East,$205.79,"1,166.7"
+MB-70227,Samsung,Galaxy M14,2023,Mid-Range,Android,8,32,6.7,4668,48,4.9,Latin America,$195.32,"1,113.0"
+MB-70228,Samsung,Galaxy M14,2023,Mid-Range,Android,8,32,6.7,4668,48,4.9,Africa,$228.89,"1,102.5"
+MB-70229,Samsung,Galaxy M14,2024,Premium,Android,16,32,6.4,5184,64,3.6,North America,$598.26,99.3
+MB-70230,Samsung,Galaxy M14,2024,Premium,Android,16,32,6.4,5184,64,3.6,Europe,$625.73,292.1
+MB-70231,Samsung,Galaxy M14,2024,Premium,Android,16,32,6.4,5184,64,3.6,Asia Pacific,$723.35,353.1
+MB-70232,Samsung,Galaxy M14,2024,Premium,Android,16,32,6.4,5184,64,3.6,Middle East,$651.67,791.3
+MB-70233,Samsung,Galaxy M14,2024,Premium,Android,16,32,6.4,5184,64,3.6,Latin America,$693.59,926.8
+MB-70234,Samsung,Galaxy M14,2024,Premium,Android,16,32,6.4,5184,64,3.6,Africa,$679.80,381.9
+MB-70235,Xiaomi,Redmi 12,2021,Mid-Range,Android,16,128,6.1,3735,64,4.2,North America,$373.99,"1,086.8"
+MB-70236,Xiaomi,Redmi 12,2021,Mid-Range,Android,16,128,6.1,3735,64,4.2,Europe,$395.79,869.6
+MB-70237,Xiaomi,Redmi 12,2021,Mid-Range,Android,16,128,6.1,3735,64,4.2,Asia Pacific,$415.99,901.6
+MB-70238,Xiaomi,Redmi 12,2021,Mid-Range,Android,16,128,6.1,3735,64,4.2,Middle East,$393.64,644.4
+MB-70239,Xiaomi,Redmi 12,2021,Mid-Range,Android,16,128,6.1,3735,64,4.2,Latin America,$472.44,312.2
+MB-70240,Xiaomi,Redmi 12,2021,Mid-Range,Android,16,128,6.1,3735,64,4.2,Africa,$442.20,773.8
+MB-70241,Xiaomi,Redmi 12,2023,Flagship,Android,12,64,6.8,3045,64,4.6,North America,"$1,179.74",610.0
+MB-70242,Xiaomi,Redmi 12,2023,Flagship,Android,12,64,6.8,3045,64,4.6,Europe,"$1,128.55",766.3
+MB-70243,Xiaomi,Redmi 12,2023,Flagship,Android,12,64,6.8,3045,64,4.6,Asia Pacific,"$1,244.22",839.8
+MB-70244,Xiaomi,Redmi 12,2023,Flagship,Android,12,64,6.8,3045,64,4.6,Middle East,"$1,049.35","1,017.6"
+MB-70245,Xiaomi,Redmi 12,2023,Flagship,Android,12,64,6.8,3045,64,4.6,Latin America,$979.00,743.2
+MB-70246,Xiaomi,Redmi 12,2023,Flagship,Android,12,64,6.8,3045,64,4.6,Africa,"$1,151.57",234.7
+MB-70247,Xiaomi,Redmi 12,2024,Mid-Range,Android,16,128,6.8,4627,50,3.9,North America,$429.81,880.4
+MB-70248,Xiaomi,Redmi 12,2024,Mid-Range,Android,16,128,6.8,4627,50,3.9,Europe,$432.74,807.1
+MB-70249,Xiaomi,Redmi 12,2024,Mid-Range,Android,16,128,6.8,4627,50,3.9,Asia Pacific,$471.69,"1,153.1"
+MB-70250,Xiaomi,Redmi 12,2024,Mid-Range,Android,16,128,6.8,4627,50,3.9,Middle East,$434.40,618.8
+MB-70251,Xiaomi,Redmi 12,2024,Mid-Range,Android,16,128,6.8,4627,50,3.9,Latin America,$523.04,196.8
+MB-70252,Xiaomi,Redmi 12,2024,Mid-Range,Android,16,128,6.8,4627,50,3.9,Africa,$411.90,"1,037.1"
+MB-70253,Xiaomi,Redmi Note 13,2021,Flagship,Android,12,64,6.4,5437,64,4.5,North America,$922.61,810.3
+MB-70254,Xiaomi,Redmi Note 13,2021,Flagship,Android,12,64,6.4,5437,64,4.5,Europe,"$1,164.04","1,148.2"
+MB-70255,Xiaomi,Redmi Note 13,2021,Flagship,Android,12,64,6.4,5437,64,4.5,Asia Pacific,"$1,167.66",579.8
+MB-70256,Xiaomi,Redmi Note 13,2021,Flagship,Android,12,64,6.4,5437,64,4.5,Middle East,$949.21,723.2
+MB-70257,Xiaomi,Redmi Note 13,2021,Flagship,Android,12,64,6.4,5437,64,4.5,Latin America,"$1,155.43",479.3
+MB-70258,Xiaomi,Redmi Note 13,2021,Flagship,Android,12,64,6.4,5437,64,4.5,Africa,$909.16,559.2
+MB-70259,Xiaomi,Redmi Note 13,2024,Mid-Range,Android,8,256,6.4,3484,108,4.4,North America,$367.37,775.1
+MB-70260,Xiaomi,Redmi Note 13,2024,Mid-Range,Android,8,256,6.4,3484,108,4.4,Europe,$382.55,123.6
+MB-70261,Xiaomi,Redmi Note 13,2024,Mid-Range,Android,8,256,6.4,3484,108,4.4,Asia Pacific,$381.12,52.3
+MB-70262,Xiaomi,Redmi Note 13,2024,Mid-Range,Android,8,256,6.4,3484,108,4.4,Middle East,$318.02,961.7
+MB-70263,Xiaomi,Redmi Note 13,2024,Mid-Range,Android,8,256,6.4,3484,108,4.4,Latin America,$357.46,484.6
+MB-70264,Xiaomi,Redmi Note 13,2024,Mid-Range,Android,8,256,6.4,3484,108,4.4,Africa,$365.64,331.3
+MB-70265,Xiaomi,Mi 13,2021,Budget,Android,12,512,6.4,3602,48,4.2,North America,$189.61,111.1
+MB-70266,Xiaomi,Mi 13,2021,Budget,Android,12,512,6.4,3602,48,4.2,Europe,$167.38,550.3
+MB-70267,Xiaomi,Mi 13,2021,Budget,Android,12,512,6.4,3602,48,4.2,Asia Pacific,$170.85,544.6
+MB-70268,Xiaomi,Mi 13,2021,Budget,Android,12,512,6.4,3602,48,4.2,Middle East,$178.01,343.0
+MB-70269,Xiaomi,Mi 13,2021,Budget,Android,12,512,6.4,3602,48,4.2,Latin America,$158.69,73.2
+MB-70270,Xiaomi,Mi 13,2021,Budget,Android,12,512,6.4,3602,48,4.2,Africa,$185.93,"1,091.2"
+MB-70271,Xiaomi,Mi 13,2022,Mid-Range,Android,6,128,6.7,5291,50,3.8,North America,$291.78,"1,127.4"
+MB-70272,Xiaomi,Mi 13,2022,Mid-Range,Android,6,128,6.7,5291,50,3.8,Europe,$304.53,524.5
+MB-70273,Xiaomi,Mi 13,2022,Mid-Range,Android,6,128,6.7,5291,50,3.8,Asia Pacific,$303.27,"1,069.1"
+MB-70274,Xiaomi,Mi 13,2022,Mid-Range,Android,6,128,6.7,5291,50,3.8,Middle East,$257.12,969.4
+MB-70275,Xiaomi,Mi 13,2022,Mid-Range,Android,6,128,6.7,5291,50,3.8,Latin America,$254.77,"1,010.1"
+MB-70276,Xiaomi,Mi 13,2022,Mid-Range,Android,6,128,6.7,5291,50,3.8,Africa,$287.47,989.9
+MB-70277,Xiaomi,Mi 13,2024,Flagship,Android,3,256,6.8,4922,48,4.6,North America,$913.49,"1,166.9"
+MB-70278,Xiaomi,Mi 13,2024,Flagship,Android,3,256,6.8,4922,48,4.6,Europe,$893.30,276.8
+MB-70279,Xiaomi,Mi 13,2024,Flagship,Android,3,256,6.8,4922,48,4.6,Asia Pacific,$858.63,940.0
+MB-70280,Xiaomi,Mi 13,2024,Flagship,Android,3,256,6.8,4922,48,4.6,Middle East,"$1,086.87",658.3
+MB-70281,Xiaomi,Mi 13,2024,Flagship,Android,3,256,6.8,4922,48,4.6,Latin America,$999.93,245.2
+MB-70282,Xiaomi,Mi 13,2024,Flagship,Android,3,256,6.8,4922,48,4.6,Africa,"$1,097.42",638.2
+MB-70283,Xiaomi,Xiaomi 14,2021,Mid-Range,Android,4,32,6.9,4634,108,4.8,North America,$459.20,594.4
+MB-70284,Xiaomi,Xiaomi 14,2021,Mid-Range,Android,4,32,6.9,4634,108,4.8,Europe,$439.44,276.3
+MB-70285,Xiaomi,Xiaomi 14,2021,Mid-Range,Android,4,32,6.9,4634,108,4.8,Asia Pacific,$424.17,251.3
+MB-70286,Xiaomi,Xiaomi 14,2021,Mid-Range,Android,4,32,6.9,4634,108,4.8,Middle East,$407.66,877.6
+MB-70287,Xiaomi,Xiaomi 14,2021,Mid-Range,Android,4,32,6.9,4634,108,4.8,Latin America,$484.89,720.5
+MB-70288,Xiaomi,Xiaomi 14,2021,Mid-Range,Android,4,32,6.9,4634,108,4.8,Africa,$480.59,884.0
+MB-70289,Xiaomi,Xiaomi 14,2022,Budget,Android,12,128,6.9,3148,108,4.6,North America,$102.60,"1,021.6"
+MB-70290,Xiaomi,Xiaomi 14,2022,Budget,Android,12,128,6.9,3148,108,4.6,Europe,$89.06,957.7
+MB-70291,Xiaomi,Xiaomi 14,2022,Budget,Android,12,128,6.9,3148,108,4.6,Asia Pacific,$104.37,78.6
+MB-70292,Xiaomi,Xiaomi 14,2022,Budget,Android,12,128,6.9,3148,108,4.6,Middle East,$84.95,892.8
+MB-70293,Xiaomi,Xiaomi 14,2022,Budget,Android,12,128,6.9,3148,108,4.6,Latin America,$101.96,28.3
+MB-70294,Xiaomi,Xiaomi 14,2022,Budget,Android,12,128,6.9,3148,108,4.6,Africa,$90.75,44.3
+MB-70295,Xiaomi,Xiaomi 14,2023,Mid-Range,Android,8,1024,6.9,3330,64,4.7,North America,$510.65,978.9
+MB-70296,Xiaomi,Xiaomi 14,2023,Mid-Range,Android,8,1024,6.9,3330,64,4.7,Europe,$457.12,318.1
+MB-70297,Xiaomi,Xiaomi 14,2023,Mid-Range,Android,8,1024,6.9,3330,64,4.7,Asia Pacific,$417.13,225.0
+MB-70298,Xiaomi,Xiaomi 14,2023,Mid-Range,Android,8,1024,6.9,3330,64,4.7,Middle East,$541.03,"1,151.1"
+MB-70299,Xiaomi,Xiaomi 14,2023,Mid-Range,Android,8,1024,6.9,3330,64,4.7,Latin America,$531.18,685.1
+MB-70300,Xiaomi,Xiaomi 14,2023,Mid-Range,Android,8,1024,6.9,3330,64,4.7,Africa,$434.51,616.4
+MB-70301,Xiaomi,Xiaomi 14,2024,Budget,Android,3,128,6.5,3357,200,4.2,North America,$82.40,460.0
+MB-70302,Xiaomi,Xiaomi 14,2024,Budget,Android,3,128,6.5,3357,200,4.2,Europe,$72.32,"1,093.4"
+MB-70303,Xiaomi,Xiaomi 14,2024,Budget,Android,3,128,6.5,3357,200,4.2,Asia Pacific,$88.97,"1,163.2"
+MB-70304,Xiaomi,Xiaomi 14,2024,Budget,Android,3,128,6.5,3357,200,4.2,Middle East,$83.84,411.5
+MB-70305,Xiaomi,Xiaomi 14,2024,Budget,Android,3,128,6.5,3357,200,4.2,Latin America,$70.58,407.6
+MB-70306,Xiaomi,Xiaomi 14,2024,Budget,Android,3,128,6.5,3357,200,4.2,Africa,$88.19,958.4
+MB-70307,Xiaomi,Poco X6,2021,Mid-Range,Android,3,512,5.5,4966,48,4.8,North America,$338.17,90.7
+MB-70308,Xiaomi,Poco X6,2021,Mid-Range,Android,3,512,5.5,4966,48,4.8,Europe,$333.53,996.4
+MB-70309,Xiaomi,Poco X6,2021,Mid-Range,Android,3,512,5.5,4966,48,4.8,Asia Pacific,$382.52,"1,095.0"
+MB-70310,Xiaomi,Poco X6,2021,Mid-Range,Android,3,512,5.5,4966,48,4.8,Middle East,$389.59,576.3
+MB-70311,Xiaomi,Poco X6,2021,Mid-Range,Android,3,512,5.5,4966,48,4.8,Latin America,$340.63,997.6
+MB-70312,Xiaomi,Poco X6,2021,Mid-Range,Android,3,512,5.5,4966,48,4.8,Africa,$372.13,442.5
+MB-70313,Xiaomi,Poco X6,2024,Budget,Android,6,128,6.4,4580,48,3.8,North America,$145.32,984.2
+MB-70314,Xiaomi,Poco X6,2024,Budget,Android,6,128,6.4,4580,48,3.8,Europe,$152.90,"1,018.0"
+MB-70315,Xiaomi,Poco X6,2024,Budget,Android,6,128,6.4,4580,48,3.8,Asia Pacific,$178.70,662.1
+MB-70316,Xiaomi,Poco X6,2024,Budget,Android,6,128,6.4,4580,48,3.8,Middle East,$161.94,323.7
+MB-70317,Xiaomi,Poco X6,2024,Budget,Android,6,128,6.4,4580,48,3.8,Latin America,$164.30,765.0
+MB-70318,Xiaomi,Poco X6,2024,Budget,Android,6,128,6.4,4580,48,3.8,Africa,$167.59,491.8
+MB-70319,Xiaomi,Poco F6,2021,Budget,Android,12,32,6.7,3151,200,4.1,North America,$79.21,594.6
+MB-70320,Xiaomi,Poco F6,2021,Budget,Android,12,32,6.7,3151,200,4.1,Europe,$72.67,"1,016.9"
+MB-70321,Xiaomi,Poco F6,2021,Budget,Android,12,32,6.7,3151,200,4.1,Asia Pacific,$79.52,"1,158.2"
+MB-70322,Xiaomi,Poco F6,2021,Budget,Android,12,32,6.7,3151,200,4.1,Middle East,$74.45,823.2
+MB-70323,Xiaomi,Poco F6,2021,Budget,Android,12,32,6.7,3151,200,4.1,Latin America,$93.01,638.7
+MB-70324,Xiaomi,Poco F6,2021,Budget,Android,12,32,6.7,3151,200,4.1,Africa,$77.21,655.0
+MB-70325,Xiaomi,Poco F6,2023,Mid-Range,Android,8,32,6.4,3073,48,3.8,North America,$311.12,567.4
+MB-70326,Xiaomi,Poco F6,2023,Mid-Range,Android,8,32,6.4,3073,48,3.8,Europe,$281.02,85.0
+MB-70327,Xiaomi,Poco F6,2023,Mid-Range,Android,8,32,6.4,3073,48,3.8,Asia Pacific,$281.92,874.6
+MB-70328,Xiaomi,Poco F6,2023,Mid-Range,Android,8,32,6.4,3073,48,3.8,Middle East,$314.45,214.9
+MB-70329,Xiaomi,Poco F6,2023,Mid-Range,Android,8,32,6.4,3073,48,3.8,Latin America,$313.02,526.7
+MB-70330,Xiaomi,Poco F6,2023,Mid-Range,Android,8,32,6.4,3073,48,3.8,Africa,$323.44,583.7
+MB-70331,Xiaomi,Poco F6,2024,Flagship,Android,16,512,6.5,5496,12,4,North America,"$1,820.10",96.2
+MB-70332,Xiaomi,Poco F6,2024,Flagship,Android,16,512,6.5,5496,12,4,Europe,"$1,762.49",969.9
+MB-70333,Xiaomi,Poco F6,2024,Flagship,Android,16,512,6.5,5496,12,4,Asia Pacific,"$1,656.71","1,031.7"
+MB-70334,Xiaomi,Poco F6,2024,Flagship,Android,16,512,6.5,5496,12,4,Middle East,"$1,618.69","1,193.4"
+MB-70335,Xiaomi,Poco F6,2024,Flagship,Android,16,512,6.5,5496,12,4,Latin America,"$1,426.54","1,176.9"
+MB-70336,Xiaomi,Poco F6,2024,Flagship,Android,16,512,6.5,5496,12,4,Africa,"$1,666.61",457.2
+MB-70337,Xiaomi,Redmi A3,2021,Mid-Range,Android,6,128,6.8,5198,200,4,North America,$394.25,765.8
+MB-70338,Xiaomi,Redmi A3,2021,Mid-Range,Android,6,128,6.8,5198,200,4,Europe,$422.42,910.1
+MB-70339,Xiaomi,Redmi A3,2021,Mid-Range,Android,6,128,6.8,5198,200,4,Asia Pacific,$475.65,538.8
+MB-70340,Xiaomi,Redmi A3,2021,Mid-Range,Android,6,128,6.8,5198,200,4,Middle East,$461.39,"1,001.1"
+MB-70341,Xiaomi,Redmi A3,2021,Mid-Range,Android,6,128,6.8,5198,200,4,Latin America,$375.59,869.9
+MB-70342,Xiaomi,Redmi A3,2021,Mid-Range,Android,6,128,6.8,5198,200,4,Africa,$459.94,289.0
+MB-70343,Xiaomi,Redmi A3,2022,Flagship,Android,4,512,6.1,3316,50,3.5,North America,"$1,690.59",99.1
+MB-70344,Xiaomi,Redmi A3,2022,Flagship,Android,4,512,6.1,3316,50,3.5,Europe,"$1,564.13",591.2
+MB-70345,Xiaomi,Redmi A3,2022,Flagship,Android,4,512,6.1,3316,50,3.5,Asia Pacific,"$1,597.42",164.4
+MB-70346,Xiaomi,Redmi A3,2022,Flagship,Android,4,512,6.1,3316,50,3.5,Middle East,"$1,375.95","1,081.8"
+MB-70347,Xiaomi,Redmi A3,2022,Flagship,Android,4,512,6.1,3316,50,3.5,Latin America,"$1,671.25",937.8
+MB-70348,Xiaomi,Redmi A3,2022,Flagship,Android,4,512,6.1,3316,50,3.5,Africa,"$1,542.94","1,190.7"
+MB-70349,Xiaomi,Redmi A3,2023,Mid-Range,Android,6,512,6.8,5106,12,3.9,North America,$462.95,496.4
+MB-70350,Xiaomi,Redmi A3,2023,Mid-Range,Android,6,512,6.8,5106,12,3.9,Europe,$446.18,85.5
+MB-70351,Xiaomi,Redmi A3,2023,Mid-Range,Android,6,512,6.8,5106,12,3.9,Asia Pacific,$439.38,921.1
+MB-70352,Xiaomi,Redmi A3,2023,Mid-Range,Android,6,512,6.8,5106,12,3.9,Middle East,$491.68,509.0
+MB-70353,Xiaomi,Redmi A3,2023,Mid-Range,Android,6,512,6.8,5106,12,3.9,Latin America,$398.08,53.9
+MB-70354,Xiaomi,Redmi A3,2023,Mid-Range,Android,6,512,6.8,5106,12,3.9,Africa,$408.82,66.2
+MB-70355,Xiaomi,Redmi A3,2024,Premium,Android,6,1024,6.8,5195,48,4,North America,$941.82,758.7
+MB-70356,Xiaomi,Redmi A3,2024,Premium,Android,6,1024,6.8,5195,48,4,Europe,$722.09,722.1
+MB-70357,Xiaomi,Redmi A3,2024,Premium,Android,6,1024,6.8,5195,48,4,Asia Pacific,$779.16,274.8
+MB-70358,Xiaomi,Redmi A3,2024,Premium,Android,6,1024,6.8,5195,48,4,Middle East,$736.98,512.3
+MB-70359,Xiaomi,Redmi A3,2024,Premium,Android,6,1024,6.8,5195,48,4,Latin America,$715.11,"1,068.3"
+MB-70360,Xiaomi,Redmi A3,2024,Premium,Android,6,1024,6.8,5195,48,4,Africa,$798.16,"1,187.7"
+MB-70361,OnePlus,Nord 3,2021,Budget,Android,16,1024,6.1,4279,48,3.7,North America,$167.36,474.0
+MB-70362,OnePlus,Nord 3,2021,Budget,Android,16,1024,6.1,4279,48,3.7,Europe,$167.29,76.7
+MB-70363,OnePlus,Nord 3,2021,Budget,Android,16,1024,6.1,4279,48,3.7,Asia Pacific,$185.04,225.5
+MB-70364,OnePlus,Nord 3,2021,Budget,Android,16,1024,6.1,4279,48,3.7,Middle East,$204.40,769.4
+MB-70365,OnePlus,Nord 3,2021,Budget,Android,16,1024,6.1,4279,48,3.7,Latin America,$173.84,613.3
+MB-70366,OnePlus,Nord 3,2021,Budget,Android,16,1024,6.1,4279,48,3.7,Africa,$168.25,679.8
+MB-70367,OnePlus,Nord 3,2023,Budget,Android,6,1024,6.4,3293,13,4,North America,$89.07,719.1
+MB-70368,OnePlus,Nord 3,2023,Budget,Android,6,1024,6.4,3293,13,4,Europe,$89.19,392.6
+MB-70369,OnePlus,Nord 3,2023,Budget,Android,6,1024,6.4,3293,13,4,Asia Pacific,$84.44,79.7
+MB-70370,OnePlus,Nord 3,2023,Budget,Android,6,1024,6.4,3293,13,4,Middle East,$96.79,525.0
+MB-70371,OnePlus,Nord 3,2023,Budget,Android,6,1024,6.4,3293,13,4,Latin America,$87.34,519.1
+MB-70372,OnePlus,Nord 3,2023,Budget,Android,6,1024,6.4,3293,13,4,Africa,$83.62,786.6
+MB-70373,OnePlus,Nord 3,2024,Budget,Android,12,256,6.8,3650,200,4.4,North America,$170.11,"1,032.7"
+MB-70374,OnePlus,Nord 3,2024,Budget,Android,12,256,6.8,3650,200,4.4,Europe,$167.85,107.8
+MB-70375,OnePlus,Nord 3,2024,Budget,Android,12,256,6.8,3650,200,4.4,Asia Pacific,$164.30,543.3
+MB-70376,OnePlus,Nord 3,2024,Budget,Android,12,256,6.8,3650,200,4.4,Middle East,$157.08,153.5
+MB-70377,OnePlus,Nord 3,2024,Budget,Android,12,256,6.8,3650,200,4.4,Latin America,$173.38,"1,016.8"
+MB-70378,OnePlus,Nord 3,2024,Budget,Android,12,256,6.8,3650,200,4.4,Africa,$143.38,746.7
+MB-70379,OnePlus,Nord CE4,2022,Budget,Android,16,512,6.4,3170,50,4.6,North America,$102.34,663.5
+MB-70380,OnePlus,Nord CE4,2022,Budget,Android,16,512,6.4,3170,50,4.6,Europe,$108.07,616.0
+MB-70381,OnePlus,Nord CE4,2022,Budget,Android,16,512,6.4,3170,50,4.6,Asia Pacific,$118.77,"1,192.9"
+MB-70382,OnePlus,Nord CE4,2022,Budget,Android,16,512,6.4,3170,50,4.6,Middle East,$122.40,363.8
+MB-70383,OnePlus,Nord CE4,2022,Budget,Android,16,512,6.4,3170,50,4.6,Latin America,$91.77,958.0
+MB-70384,OnePlus,Nord CE4,2022,Budget,Android,16,512,6.4,3170,50,4.6,Africa,$111.94,870.9
+MB-70385,OnePlus,Nord CE4,2023,Mid-Range,Android,4,256,5.5,4012,64,4.2,North America,$540.71,564.6
+MB-70386,OnePlus,Nord CE4,2023,Mid-Range,Android,4,256,5.5,4012,64,4.2,Europe,$421.55,533.9
+MB-70387,OnePlus,Nord CE4,2023,Mid-Range,Android,4,256,5.5,4012,64,4.2,Asia Pacific,$530.77,249.0
+MB-70388,OnePlus,Nord CE4,2023,Mid-Range,Android,4,256,5.5,4012,64,4.2,Middle East,$422.26,980.0
+MB-70389,OnePlus,Nord CE4,2023,Mid-Range,Android,4,256,5.5,4012,64,4.2,Latin America,$455.22,"1,156.4"
+MB-70390,OnePlus,Nord CE4,2023,Mid-Range,Android,4,256,5.5,4012,64,4.2,Africa,$482.61,874.2
+MB-70391,OnePlus,Nord CE4,2024,Mid-Range,Android,12,32,6.9,4003,50,4.3,North America,$184.29,104.6
+MB-70392,OnePlus,Nord CE4,2024,Mid-Range,Android,12,32,6.9,4003,50,4.3,Europe,$206.12,199.4
+MB-70393,OnePlus,Nord CE4,2024,Mid-Range,Android,12,32,6.9,4003,50,4.3,Asia Pacific,$214.13,"1,111.9"
+MB-70394,OnePlus,Nord CE4,2024,Mid-Range,Android,12,32,6.9,4003,50,4.3,Middle East,$219.36,934.7
+MB-70395,OnePlus,Nord CE4,2024,Mid-Range,Android,12,32,6.9,4003,50,4.3,Latin America,$185.07,591.9
+MB-70396,OnePlus,Nord CE4,2024,Mid-Range,Android,12,32,6.9,4003,50,4.3,Africa,$180.31,52.2
+MB-70397,OnePlus,OnePlus 11,2021,Mid-Range,Android,3,1024,6.9,3757,48,4.5,North America,$490.27,351.0
+MB-70398,OnePlus,OnePlus 11,2021,Mid-Range,Android,3,1024,6.9,3757,48,4.5,Europe,$536.78,888.3
+MB-70399,OnePlus,OnePlus 11,2021,Mid-Range,Android,3,1024,6.9,3757,48,4.5,Asia Pacific,$519.32,842.6
+MB-70400,OnePlus,OnePlus 11,2021,Mid-Range,Android,3,1024,6.9,3757,48,4.5,Middle East,$449.84,650.2
+MB-70401,OnePlus,OnePlus 11,2021,Mid-Range,Android,3,1024,6.9,3757,48,4.5,Latin America,$479.03,471.8
+MB-70402,OnePlus,OnePlus 11,2021,Mid-Range,Android,3,1024,6.9,3757,48,4.5,Africa,$490.45,450.2
+MB-70403,OnePlus,OnePlus 11,2022,Flagship,Android,6,32,6.7,5158,48,3.7,North America,"$1,095.25",392.6
+MB-70404,OnePlus,OnePlus 11,2022,Flagship,Android,6,32,6.7,5158,48,3.7,Europe,"$1,260.26",620.4
+MB-70405,OnePlus,OnePlus 11,2022,Flagship,Android,6,32,6.7,5158,48,3.7,Asia Pacific,"$1,166.32",344.9
+MB-70406,OnePlus,OnePlus 11,2022,Flagship,Android,6,32,6.7,5158,48,3.7,Middle East,"$1,092.44",84.1
+MB-70407,OnePlus,OnePlus 11,2022,Flagship,Android,6,32,6.7,5158,48,3.7,Latin America,"$1,456.95",156.6
+MB-70408,OnePlus,OnePlus 11,2022,Flagship,Android,6,32,6.7,5158,48,3.7,Africa,"$1,355.35",44.6
+MB-70409,OnePlus,OnePlus 11,2023,Mid-Range,Android,8,256,6.5,4767,108,4.8,North America,$324.14,191.8
+MB-70410,OnePlus,OnePlus 11,2023,Mid-Range,Android,8,256,6.5,4767,108,4.8,Europe,$297.30,744.9
+MB-70411,OnePlus,OnePlus 11,2023,Mid-Range,Android,8,256,6.5,4767,108,4.8,Asia Pacific,$299.39,641.9
+MB-70412,OnePlus,OnePlus 11,2023,Mid-Range,Android,8,256,6.5,4767,108,4.8,Middle East,$269.51,113.5
+MB-70413,OnePlus,OnePlus 11,2023,Mid-Range,Android,8,256,6.5,4767,108,4.8,Latin America,$267.08,427.5
+MB-70414,OnePlus,OnePlus 11,2023,Mid-Range,Android,8,256,6.5,4767,108,4.8,Africa,$310.04,107.3
+MB-70415,OnePlus,OnePlus 11,2024,Premium,Android,4,128,6.7,4732,200,4.6,North America,$665.82,161.4
+MB-70416,OnePlus,OnePlus 11,2024,Premium,Android,4,128,6.7,4732,200,4.6,Europe,$681.29,547.1
+MB-70417,OnePlus,OnePlus 11,2024,Premium,Android,4,128,6.7,4732,200,4.6,Asia Pacific,$665.20,283.1
+MB-70418,OnePlus,OnePlus 11,2024,Premium,Android,4,128,6.7,4732,200,4.6,Middle East,$578.53,"1,182.2"
+MB-70419,OnePlus,OnePlus 11,2024,Premium,Android,4,128,6.7,4732,200,4.6,Latin America,$748.74,"1,166.2"
+MB-70420,OnePlus,OnePlus 11,2024,Premium,Android,4,128,6.7,4732,200,4.6,Africa,$574.23,540.5
+MB-70421,OnePlus,OnePlus 12,2021,Flagship,Android,4,32,6.1,5469,108,3.7,North America,$906.70,124.1
+MB-70422,OnePlus,OnePlus 12,2021,Flagship,Android,4,32,6.1,5469,108,3.7,Europe,$943.94,361.1
+MB-70423,OnePlus,OnePlus 12,2021,Flagship,Android,4,32,6.1,5469,108,3.7,Asia Pacific,$827.81,634.5
+MB-70424,OnePlus,OnePlus 12,2021,Flagship,Android,4,32,6.1,5469,108,3.7,Middle East,$767.45,"1,104.3"
+MB-70425,OnePlus,OnePlus 12,2021,Flagship,Android,4,32,6.1,5469,108,3.7,Latin America,$842.02,963.3
+MB-70426,OnePlus,OnePlus 12,2021,Flagship,Android,4,32,6.1,5469,108,3.7,Africa,$929.91,"1,079.5"
+MB-70427,OnePlus,OnePlus 12,2022,Budget,Android,12,512,6.7,4472,200,4.8,North America,$173.94,801.5
+MB-70428,OnePlus,OnePlus 12,2022,Budget,Android,12,512,6.7,4472,200,4.8,Europe,$174.18,726.3
+MB-70429,OnePlus,OnePlus 12,2022,Budget,Android,12,512,6.7,4472,200,4.8,Asia Pacific,$185.68,977.2
+MB-70430,OnePlus,OnePlus 12,2022,Budget,Android,12,512,6.7,4472,200,4.8,Middle East,$204.27,"1,040.8"
+MB-70431,OnePlus,OnePlus 12,2022,Budget,Android,12,512,6.7,4472,200,4.8,Latin America,$166.50,906.7
+MB-70432,OnePlus,OnePlus 12,2022,Budget,Android,12,512,6.7,4472,200,4.8,Africa,$160.05,405.5
+MB-70433,OnePlus,OnePlus 12,2023,Budget,Android,12,32,5.5,5291,50,4.6,North America,$108.69,289.6
+MB-70434,OnePlus,OnePlus 12,2023,Budget,Android,12,32,5.5,5291,50,4.6,Europe,$120.11,551.7
+MB-70435,OnePlus,OnePlus 12,2023,Budget,Android,12,32,5.5,5291,50,4.6,Asia Pacific,$99.29,"1,111.4"
+MB-70436,OnePlus,OnePlus 12,2023,Budget,Android,12,32,5.5,5291,50,4.6,Middle East,$127.19,107.9
+MB-70437,OnePlus,OnePlus 12,2023,Budget,Android,12,32,5.5,5291,50,4.6,Latin America,$129.68,31.9
+MB-70438,OnePlus,OnePlus 12,2023,Budget,Android,12,32,5.5,5291,50,4.6,Africa,$132.55,227.6
+MB-70439,OnePlus,OnePlus 12,2024,Mid-Range,Android,8,64,6.5,3239,200,3.7,North America,$392.47,638.8
+MB-70440,OnePlus,OnePlus 12,2024,Mid-Range,Android,8,64,6.5,3239,200,3.7,Europe,$433.75,"1,179.3"
+MB-70441,OnePlus,OnePlus 12,2024,Mid-Range,Android,8,64,6.5,3239,200,3.7,Asia Pacific,$506.30,269.3
+MB-70442,OnePlus,OnePlus 12,2024,Mid-Range,Android,8,64,6.5,3239,200,3.7,Middle East,$412.89,934.1
+MB-70443,OnePlus,OnePlus 12,2024,Mid-Range,Android,8,64,6.5,3239,200,3.7,Latin America,$491.52,967.9
+MB-70444,OnePlus,OnePlus 12,2024,Mid-Range,Android,8,64,6.5,3239,200,3.7,Africa,$406.09,69.4
+MB-70445,OnePlus,OnePlus 12R,2021,Mid-Range,Android,6,1024,6.8,4460,12,3.7,North America,$263.28,831.6
+MB-70446,OnePlus,OnePlus 12R,2021,Mid-Range,Android,6,1024,6.8,4460,12,3.7,Europe,$204.24,202.3
+MB-70447,OnePlus,OnePlus 12R,2021,Mid-Range,Android,6,1024,6.8,4460,12,3.7,Asia Pacific,$265.70,491.9
+MB-70448,OnePlus,OnePlus 12R,2021,Mid-Range,Android,6,1024,6.8,4460,12,3.7,Middle East,$209.53,76.0
+MB-70449,OnePlus,OnePlus 12R,2021,Mid-Range,Android,6,1024,6.8,4460,12,3.7,Latin America,$253.48,776.4
+MB-70450,OnePlus,OnePlus 12R,2021,Mid-Range,Android,6,1024,6.8,4460,12,3.7,Africa,$202.97,545.0
+MB-70451,OnePlus,OnePlus 12R,2022,Budget,Android,3,256,6.1,3420,108,4.2,North America,$80.88,986.2
+MB-70452,OnePlus,OnePlus 12R,2022,Budget,Android,3,256,6.1,3420,108,4.2,Europe,$96.69,471.0
+MB-70453,OnePlus,OnePlus 12R,2022,Budget,Android,3,256,6.1,3420,108,4.2,Asia Pacific,$80.71,679.7
+MB-70454,OnePlus,OnePlus 12R,2022,Budget,Android,3,256,6.1,3420,108,4.2,Middle East,$102.05,646.4
+MB-70455,OnePlus,OnePlus 12R,2022,Budget,Android,3,256,6.1,3420,108,4.2,Latin America,$101.19,983.3
+MB-70456,OnePlus,OnePlus 12R,2022,Budget,Android,3,256,6.1,3420,108,4.2,Africa,$77.08,33.2
+MB-70457,OnePlus,OnePlus 12R,2023,Budget,Android,6,256,6.7,3690,50,4.6,North America,$166.87,738.3
+MB-70458,OnePlus,OnePlus 12R,2023,Budget,Android,6,256,6.7,3690,50,4.6,Europe,$197.02,222.4
+MB-70459,OnePlus,OnePlus 12R,2023,Budget,Android,6,256,6.7,3690,50,4.6,Asia Pacific,$210.35,918.3
+MB-70460,OnePlus,OnePlus 12R,2023,Budget,Android,6,256,6.7,3690,50,4.6,Middle East,$195.73,"1,086.3"
+MB-70461,OnePlus,OnePlus 12R,2023,Budget,Android,6,256,6.7,3690,50,4.6,Latin America,$219.24,561.2
+MB-70462,OnePlus,OnePlus 12R,2023,Budget,Android,6,256,6.7,3690,50,4.6,Africa,$174.68,762.1
+MB-70463,OnePlus,OnePlus 12R,2024,Mid-Range,Android,16,32,5.5,3470,13,3.9,North America,$358.37,871.4
+MB-70464,OnePlus,OnePlus 12R,2024,Mid-Range,Android,16,32,5.5,3470,13,3.9,Europe,$391.37,889.4
+MB-70465,OnePlus,OnePlus 12R,2024,Mid-Range,Android,16,32,5.5,3470,13,3.9,Asia Pacific,$398.31,"1,034.2"
+MB-70466,OnePlus,OnePlus 12R,2024,Mid-Range,Android,16,32,5.5,3470,13,3.9,Middle East,$361.96,925.7
+MB-70467,OnePlus,OnePlus 12R,2024,Mid-Range,Android,16,32,5.5,3470,13,3.9,Latin America,$405.37,107.2
+MB-70468,OnePlus,OnePlus 12R,2024,Mid-Range,Android,16,32,5.5,3470,13,3.9,Africa,$415.65,155.3
+MB-70469,OnePlus,OnePlus Open,2021,Premium,Android,16,128,5.5,5376,12,4.8,North America,$973.77,766.0
+MB-70470,OnePlus,OnePlus Open,2021,Premium,Android,16,128,5.5,5376,12,4.8,Europe,$918.46,66.3
+MB-70471,OnePlus,OnePlus Open,2021,Premium,Android,16,128,5.5,5376,12,4.8,Asia Pacific,$939.55,25.5
+MB-70472,OnePlus,OnePlus Open,2021,Premium,Android,16,128,5.5,5376,12,4.8,Middle East,$915.74,146.1
+MB-70473,OnePlus,OnePlus Open,2021,Premium,Android,16,128,5.5,5376,12,4.8,Latin America,$924.02,414.9
+MB-70474,OnePlus,OnePlus Open,2021,Premium,Android,16,128,5.5,5376,12,4.8,Africa,$869.57,"1,132.3"
+MB-70475,OnePlus,OnePlus Open,2022,Premium,Android,4,128,6.7,3126,108,4.5,North America,$640.08,266.2
+MB-70476,OnePlus,OnePlus Open,2022,Premium,Android,4,128,6.7,3126,108,4.5,Europe,$690.17,862.6
+MB-70477,OnePlus,OnePlus Open,2022,Premium,Android,4,128,6.7,3126,108,4.5,Asia Pacific,$585.32,220.4
+MB-70478,OnePlus,OnePlus Open,2022,Premium,Android,4,128,6.7,3126,108,4.5,Middle East,$590.79,946.9
+MB-70479,OnePlus,OnePlus Open,2022,Premium,Android,4,128,6.7,3126,108,4.5,Latin America,$632.32,215.1
+MB-70480,OnePlus,OnePlus Open,2022,Premium,Android,4,128,6.7,3126,108,4.5,Africa,$591.32,954.3
+MB-70481,OnePlus,OnePlus Open,2023,Budget,Android,4,128,6.7,3389,48,4,North America,$140.76,"1,118.2"
+MB-70482,OnePlus,OnePlus Open,2023,Budget,Android,4,128,6.7,3389,48,4,Europe,$131.80,"1,161.4"
+MB-70483,OnePlus,OnePlus Open,2023,Budget,Android,4,128,6.7,3389,48,4,Asia Pacific,$122.59,717.6
+MB-70484,OnePlus,OnePlus Open,2023,Budget,Android,4,128,6.7,3389,48,4,Middle East,$137.21,269.3
+MB-70485,OnePlus,OnePlus Open,2023,Budget,Android,4,128,6.7,3389,48,4,Latin America,$112.13,718.5
+MB-70486,OnePlus,OnePlus Open,2023,Budget,Android,4,128,6.7,3389,48,4,Africa,$139.79,287.8
+MB-70487,OnePlus,OnePlus Open,2024,Mid-Range,Android,4,64,6.5,3303,64,4.3,North America,$228.78,752.5
+MB-70488,OnePlus,OnePlus Open,2024,Mid-Range,Android,4,64,6.5,3303,64,4.3,Europe,$289.33,247.8
+MB-70489,OnePlus,OnePlus Open,2024,Mid-Range,Android,4,64,6.5,3303,64,4.3,Asia Pacific,$277.63,198.4
+MB-70490,OnePlus,OnePlus Open,2024,Mid-Range,Android,4,64,6.5,3303,64,4.3,Middle East,$257.77,508.6
+MB-70491,OnePlus,OnePlus Open,2024,Mid-Range,Android,4,64,6.5,3303,64,4.3,Latin America,$258.34,"1,051.4"
+MB-70492,OnePlus,OnePlus Open,2024,Mid-Range,Android,4,64,6.5,3303,64,4.3,Africa,$292.26,"1,056.0"
+MB-70493,Google,Pixel 7a,2021,Budget,Android,8,128,6.4,5417,64,3.8,North America,$126.80,880.1
+MB-70494,Google,Pixel 7a,2021,Budget,Android,8,128,6.4,5417,64,3.8,Europe,$123.41,"1,068.5"
+MB-70495,Google,Pixel 7a,2021,Budget,Android,8,128,6.4,5417,64,3.8,Asia Pacific,$130.70,136.9
+MB-70496,Google,Pixel 7a,2021,Budget,Android,8,128,6.4,5417,64,3.8,Middle East,$136.00,693.6
+MB-70497,Google,Pixel 7a,2021,Budget,Android,8,128,6.4,5417,64,3.8,Latin America,$113.71,625.9
+MB-70498,Google,Pixel 7a,2021,Budget,Android,8,128,6.4,5417,64,3.8,Africa,$122.25,534.5
+MB-70499,Google,Pixel 7a,2022,Mid-Range,Android,12,512,6.1,5266,200,3.9,North America,$455.97,874.4
+MB-70500,Google,Pixel 7a,2022,Mid-Range,Android,12,512,6.1,5266,200,3.9,Europe,$526.72,"1,154.4"
+MB-70501,Google,Pixel 7a,2022,Mid-Range,Android,12,512,6.1,5266,200,3.9,Asia Pacific,$515.62,325.7
+MB-70502,Google,Pixel 7a,2022,Mid-Range,Android,12,512,6.1,5266,200,3.9,Middle East,$435.42,634.1
+MB-70503,Google,Pixel 7a,2022,Mid-Range,Android,12,512,6.1,5266,200,3.9,Latin America,$462.30,519.5
+MB-70504,Google,Pixel 7a,2022,Mid-Range,Android,12,512,6.1,5266,200,3.9,Africa,$486.61,901.0
+MB-70505,Google,Pixel 7a,2023,Mid-Range,Android,12,128,6.4,3013,50,4.2,North America,$305.69,689.8
+MB-70506,Google,Pixel 7a,2023,Mid-Range,Android,12,128,6.4,3013,50,4.2,Europe,$289.89,106.7
+MB-70507,Google,Pixel 7a,2023,Mid-Range,Android,12,128,6.4,3013,50,4.2,Asia Pacific,$302.34,836.4
+MB-70508,Google,Pixel 7a,2023,Mid-Range,Android,12,128,6.4,3013,50,4.2,Middle East,$294.35,927.2
+MB-70509,Google,Pixel 7a,2023,Mid-Range,Android,12,128,6.4,3013,50,4.2,Latin America,$266.25,652.7
+MB-70510,Google,Pixel 7a,2023,Mid-Range,Android,12,128,6.4,3013,50,4.2,Africa,$252.44,414.9
+MB-70511,Google,Pixel 7a,2024,Premium,Android,4,64,5.5,4872,108,4.7,North America,$763.64,539.6
+MB-70512,Google,Pixel 7a,2024,Premium,Android,4,64,5.5,4872,108,4.7,Europe,$785.11,860.8
+MB-70513,Google,Pixel 7a,2024,Premium,Android,4,64,5.5,4872,108,4.7,Asia Pacific,$719.65,956.2
+MB-70514,Google,Pixel 7a,2024,Premium,Android,4,64,5.5,4872,108,4.7,Middle East,$648.01,60.1
+MB-70515,Google,Pixel 7a,2024,Premium,Android,4,64,5.5,4872,108,4.7,Latin America,$684.36,337.4
+MB-70516,Google,Pixel 7a,2024,Premium,Android,4,64,5.5,4872,108,4.7,Africa,$719.09,720.6
+MB-70517,Google,Pixel 8,2021,Budget,Android,16,1024,6.7,3576,108,3.9,North America,$192.29,109.4
+MB-70518,Google,Pixel 8,2021,Budget,Android,16,1024,6.7,3576,108,3.9,Europe,$174.16,621.4
+MB-70519,Google,Pixel 8,2021,Budget,Android,16,1024,6.7,3576,108,3.9,Asia Pacific,$186.80,627.8
+MB-70520,Google,Pixel 8,2021,Budget,Android,16,1024,6.7,3576,108,3.9,Middle East,$159.39,184.6
+MB-70521,Google,Pixel 8,2021,Budget,Android,16,1024,6.7,3576,108,3.9,Latin America,$159.09,982.6
+MB-70522,Google,Pixel 8,2021,Budget,Android,16,1024,6.7,3576,108,3.9,Africa,$193.64,121.9
+MB-70523,Google,Pixel 8,2022,Premium,Android,6,128,6.5,4990,64,4,North America,$531.67,174.9
+MB-70524,Google,Pixel 8,2022,Premium,Android,6,128,6.5,4990,64,4,Europe,$520.96,348.6
+MB-70525,Google,Pixel 8,2022,Premium,Android,6,128,6.5,4990,64,4,Asia Pacific,$533.18,995.5
+MB-70526,Google,Pixel 8,2022,Premium,Android,6,128,6.5,4990,64,4,Middle East,$477.68,"1,187.8"
+MB-70527,Google,Pixel 8,2022,Premium,Android,6,128,6.5,4990,64,4,Latin America,$455.90,226.3
+MB-70528,Google,Pixel 8,2022,Premium,Android,6,128,6.5,4990,64,4,Africa,$490.77,848.6
+MB-70529,Google,Pixel 8,2024,Flagship,Android,12,64,6.7,4088,13,4.8,North America,"$1,387.92",610.4
+MB-70530,Google,Pixel 8,2024,Flagship,Android,12,64,6.7,4088,13,4.8,Europe,"$1,426.54",610.7
+MB-70531,Google,Pixel 8,2024,Flagship,Android,12,64,6.7,4088,13,4.8,Asia Pacific,"$1,532.52",370.4
+MB-70532,Google,Pixel 8,2024,Flagship,Android,12,64,6.7,4088,13,4.8,Middle East,"$1,457.47","1,047.3"
+MB-70533,Google,Pixel 8,2024,Flagship,Android,12,64,6.7,4088,13,4.8,Latin America,"$1,397.79",856.0
+MB-70534,Google,Pixel 8,2024,Flagship,Android,12,64,6.7,4088,13,4.8,Africa,"$1,439.42",271.7
+MB-70535,Google,Pixel 8 Pro,2021,Mid-Range,Android,6,512,5.5,4476,12,4.2,North America,$229.35,303.4
+MB-70536,Google,Pixel 8 Pro,2021,Mid-Range,Android,6,512,5.5,4476,12,4.2,Europe,$249.62,865.8
+MB-70537,Google,Pixel 8 Pro,2021,Mid-Range,Android,6,512,5.5,4476,12,4.2,Asia Pacific,$245.92,31.7
+MB-70538,Google,Pixel 8 Pro,2021,Mid-Range,Android,6,512,5.5,4476,12,4.2,Middle East,$220.60,389.0
+MB-70539,Google,Pixel 8 Pro,2021,Mid-Range,Android,6,512,5.5,4476,12,4.2,Latin America,$262.76,31.9
+MB-70540,Google,Pixel 8 Pro,2021,Mid-Range,Android,6,512,5.5,4476,12,4.2,Africa,$279.92,967.2
+MB-70541,Google,Pixel 8 Pro,2022,Budget,Android,6,128,6.1,4382,48,3.7,North America,$151.41,568.9
+MB-70542,Google,Pixel 8 Pro,2022,Budget,Android,6,128,6.1,4382,48,3.7,Europe,$151.63,996.9
+MB-70543,Google,Pixel 8 Pro,2022,Budget,Android,6,128,6.1,4382,48,3.7,Asia Pacific,$167.47,762.2
+MB-70544,Google,Pixel 8 Pro,2022,Budget,Android,6,128,6.1,4382,48,3.7,Middle East,$151.99,"1,038.1"
+MB-70545,Google,Pixel 8 Pro,2022,Budget,Android,6,128,6.1,4382,48,3.7,Latin America,$169.08,920.5
+MB-70546,Google,Pixel 8 Pro,2022,Budget,Android,6,128,6.1,4382,48,3.7,Africa,$162.98,"1,027.2"
+MB-70547,Google,Pixel 8 Pro,2023,Premium,Android,12,512,5.5,4221,12,4.8,North America,$658.26,427.1
+MB-70548,Google,Pixel 8 Pro,2023,Premium,Android,12,512,5.5,4221,12,4.8,Europe,$647.15,396.5
+MB-70549,Google,Pixel 8 Pro,2023,Premium,Android,12,512,5.5,4221,12,4.8,Asia Pacific,$537.66,"1,066.9"
+MB-70550,Google,Pixel 8 Pro,2023,Premium,Android,12,512,5.5,4221,12,4.8,Middle East,$532.16,330.8
+MB-70551,Google,Pixel 8 Pro,2023,Premium,Android,12,512,5.5,4221,12,4.8,Latin America,$556.01,577.2
+MB-70552,Google,Pixel 8 Pro,2023,Premium,Android,12,512,5.5,4221,12,4.8,Africa,$668.60,606.4
+MB-70553,Google,Pixel 8 Pro,2024,Flagship,Android,12,512,6.1,3935,50,4.7,North America,$877.37,963.8
+MB-70554,Google,Pixel 8 Pro,2024,Flagship,Android,12,512,6.1,3935,50,4.7,Europe,"$1,071.36",49.5
+MB-70555,Google,Pixel 8 Pro,2024,Flagship,Android,12,512,6.1,3935,50,4.7,Asia Pacific,$863.51,384.2
+MB-70556,Google,Pixel 8 Pro,2024,Flagship,Android,12,512,6.1,3935,50,4.7,Middle East,"$1,058.19",158.6
+MB-70557,Google,Pixel 8 Pro,2024,Flagship,Android,12,512,6.1,3935,50,4.7,Latin America,$834.48,"1,070.5"
+MB-70558,Google,Pixel 8 Pro,2024,Flagship,Android,12,512,6.1,3935,50,4.7,Africa,$902.87,636.5
+MB-70559,Google,Pixel 8a,2021,Premium,Android,3,128,6.9,4785,50,3.6,North America,$513.31,542.8
+MB-70560,Google,Pixel 8a,2021,Premium,Android,3,128,6.9,4785,50,3.6,Europe,$526.77,92.6
+MB-70561,Google,Pixel 8a,2021,Premium,Android,3,128,6.9,4785,50,3.6,Asia Pacific,$595.35,"1,146.1"
+MB-70562,Google,Pixel 8a,2021,Premium,Android,3,128,6.9,4785,50,3.6,Middle East,$580.64,523.4
+MB-70563,Google,Pixel 8a,2021,Premium,Android,3,128,6.9,4785,50,3.6,Latin America,$577.39,467.5
+MB-70564,Google,Pixel 8a,2021,Premium,Android,3,128,6.9,4785,50,3.6,Africa,$626.94,316.4
+MB-70565,Google,Pixel 8a,2022,Mid-Range,Android,6,64,6.9,3147,64,3.7,North America,$335.81,"1,089.6"
+MB-70566,Google,Pixel 8a,2022,Mid-Range,Android,6,64,6.9,3147,64,3.7,Europe,$357.28,137.7
+MB-70567,Google,Pixel 8a,2022,Mid-Range,Android,6,64,6.9,3147,64,3.7,Asia Pacific,$324.46,778.0
+MB-70568,Google,Pixel 8a,2022,Mid-Range,Android,6,64,6.9,3147,64,3.7,Middle East,$418.21,774.3
+MB-70569,Google,Pixel 8a,2022,Mid-Range,Android,6,64,6.9,3147,64,3.7,Latin America,$402.85,936.1
+MB-70570,Google,Pixel 8a,2022,Mid-Range,Android,6,64,6.9,3147,64,3.7,Africa,$348.84,194.4
+MB-70571,Google,Pixel 8a,2024,Flagship,Android,6,1024,6.7,4908,64,3.7,North America,"$1,742.39",694.1
+MB-70572,Google,Pixel 8a,2024,Flagship,Android,6,1024,6.7,4908,64,3.7,Europe,"$1,816.23",704.9
+MB-70573,Google,Pixel 8a,2024,Flagship,Android,6,1024,6.7,4908,64,3.7,Asia Pacific,"$1,991.32",317.7
+MB-70574,Google,Pixel 8a,2024,Flagship,Android,6,1024,6.7,4908,64,3.7,Middle East,"$1,759.46",37.2
+MB-70575,Google,Pixel 8a,2024,Flagship,Android,6,1024,6.7,4908,64,3.7,Latin America,"$1,751.05","1,196.7"
+MB-70576,Google,Pixel 8a,2024,Flagship,Android,6,1024,6.7,4908,64,3.7,Africa,"$1,829.77",30.1
+MB-70577,Google,Pixel 9,2021,Mid-Range,Android,16,64,6.8,4070,12,3.6,North America,$549.39,757.6
+MB-70578,Google,Pixel 9,2021,Mid-Range,Android,16,64,6.8,4070,12,3.6,Europe,$548.27,892.9
+MB-70579,Google,Pixel 9,2021,Mid-Range,Android,16,64,6.8,4070,12,3.6,Asia Pacific,$432.06,"1,192.3"
+MB-70580,Google,Pixel 9,2021,Mid-Range,Android,16,64,6.8,4070,12,3.6,Middle East,$481.66,225.2
+MB-70581,Google,Pixel 9,2021,Mid-Range,Android,16,64,6.8,4070,12,3.6,Latin America,$484.27,138.2
+MB-70582,Google,Pixel 9,2021,Mid-Range,Android,16,64,6.8,4070,12,3.6,Africa,$451.68,980.0
+MB-70583,Google,Pixel 9,2022,Budget,Android,3,32,5.5,5004,64,4.3,North America,$184.31,23.8
+MB-70584,Google,Pixel 9,2022,Budget,Android,3,32,5.5,5004,64,4.3,Europe,$189.12,346.3
+MB-70585,Google,Pixel 9,2022,Budget,Android,3,32,5.5,5004,64,4.3,Asia Pacific,$170.93,287.8
+MB-70586,Google,Pixel 9,2022,Budget,Android,3,32,5.5,5004,64,4.3,Middle East,$155.63,"1,038.0"
+MB-70587,Google,Pixel 9,2022,Budget,Android,3,32,5.5,5004,64,4.3,Latin America,$180.72,949.7
+MB-70588,Google,Pixel 9,2022,Budget,Android,3,32,5.5,5004,64,4.3,Africa,$183.56,329.0
+MB-70589,Google,Pixel 9,2023,Mid-Range,Android,3,64,6.7,5150,64,3.7,North America,$324.82,311.5
+MB-70590,Google,Pixel 9,2023,Mid-Range,Android,3,64,6.7,5150,64,3.7,Europe,$374.10,"1,159.4"
+MB-70591,Google,Pixel 9,2023,Mid-Range,Android,3,64,6.7,5150,64,3.7,Asia Pacific,$351.52,"1,010.8"
+MB-70592,Google,Pixel 9,2023,Mid-Range,Android,3,64,6.7,5150,64,3.7,Middle East,$354.31,208.1
+MB-70593,Google,Pixel 9,2023,Mid-Range,Android,3,64,6.7,5150,64,3.7,Latin America,$315.76,692.7
+MB-70594,Google,Pixel 9,2023,Mid-Range,Android,3,64,6.7,5150,64,3.7,Africa,$352.71,465.2
+MB-70595,Google,Pixel 9,2024,Budget,Android,12,64,6.4,5459,64,3.8,North America,$182.94,801.1
+MB-70596,Google,Pixel 9,2024,Budget,Android,12,64,6.4,5459,64,3.8,Europe,$186.14,95.4
+MB-70597,Google,Pixel 9,2024,Budget,Android,12,64,6.4,5459,64,3.8,Asia Pacific,$202.51,"1,107.5"
+MB-70598,Google,Pixel 9,2024,Budget,Android,12,64,6.4,5459,64,3.8,Middle East,$186.33,55.2
+MB-70599,Google,Pixel 9,2024,Budget,Android,12,64,6.4,5459,64,3.8,Latin America,$171.98,386.4
+MB-70600,Google,Pixel 9,2024,Budget,Android,12,64,6.4,5459,64,3.8,Africa,$152.50,554.5
+MB-70601,Google,Pixel 9 Pro,2021,Budget,Android,3,512,6.7,5267,48,3.5,North America,$182.46,141.2
+MB-70602,Google,Pixel 9 Pro,2021,Budget,Android,3,512,6.7,5267,48,3.5,Europe,$163.77,471.4
+MB-70603,Google,Pixel 9 Pro,2021,Budget,Android,3,512,6.7,5267,48,3.5,Asia Pacific,$167.97,126.0
+MB-70604,Google,Pixel 9 Pro,2021,Budget,Android,3,512,6.7,5267,48,3.5,Middle East,$162.78,977.6
+MB-70605,Google,Pixel 9 Pro,2021,Budget,Android,3,512,6.7,5267,48,3.5,Latin America,$161.53,909.5
+MB-70606,Google,Pixel 9 Pro,2021,Budget,Android,3,512,6.7,5267,48,3.5,Africa,$197.53,981.1
+MB-70607,Google,Pixel 9 Pro,2022,Mid-Range,Android,8,64,6.8,3964,13,4.7,North America,$491.22,927.4
+MB-70608,Google,Pixel 9 Pro,2022,Mid-Range,Android,8,64,6.8,3964,13,4.7,Europe,$555.11,372.3
+MB-70609,Google,Pixel 9 Pro,2022,Mid-Range,Android,8,64,6.8,3964,13,4.7,Asia Pacific,$476.17,215.1
+MB-70610,Google,Pixel 9 Pro,2022,Mid-Range,Android,8,64,6.8,3964,13,4.7,Middle East,$448.01,772.9
+MB-70611,Google,Pixel 9 Pro,2022,Mid-Range,Android,8,64,6.8,3964,13,4.7,Latin America,$555.65,298.4
+MB-70612,Google,Pixel 9 Pro,2022,Mid-Range,Android,8,64,6.8,3964,13,4.7,Africa,$546.39,488.6
+MB-70613,Google,Pixel 9 Pro,2023,Mid-Range,Android,16,32,6.8,4456,12,3.8,North America,$500.83,791.2
+MB-70614,Google,Pixel 9 Pro,2023,Mid-Range,Android,16,32,6.8,4456,12,3.8,Europe,$415.91,755.1
+MB-70615,Google,Pixel 9 Pro,2023,Mid-Range,Android,16,32,6.8,4456,12,3.8,Asia Pacific,$384.33,999.7
+MB-70616,Google,Pixel 9 Pro,2023,Mid-Range,Android,16,32,6.8,4456,12,3.8,Middle East,$379.46,967.6
+MB-70617,Google,Pixel 9 Pro,2023,Mid-Range,Android,16,32,6.8,4456,12,3.8,Latin America,$473.34,"1,157.8"
+MB-70618,Google,Pixel 9 Pro,2023,Mid-Range,Android,16,32,6.8,4456,12,3.8,Africa,$437.40,"1,182.6"
+MB-70619,Google,Pixel 9 Pro,2024,Mid-Range,Android,12,256,5.5,3291,50,3.9,North America,$488.26,312.8
+MB-70620,Google,Pixel 9 Pro,2024,Mid-Range,Android,12,256,5.5,3291,50,3.9,Europe,$408.37,408.1
+MB-70621,Google,Pixel 9 Pro,2024,Mid-Range,Android,12,256,5.5,3291,50,3.9,Asia Pacific,$398.40,658.9
+MB-70622,Google,Pixel 9 Pro,2024,Mid-Range,Android,12,256,5.5,3291,50,3.9,Middle East,$396.52,549.9
+MB-70623,Google,Pixel 9 Pro,2024,Mid-Range,Android,12,256,5.5,3291,50,3.9,Latin America,$463.27,533.1
+MB-70624,Google,Pixel 9 Pro,2024,Mid-Range,Android,12,256,5.5,3291,50,3.9,Africa,$480.04,917.4
+MB-70625,Oppo,A78,2021,Budget,Android,16,256,6.8,4998,48,4.3,North America,$152.91,"1,126.1"
+MB-70626,Oppo,A78,2021,Budget,Android,16,256,6.8,4998,48,4.3,Europe,$154.35,433.1
+MB-70627,Oppo,A78,2021,Budget,Android,16,256,6.8,4998,48,4.3,Asia Pacific,$171.30,865.8
+MB-70628,Oppo,A78,2021,Budget,Android,16,256,6.8,4998,48,4.3,Middle East,$164.97,387.7
+MB-70629,Oppo,A78,2021,Budget,Android,16,256,6.8,4998,48,4.3,Latin America,$163.39,583.8
+MB-70630,Oppo,A78,2021,Budget,Android,16,256,6.8,4998,48,4.3,Africa,$179.83,594.5
+MB-70631,Oppo,A78,2024,Premium,Android,16,256,6.4,5415,200,4.8,North America,$793.36,522.0
+MB-70632,Oppo,A78,2024,Premium,Android,16,256,6.4,5415,200,4.8,Europe,$794.86,606.5
+MB-70633,Oppo,A78,2024,Premium,Android,16,256,6.4,5415,200,4.8,Asia Pacific,$646.07,822.8
+MB-70634,Oppo,A78,2024,Premium,Android,16,256,6.4,5415,200,4.8,Middle East,$653.75,964.2
+MB-70635,Oppo,A78,2024,Premium,Android,16,256,6.4,5415,200,4.8,Latin America,$770.89,"1,160.8"
+MB-70636,Oppo,A78,2024,Premium,Android,16,256,6.4,5415,200,4.8,Africa,$649.55,708.9
+MB-70637,Oppo,Reno 10,2021,Budget,Android,8,512,6.7,5275,64,3.6,North America,$126.67,"1,100.3"
+MB-70638,Oppo,Reno 10,2021,Budget,Android,8,512,6.7,5275,64,3.6,Europe,$109.03,594.2
+MB-70639,Oppo,Reno 10,2021,Budget,Android,8,512,6.7,5275,64,3.6,Asia Pacific,$114.03,971.9
+MB-70640,Oppo,Reno 10,2021,Budget,Android,8,512,6.7,5275,64,3.6,Middle East,$134.02,520.1
+MB-70641,Oppo,Reno 10,2021,Budget,Android,8,512,6.7,5275,64,3.6,Latin America,$121.75,83.8
+MB-70642,Oppo,Reno 10,2021,Budget,Android,8,512,6.7,5275,64,3.6,Africa,$106.16,248.9
+MB-70643,Oppo,Reno 10,2022,Flagship,Android,3,512,6.4,4851,108,3.6,North America,"$1,000.68",374.0
+MB-70644,Oppo,Reno 10,2022,Flagship,Android,3,512,6.4,4851,108,3.6,Europe,$971.51,158.7
+MB-70645,Oppo,Reno 10,2022,Flagship,Android,3,512,6.4,4851,108,3.6,Asia Pacific,"$1,123.32",448.0
+MB-70646,Oppo,Reno 10,2022,Flagship,Android,3,512,6.4,4851,108,3.6,Middle East,"$1,013.28","1,022.3"
+MB-70647,Oppo,Reno 10,2022,Flagship,Android,3,512,6.4,4851,108,3.6,Latin America,"$1,139.77",944.9
+MB-70648,Oppo,Reno 10,2022,Flagship,Android,3,512,6.4,4851,108,3.6,Africa,$974.99,127.9
+MB-70649,Oppo,Reno 10,2023,Budget,Android,12,64,6.9,3775,200,4.7,North America,$172.38,181.1
+MB-70650,Oppo,Reno 10,2023,Budget,Android,12,64,6.9,3775,200,4.7,Europe,$168.69,92.8
+MB-70651,Oppo,Reno 10,2023,Budget,Android,12,64,6.9,3775,200,4.7,Asia Pacific,$153.77,682.7
+MB-70652,Oppo,Reno 10,2023,Budget,Android,12,64,6.9,3775,200,4.7,Middle East,$143.44,162.6
+MB-70653,Oppo,Reno 10,2023,Budget,Android,12,64,6.9,3775,200,4.7,Latin America,$176.27,174.9
+MB-70654,Oppo,Reno 10,2023,Budget,Android,12,64,6.9,3775,200,4.7,Africa,$173.74,101.1
+MB-70655,Oppo,Reno 10,2024,Premium,Android,12,1024,5.5,4429,48,3.8,North America,$649.96,"1,100.6"
+MB-70656,Oppo,Reno 10,2024,Premium,Android,12,1024,5.5,4429,48,3.8,Europe,$687.83,951.5
+MB-70657,Oppo,Reno 10,2024,Premium,Android,12,1024,5.5,4429,48,3.8,Asia Pacific,$575.58,"1,180.3"
+MB-70658,Oppo,Reno 10,2024,Premium,Android,12,1024,5.5,4429,48,3.8,Middle East,$655.13,5.8
+MB-70659,Oppo,Reno 10,2024,Premium,Android,12,1024,5.5,4429,48,3.8,Latin America,$591.02,794.4
+MB-70660,Oppo,Reno 10,2024,Premium,Android,12,1024,5.5,4429,48,3.8,Africa,$667.14,"1,086.1"
+MB-70661,Oppo,Reno 11,2021,Mid-Range,Android,4,128,6.1,3445,50,3.6,North America,$362.37,597.4
+MB-70662,Oppo,Reno 11,2021,Mid-Range,Android,4,128,6.1,3445,50,3.6,Europe,$313.17,"1,063.9"
+MB-70663,Oppo,Reno 11,2021,Mid-Range,Android,4,128,6.1,3445,50,3.6,Asia Pacific,$366.47,530.2
+MB-70664,Oppo,Reno 11,2021,Mid-Range,Android,4,128,6.1,3445,50,3.6,Middle East,$348.46,"1,097.2"
+MB-70665,Oppo,Reno 11,2021,Mid-Range,Android,4,128,6.1,3445,50,3.6,Latin America,$279.53,863.9
+MB-70666,Oppo,Reno 11,2021,Mid-Range,Android,4,128,6.1,3445,50,3.6,Africa,$367.35,513.6
+MB-70667,Oppo,Reno 11,2024,Mid-Range,Android,6,256,5.5,4320,64,4.9,North America,$319.08,425.6
+MB-70668,Oppo,Reno 11,2024,Mid-Range,Android,6,256,5.5,4320,64,4.9,Europe,$344.61,"1,002.6"
+MB-70669,Oppo,Reno 11,2024,Mid-Range,Android,6,256,5.5,4320,64,4.9,Asia Pacific,$321.86,638.2
+MB-70670,Oppo,Reno 11,2024,Mid-Range,Android,6,256,5.5,4320,64,4.9,Middle East,$399.43,241.8
+MB-70671,Oppo,Reno 11,2024,Mid-Range,Android,6,256,5.5,4320,64,4.9,Latin America,$315.74,"1,004.4"
+MB-70672,Oppo,Reno 11,2024,Mid-Range,Android,6,256,5.5,4320,64,4.9,Africa,$342.36,599.4
+MB-70673,Oppo,Find X6,2021,Budget,Android,8,256,6.1,4702,50,4.7,North America,$111.37,"1,004.3"
+MB-70674,Oppo,Find X6,2021,Budget,Android,8,256,6.1,4702,50,4.7,Europe,$115.95,465.0
+MB-70675,Oppo,Find X6,2021,Budget,Android,8,256,6.1,4702,50,4.7,Asia Pacific,$100.32,612.1
+MB-70676,Oppo,Find X6,2021,Budget,Android,8,256,6.1,4702,50,4.7,Middle East,$110.76,"1,080.8"
+MB-70677,Oppo,Find X6,2021,Budget,Android,8,256,6.1,4702,50,4.7,Latin America,$91.73,72.5
+MB-70678,Oppo,Find X6,2021,Budget,Android,8,256,6.1,4702,50,4.7,Africa,$114.07,571.3
+MB-70679,Oppo,Find X6,2022,Mid-Range,Android,12,32,6.5,4479,108,3.8,North America,$264.66,711.7
+MB-70680,Oppo,Find X6,2022,Mid-Range,Android,12,32,6.5,4479,108,3.8,Europe,$248.54,641.6
+MB-70681,Oppo,Find X6,2022,Mid-Range,Android,12,32,6.5,4479,108,3.8,Asia Pacific,$256.01,670.3
+MB-70682,Oppo,Find X6,2022,Mid-Range,Android,12,32,6.5,4479,108,3.8,Middle East,$205.49,837.9
+MB-70683,Oppo,Find X6,2022,Mid-Range,Android,12,32,6.5,4479,108,3.8,Latin America,$240.30,"1,159.2"
+MB-70684,Oppo,Find X6,2022,Mid-Range,Android,12,32,6.5,4479,108,3.8,Africa,$257.02,64.2
+MB-70685,Oppo,Find X6,2023,Mid-Range,Android,3,32,6.8,5236,108,4.7,North America,$420.13,556.9
+MB-70686,Oppo,Find X6,2023,Mid-Range,Android,3,32,6.8,5236,108,4.7,Europe,$431.32,49.4
+MB-70687,Oppo,Find X6,2023,Mid-Range,Android,3,32,6.8,5236,108,4.7,Asia Pacific,$386.62,215.1
+MB-70688,Oppo,Find X6,2023,Mid-Range,Android,3,32,6.8,5236,108,4.7,Middle East,$349.75,352.8
+MB-70689,Oppo,Find X6,2023,Mid-Range,Android,3,32,6.8,5236,108,4.7,Latin America,$401.67,111.9
+MB-70690,Oppo,Find X6,2023,Mid-Range,Android,3,32,6.8,5236,108,4.7,Africa,$433.96,675.1
+MB-70691,Oppo,Find X6,2024,Budget,Android,16,512,6.4,5154,50,4.6,North America,$159.71,995.2
+MB-70692,Oppo,Find X6,2024,Budget,Android,16,512,6.4,5154,50,4.6,Europe,$166.77,431.6
+MB-70693,Oppo,Find X6,2024,Budget,Android,16,512,6.4,5154,50,4.6,Asia Pacific,$155.57,469.4
+MB-70694,Oppo,Find X6,2024,Budget,Android,16,512,6.4,5154,50,4.6,Middle East,$135.96,204.9
+MB-70695,Oppo,Find X6,2024,Budget,Android,16,512,6.4,5154,50,4.6,Latin America,$166.36,927.4
+MB-70696,Oppo,Find X6,2024,Budget,Android,16,512,6.4,5154,50,4.6,Africa,$165.79,656.7
+MB-70697,Oppo,Find N3,2021,Budget,Android,8,128,6.4,3669,12,3.8,North America,$89.12,799.1
+MB-70698,Oppo,Find N3,2021,Budget,Android,8,128,6.4,3669,12,3.8,Europe,$103.52,926.6
+MB-70699,Oppo,Find N3,2021,Budget,Android,8,128,6.4,3669,12,3.8,Asia Pacific,$95.22,492.5
+MB-70700,Oppo,Find N3,2021,Budget,Android,8,128,6.4,3669,12,3.8,Middle East,$103.00,732.2
+MB-70701,Oppo,Find N3,2021,Budget,Android,8,128,6.4,3669,12,3.8,Latin America,$89.99,879.6
+MB-70702,Oppo,Find N3,2021,Budget,Android,8,128,6.4,3669,12,3.8,Africa,$103.44,"1,150.9"
+MB-70703,Oppo,Find N3,2023,Budget,Android,12,1024,6.4,4547,12,4.1,North America,$204.44,683.6
+MB-70704,Oppo,Find N3,2023,Budget,Android,12,1024,6.4,4547,12,4.1,Europe,$203.50,94.7
+MB-70705,Oppo,Find N3,2023,Budget,Android,12,1024,6.4,4547,12,4.1,Asia Pacific,$193.82,"1,161.3"
+MB-70706,Oppo,Find N3,2023,Budget,Android,12,1024,6.4,4547,12,4.1,Middle East,$213.41,469.3
+MB-70707,Oppo,Find N3,2023,Budget,Android,12,1024,6.4,4547,12,4.1,Latin America,$214.61,499.4
+MB-70708,Oppo,Find N3,2023,Budget,Android,12,1024,6.4,4547,12,4.1,Africa,$181.67,965.1
+MB-70709,Oppo,Find N3,2024,Premium,Android,12,1024,6.5,3631,200,4.1,North America,$820.00,44.9
+MB-70710,Oppo,Find N3,2024,Premium,Android,12,1024,6.5,3631,200,4.1,Europe,$740.02,574.6
+MB-70711,Oppo,Find N3,2024,Premium,Android,12,1024,6.5,3631,200,4.1,Asia Pacific,$790.05,"1,105.5"
+MB-70712,Oppo,Find N3,2024,Premium,Android,12,1024,6.5,3631,200,4.1,Middle East,$736.13,550.3
+MB-70713,Oppo,Find N3,2024,Premium,Android,12,1024,6.5,3631,200,4.1,Latin America,$731.96,"1,096.0"
+MB-70714,Oppo,Find N3,2024,Premium,Android,12,1024,6.5,3631,200,4.1,Africa,$812.13,"1,159.5"
+MB-70715,Oppo,A58,2022,Mid-Range,Android,16,256,6.4,3862,12,3.8,North America,$347.70,"1,175.2"
+MB-70716,Oppo,A58,2022,Mid-Range,Android,16,256,6.4,3862,12,3.8,Europe,$321.92,899.5
+MB-70717,Oppo,A58,2022,Mid-Range,Android,16,256,6.4,3862,12,3.8,Asia Pacific,$381.58,109.6
+MB-70718,Oppo,A58,2022,Mid-Range,Android,16,256,6.4,3862,12,3.8,Middle East,$393.43,526.2
+MB-70719,Oppo,A58,2022,Mid-Range,Android,16,256,6.4,3862,12,3.8,Latin America,$360.45,30.5
+MB-70720,Oppo,A58,2022,Mid-Range,Android,16,256,6.4,3862,12,3.8,Africa,$330.75,718.9
+MB-70721,Oppo,A58,2023,Budget,Android,4,32,5.5,4467,50,4.6,North America,$80.37,488.5
+MB-70722,Oppo,A58,2023,Budget,Android,4,32,5.5,4467,50,4.6,Europe,$98.91,948.4
+MB-70723,Oppo,A58,2023,Budget,Android,4,32,5.5,4467,50,4.6,Asia Pacific,$104.93,"1,022.6"
+MB-70724,Oppo,A58,2023,Budget,Android,4,32,5.5,4467,50,4.6,Middle East,$83.37,305.6
+MB-70725,Oppo,A58,2023,Budget,Android,4,32,5.5,4467,50,4.6,Latin America,$94.50,"1,157.4"
+MB-70726,Oppo,A58,2023,Budget,Android,4,32,5.5,4467,50,4.6,Africa,$100.60,44.8
+MB-70727,Oppo,A58,2024,Budget,Android,8,64,6.4,4562,200,3.6,North America,$153.29,666.1
+MB-70728,Oppo,A58,2024,Budget,Android,8,64,6.4,4562,200,3.6,Europe,$166.56,889.2
+MB-70729,Oppo,A58,2024,Budget,Android,8,64,6.4,4562,200,3.6,Asia Pacific,$149.79,300.8
+MB-70730,Oppo,A58,2024,Budget,Android,8,64,6.4,4562,200,3.6,Middle East,$176.97,866.1
+MB-70731,Oppo,A58,2024,Budget,Android,8,64,6.4,4562,200,3.6,Latin America,$160.32,664.9
+MB-70732,Oppo,A58,2024,Budget,Android,8,64,6.4,4562,200,3.6,Africa,$152.15,403.9
+MB-70733,Vivo,Y27,2021,Mid-Range,Android,6,128,5.5,5062,12,3.7,North America,$290.20,283.6
+MB-70734,Vivo,Y27,2021,Mid-Range,Android,6,128,5.5,5062,12,3.7,Europe,$296.81,305.7
+MB-70735,Vivo,Y27,2021,Mid-Range,Android,6,128,5.5,5062,12,3.7,Asia Pacific,$256.86,208.8
+MB-70736,Vivo,Y27,2021,Mid-Range,Android,6,128,5.5,5062,12,3.7,Middle East,$299.89,613.7
+MB-70737,Vivo,Y27,2021,Mid-Range,Android,6,128,5.5,5062,12,3.7,Latin America,$273.90,"1,156.4"
+MB-70738,Vivo,Y27,2021,Mid-Range,Android,6,128,5.5,5062,12,3.7,Africa,$277.41,"1,127.0"
+MB-70739,Vivo,Y27,2022,Mid-Range,Android,8,512,6.8,3455,64,4.3,North America,$341.17,583.6
+MB-70740,Vivo,Y27,2022,Mid-Range,Android,8,512,6.8,3455,64,4.3,Europe,$369.59,27.2
+MB-70741,Vivo,Y27,2022,Mid-Range,Android,8,512,6.8,3455,64,4.3,Asia Pacific,$431.23,449.8
+MB-70742,Vivo,Y27,2022,Mid-Range,Android,8,512,6.8,3455,64,4.3,Middle East,$436.51,"1,192.0"
+MB-70743,Vivo,Y27,2022,Mid-Range,Android,8,512,6.8,3455,64,4.3,Latin America,$428.59,389.5
+MB-70744,Vivo,Y27,2022,Mid-Range,Android,8,512,6.8,3455,64,4.3,Africa,$371.73,460.3
+MB-70745,Vivo,Y27,2023,Budget,Android,3,512,6.7,3888,12,3.6,North America,$153.24,359.7
+MB-70746,Vivo,Y27,2023,Budget,Android,3,512,6.7,3888,12,3.6,Europe,$178.59,608.3
+MB-70747,Vivo,Y27,2023,Budget,Android,3,512,6.7,3888,12,3.6,Asia Pacific,$148.55,577.3
+MB-70748,Vivo,Y27,2023,Budget,Android,3,512,6.7,3888,12,3.6,Middle East,$148.79,821.5
+MB-70749,Vivo,Y27,2023,Budget,Android,3,512,6.7,3888,12,3.6,Latin America,$138.91,31.4
+MB-70750,Vivo,Y27,2023,Budget,Android,3,512,6.7,3888,12,3.6,Africa,$171.64,335.9
+MB-70751,Vivo,Y27,2024,Budget,Android,8,512,6.5,5481,12,4.2,North America,$161.60,600.4
+MB-70752,Vivo,Y27,2024,Budget,Android,8,512,6.5,5481,12,4.2,Europe,$138.91,561.2
+MB-70753,Vivo,Y27,2024,Budget,Android,8,512,6.5,5481,12,4.2,Asia Pacific,$164.88,838.7
+MB-70754,Vivo,Y27,2024,Budget,Android,8,512,6.5,5481,12,4.2,Middle East,$166.15,269.6
+MB-70755,Vivo,Y27,2024,Budget,Android,8,512,6.5,5481,12,4.2,Latin America,$136.02,77.5
+MB-70756,Vivo,Y27,2024,Budget,Android,8,512,6.5,5481,12,4.2,Africa,$168.17,455.4
+MB-70757,Vivo,V29,2021,Mid-Range,Android,8,1024,6.7,3827,64,4.5,North America,$268.23,620.8
+MB-70758,Vivo,V29,2021,Mid-Range,Android,8,1024,6.7,3827,64,4.5,Europe,$235.44,15.4
+MB-70759,Vivo,V29,2021,Mid-Range,Android,8,1024,6.7,3827,64,4.5,Asia Pacific,$275.98,875.1
+MB-70760,Vivo,V29,2021,Mid-Range,Android,8,1024,6.7,3827,64,4.5,Middle East,$256.09,513.5
+MB-70761,Vivo,V29,2021,Mid-Range,Android,8,1024,6.7,3827,64,4.5,Latin America,$254.81,767.9
+MB-70762,Vivo,V29,2021,Mid-Range,Android,8,1024,6.7,3827,64,4.5,Africa,$279.73,192.9
+MB-70763,Vivo,V29,2022,Premium,Android,8,256,6.4,4967,48,4.6,North America,$731.20,135.5
+MB-70764,Vivo,V29,2022,Premium,Android,8,256,6.4,4967,48,4.6,Europe,$842.15,514.6
+MB-70765,Vivo,V29,2022,Premium,Android,8,256,6.4,4967,48,4.6,Asia Pacific,$694.26,"1,026.2"
+MB-70766,Vivo,V29,2022,Premium,Android,8,256,6.4,4967,48,4.6,Middle East,$849.05,385.7
+MB-70767,Vivo,V29,2022,Premium,Android,8,256,6.4,4967,48,4.6,Latin America,$783.95,19.9
+MB-70768,Vivo,V29,2022,Premium,Android,8,256,6.4,4967,48,4.6,Africa,$693.79,24.7
+MB-70769,Vivo,V29,2023,Premium,Android,4,256,6.5,4135,13,4.3,North America,$835.47,672.3
+MB-70770,Vivo,V29,2023,Premium,Android,4,256,6.5,4135,13,4.3,Europe,$820.12,966.3
+MB-70771,Vivo,V29,2023,Premium,Android,4,256,6.5,4135,13,4.3,Asia Pacific,$807.92,408.2
+MB-70772,Vivo,V29,2023,Premium,Android,4,256,6.5,4135,13,4.3,Middle East,$658.34,"1,073.1"
+MB-70773,Vivo,V29,2023,Premium,Android,4,256,6.5,4135,13,4.3,Latin America,$746.12,872.2
+MB-70774,Vivo,V29,2023,Premium,Android,4,256,6.5,4135,13,4.3,Africa,$786.76,465.4
+MB-70775,Vivo,V29,2024,Flagship,Android,16,1024,6.7,5201,64,4.4,North America,"$1,582.17","1,154.9"
+MB-70776,Vivo,V29,2024,Flagship,Android,16,1024,6.7,5201,64,4.4,Europe,"$1,415.39",204.2
+MB-70777,Vivo,V29,2024,Flagship,Android,16,1024,6.7,5201,64,4.4,Asia Pacific,"$1,468.93",263.6
+MB-70778,Vivo,V29,2024,Flagship,Android,16,1024,6.7,5201,64,4.4,Middle East,"$1,825.29",570.7
+MB-70779,Vivo,V29,2024,Flagship,Android,16,1024,6.7,5201,64,4.4,Latin America,"$1,833.93",721.1
+MB-70780,Vivo,V29,2024,Flagship,Android,16,1024,6.7,5201,64,4.4,Africa,"$1,848.18",200.0
+MB-70781,Vivo,V30,2023,Mid-Range,Android,12,64,6.5,3528,200,4.8,North America,$222.21,351.7
+MB-70782,Vivo,V30,2023,Mid-Range,Android,12,64,6.5,3528,200,4.8,Europe,$193.93,615.1
+MB-70783,Vivo,V30,2023,Mid-Range,Android,12,64,6.5,3528,200,4.8,Asia Pacific,$207.26,389.4
+MB-70784,Vivo,V30,2023,Mid-Range,Android,12,64,6.5,3528,200,4.8,Middle East,$257.28,129.4
+MB-70785,Vivo,V30,2023,Mid-Range,Android,12,64,6.5,3528,200,4.8,Latin America,$213.82,213.9
+MB-70786,Vivo,V30,2023,Mid-Range,Android,12,64,6.5,3528,200,4.8,Africa,$247.45,327.5
+MB-70787,Vivo,V30,2024,Mid-Range,Android,12,256,5.5,5330,108,4,North America,$382.99,918.9
+MB-70788,Vivo,V30,2024,Mid-Range,Android,12,256,5.5,5330,108,4,Europe,$348.16,"1,138.7"
+MB-70789,Vivo,V30,2024,Mid-Range,Android,12,256,5.5,5330,108,4,Asia Pacific,$387.67,151.7
+MB-70790,Vivo,V30,2024,Mid-Range,Android,12,256,5.5,5330,108,4,Middle East,$446.81,501.5
+MB-70791,Vivo,V30,2024,Mid-Range,Android,12,256,5.5,5330,108,4,Latin America,$354.22,"1,052.4"
+MB-70792,Vivo,V30,2024,Mid-Range,Android,12,256,5.5,5330,108,4,Africa,$340.20,47.3
+MB-70793,Vivo,X90,2021,Premium,Android,3,512,6.5,4781,50,4.4,North America,$684.95,669.0
+MB-70794,Vivo,X90,2021,Premium,Android,3,512,6.5,4781,50,4.4,Europe,$648.68,250.5
+MB-70795,Vivo,X90,2021,Premium,Android,3,512,6.5,4781,50,4.4,Asia Pacific,$789.46,97.9
+MB-70796,Vivo,X90,2021,Premium,Android,3,512,6.5,4781,50,4.4,Middle East,$631.75,400.4
+MB-70797,Vivo,X90,2021,Premium,Android,3,512,6.5,4781,50,4.4,Latin America,$821.60,41.6
+MB-70798,Vivo,X90,2021,Premium,Android,3,512,6.5,4781,50,4.4,Africa,$678.60,754.0
+MB-70799,Vivo,X90,2022,Flagship,Android,4,32,6.8,4089,13,4.2,North America,$915.88,405.0
+MB-70800,Vivo,X90,2022,Flagship,Android,4,32,6.8,4089,13,4.2,Europe,$971.05,"1,003.7"
+MB-70801,Vivo,X90,2022,Flagship,Android,4,32,6.8,4089,13,4.2,Asia Pacific,"$1,065.14",761.3
+MB-70802,Vivo,X90,2022,Flagship,Android,4,32,6.8,4089,13,4.2,Middle East,$997.64,"1,099.1"
+MB-70803,Vivo,X90,2022,Flagship,Android,4,32,6.8,4089,13,4.2,Latin America,$912.07,46.2
+MB-70804,Vivo,X90,2022,Flagship,Android,4,32,6.8,4089,13,4.2,Africa,$942.18,"1,164.5"
+MB-70805,Vivo,X90,2024,Mid-Range,Android,12,512,6.4,5136,50,4,North America,$355.61,"1,018.1"
+MB-70806,Vivo,X90,2024,Mid-Range,Android,12,512,6.4,5136,50,4,Europe,$446.54,64.1
+MB-70807,Vivo,X90,2024,Mid-Range,Android,12,512,6.4,5136,50,4,Asia Pacific,$479.37,456.1
+MB-70808,Vivo,X90,2024,Mid-Range,Android,12,512,6.4,5136,50,4,Middle East,$374.49,10.5
+MB-70809,Vivo,X90,2024,Mid-Range,Android,12,512,6.4,5136,50,4,Latin America,$419.64,"1,070.0"
+MB-70810,Vivo,X90,2024,Mid-Range,Android,12,512,6.4,5136,50,4,Africa,$460.25,"1,136.9"
+MB-70811,Vivo,X100,2021,Mid-Range,Android,6,128,6.7,3563,12,3.8,North America,$316.25,98.7
+MB-70812,Vivo,X100,2021,Mid-Range,Android,6,128,6.7,3563,12,3.8,Europe,$361.57,195.0
+MB-70813,Vivo,X100,2021,Mid-Range,Android,6,128,6.7,3563,12,3.8,Asia Pacific,$378.60,22.1
+MB-70814,Vivo,X100,2021,Mid-Range,Android,6,128,6.7,3563,12,3.8,Middle East,$375.24,142.7
+MB-70815,Vivo,X100,2021,Mid-Range,Android,6,128,6.7,3563,12,3.8,Latin America,$321.06,348.4
+MB-70816,Vivo,X100,2021,Mid-Range,Android,6,128,6.7,3563,12,3.8,Africa,$300.94,320.5
+MB-70817,Vivo,X100,2022,Budget,Android,16,256,6.7,4973,200,4.7,North America,$181.70,442.1
+MB-70818,Vivo,X100,2022,Budget,Android,16,256,6.7,4973,200,4.7,Europe,$180.61,965.5
+MB-70819,Vivo,X100,2022,Budget,Android,16,256,6.7,4973,200,4.7,Asia Pacific,$209.26,869.1
+MB-70820,Vivo,X100,2022,Budget,Android,16,256,6.7,4973,200,4.7,Middle East,$171.22,"1,076.5"
+MB-70821,Vivo,X100,2022,Budget,Android,16,256,6.7,4973,200,4.7,Latin America,$206.87,"1,009.5"
+MB-70822,Vivo,X100,2022,Budget,Android,16,256,6.7,4973,200,4.7,Africa,$163.94,284.8
+MB-70823,Vivo,X100,2023,Premium,Android,6,256,6.8,3100,64,4.4,North America,$533.54,906.0
+MB-70824,Vivo,X100,2023,Premium,Android,6,256,6.8,3100,64,4.4,Europe,$501.38,775.6
+MB-70825,Vivo,X100,2023,Premium,Android,6,256,6.8,3100,64,4.4,Asia Pacific,$623.76,771.9
+MB-70826,Vivo,X100,2023,Premium,Android,6,256,6.8,3100,64,4.4,Middle East,$600.31,328.5
+MB-70827,Vivo,X100,2023,Premium,Android,6,256,6.8,3100,64,4.4,Latin America,$597.21,445.1
+MB-70828,Vivo,X100,2023,Premium,Android,6,256,6.8,3100,64,4.4,Africa,$558.60,884.2
+MB-70829,Vivo,X100,2024,Premium,Android,8,1024,6.9,5400,64,3.8,North America,$936.33,586.5
+MB-70830,Vivo,X100,2024,Premium,Android,8,1024,6.9,5400,64,3.8,Europe,$858.17,136.9
+MB-70831,Vivo,X100,2024,Premium,Android,8,1024,6.9,5400,64,3.8,Asia Pacific,$816.28,958.5
+MB-70832,Vivo,X100,2024,Premium,Android,8,1024,6.9,5400,64,3.8,Middle East,$818.06,20.1
+MB-70833,Vivo,X100,2024,Premium,Android,8,1024,6.9,5400,64,3.8,Latin America,$833.88,524.6
+MB-70834,Vivo,X100,2024,Premium,Android,8,1024,6.9,5400,64,3.8,Africa,$830.84,630.5
+MB-70835,Vivo,Y17s,2021,Flagship,Android,6,256,6.8,5267,12,4.6,North America,"$1,577.04",252.2
+MB-70836,Vivo,Y17s,2021,Flagship,Android,6,256,6.8,5267,12,4.6,Europe,"$1,625.91",168.7
+MB-70837,Vivo,Y17s,2021,Flagship,Android,6,256,6.8,5267,12,4.6,Asia Pacific,"$1,733.28",374.9
+MB-70838,Vivo,Y17s,2021,Flagship,Android,6,256,6.8,5267,12,4.6,Middle East,"$1,723.01",438.9
+MB-70839,Vivo,Y17s,2021,Flagship,Android,6,256,6.8,5267,12,4.6,Latin America,"$1,692.27",693.6
+MB-70840,Vivo,Y17s,2021,Flagship,Android,6,256,6.8,5267,12,4.6,Africa,"$1,607.75",518.3
+MB-70841,Vivo,Y17s,2023,Budget,Android,8,32,6.7,4637,200,4,North America,$114.20,727.4
+MB-70842,Vivo,Y17s,2023,Budget,Android,8,32,6.7,4637,200,4,Europe,$107.22,"1,077.0"
+MB-70843,Vivo,Y17s,2023,Budget,Android,8,32,6.7,4637,200,4,Asia Pacific,$125.88,976.8
+MB-70844,Vivo,Y17s,2023,Budget,Android,8,32,6.7,4637,200,4,Middle East,$97.51,312.4
+MB-70845,Vivo,Y17s,2023,Budget,Android,8,32,6.7,4637,200,4,Latin America,$115.16,190.3
+MB-70846,Vivo,Y17s,2023,Budget,Android,8,32,6.7,4637,200,4,Africa,$112.94,"1,041.0"
+MB-70847,Realme,Narzo 60,2021,Premium,Android,12,1024,6.1,5274,12,4.2,North America,$765.65,256.6
+MB-70848,Realme,Narzo 60,2021,Premium,Android,12,1024,6.1,5274,12,4.2,Europe,$813.27,"1,050.3"
+MB-70849,Realme,Narzo 60,2021,Premium,Android,12,1024,6.1,5274,12,4.2,Asia Pacific,$887.58,"1,046.3"
+MB-70850,Realme,Narzo 60,2021,Premium,Android,12,1024,6.1,5274,12,4.2,Middle East,$975.38,7.9
+MB-70851,Realme,Narzo 60,2021,Premium,Android,12,1024,6.1,5274,12,4.2,Latin America,$787.15,"1,177.3"
+MB-70852,Realme,Narzo 60,2021,Premium,Android,12,1024,6.1,5274,12,4.2,Africa,$750.66,833.3
+MB-70853,Realme,Narzo 60,2022,Budget,Android,16,256,6.7,3730,200,4.9,North America,$136.07,783.2
+MB-70854,Realme,Narzo 60,2022,Budget,Android,16,256,6.7,3730,200,4.9,Europe,$140.68,50.9
+MB-70855,Realme,Narzo 60,2022,Budget,Android,16,256,6.7,3730,200,4.9,Asia Pacific,$148.66,146.7
+MB-70856,Realme,Narzo 60,2022,Budget,Android,16,256,6.7,3730,200,4.9,Middle East,$144.54,152.1
+MB-70857,Realme,Narzo 60,2022,Budget,Android,16,256,6.7,3730,200,4.9,Latin America,$163.35,"1,024.8"
+MB-70858,Realme,Narzo 60,2022,Budget,Android,16,256,6.7,3730,200,4.9,Africa,$136.46,342.9
+MB-70859,Realme,Narzo 60,2024,Budget,Android,6,128,6.9,4407,12,4,North America,$108.25,446.5
+MB-70860,Realme,Narzo 60,2024,Budget,Android,6,128,6.9,4407,12,4,Europe,$84.55,"1,043.5"
+MB-70861,Realme,Narzo 60,2024,Budget,Android,6,128,6.9,4407,12,4,Asia Pacific,$90.56,638.6
+MB-70862,Realme,Narzo 60,2024,Budget,Android,6,128,6.9,4407,12,4,Middle East,$92.10,481.8
+MB-70863,Realme,Narzo 60,2024,Budget,Android,6,128,6.9,4407,12,4,Latin America,$96.37,885.1
+MB-70864,Realme,Narzo 60,2024,Budget,Android,6,128,6.9,4407,12,4,Africa,$104.49,"1,105.8"
+MB-70865,Realme,11 Pro,2022,Premium,Android,8,64,6.7,4676,48,4.5,North America,$859.33,"1,114.3"
+MB-70866,Realme,11 Pro,2022,Premium,Android,8,64,6.7,4676,48,4.5,Europe,$945.74,172.1
+MB-70867,Realme,11 Pro,2022,Premium,Android,8,64,6.7,4676,48,4.5,Asia Pacific,$922.31,530.9
+MB-70868,Realme,11 Pro,2022,Premium,Android,8,64,6.7,4676,48,4.5,Middle East,$780.66,609.6
+MB-70869,Realme,11 Pro,2022,Premium,Android,8,64,6.7,4676,48,4.5,Latin America,$897.66,593.3
+MB-70870,Realme,11 Pro,2022,Premium,Android,8,64,6.7,4676,48,4.5,Africa,$767.24,"1,060.4"
+MB-70871,Realme,11 Pro,2023,Budget,Android,3,64,6.8,4243,108,3.7,North America,$108.05,663.1
+MB-70872,Realme,11 Pro,2023,Budget,Android,3,64,6.8,4243,108,3.7,Europe,$91.24,727.4
+MB-70873,Realme,11 Pro,2023,Budget,Android,3,64,6.8,4243,108,3.7,Asia Pacific,$92.32,"1,103.0"
+MB-70874,Realme,11 Pro,2023,Budget,Android,3,64,6.8,4243,108,3.7,Middle East,$97.29,740.2
+MB-70875,Realme,11 Pro,2023,Budget,Android,3,64,6.8,4243,108,3.7,Latin America,$119.37,659.7
+MB-70876,Realme,11 Pro,2023,Budget,Android,3,64,6.8,4243,108,3.7,Africa,$118.19,726.6
+MB-70877,Realme,12 Pro,2021,Mid-Range,Android,16,1024,6.7,4355,13,3.6,North America,$452.56,169.2
+MB-70878,Realme,12 Pro,2021,Mid-Range,Android,16,1024,6.7,4355,13,3.6,Europe,$501.10,506.4
+MB-70879,Realme,12 Pro,2021,Mid-Range,Android,16,1024,6.7,4355,13,3.6,Asia Pacific,$432.30,123.4
+MB-70880,Realme,12 Pro,2021,Mid-Range,Android,16,1024,6.7,4355,13,3.6,Middle East,$522.65,892.5
+MB-70881,Realme,12 Pro,2021,Mid-Range,Android,16,1024,6.7,4355,13,3.6,Latin America,$480.71,320.7
+MB-70882,Realme,12 Pro,2021,Mid-Range,Android,16,1024,6.7,4355,13,3.6,Africa,$438.18,663.9
+MB-70883,Realme,12 Pro,2022,Budget,Android,4,128,6.7,4680,13,4.3,North America,$205.43,998.2
+MB-70884,Realme,12 Pro,2022,Budget,Android,4,128,6.7,4680,13,4.3,Europe,$214.40,862.4
+MB-70885,Realme,12 Pro,2022,Budget,Android,4,128,6.7,4680,13,4.3,Asia Pacific,$189.64,"1,127.1"
+MB-70886,Realme,12 Pro,2022,Budget,Android,4,128,6.7,4680,13,4.3,Middle East,$214.09,573.5
+MB-70887,Realme,12 Pro,2022,Budget,Android,4,128,6.7,4680,13,4.3,Latin America,$197.38,526.4
+MB-70888,Realme,12 Pro,2022,Budget,Android,4,128,6.7,4680,13,4.3,Africa,$198.19,875.6
+MB-70889,Realme,12 Pro,2023,Mid-Range,Android,8,512,6.4,4825,200,3.9,North America,$373.54,755.2
+MB-70890,Realme,12 Pro,2023,Mid-Range,Android,8,512,6.4,4825,200,3.9,Europe,$351.72,34.7
+MB-70891,Realme,12 Pro,2023,Mid-Range,Android,8,512,6.4,4825,200,3.9,Asia Pacific,$413.24,970.8
+MB-70892,Realme,12 Pro,2023,Mid-Range,Android,8,512,6.4,4825,200,3.9,Middle East,$383.26,834.8
+MB-70893,Realme,12 Pro,2023,Mid-Range,Android,8,512,6.4,4825,200,3.9,Latin America,$335.14,744.2
+MB-70894,Realme,12 Pro,2023,Mid-Range,Android,8,512,6.4,4825,200,3.9,Africa,$430.68,761.2
+MB-70895,Realme,12 Pro,2024,Mid-Range,Android,3,256,6.1,3460,12,4.4,North America,$461.71,776.8
+MB-70896,Realme,12 Pro,2024,Mid-Range,Android,3,256,6.1,3460,12,4.4,Europe,$417.21,36.1
+MB-70897,Realme,12 Pro,2024,Mid-Range,Android,3,256,6.1,3460,12,4.4,Asia Pacific,$352.08,"1,089.6"
+MB-70898,Realme,12 Pro,2024,Mid-Range,Android,3,256,6.1,3460,12,4.4,Middle East,$425.60,816.5
+MB-70899,Realme,12 Pro,2024,Mid-Range,Android,3,256,6.1,3460,12,4.4,Latin America,$412.86,991.6
+MB-70900,Realme,12 Pro,2024,Mid-Range,Android,3,256,6.1,3460,12,4.4,Africa,$443.10,818.6
+MB-70901,Realme,GT 5,2023,Budget,Android,3,128,6.5,5462,108,4.4,North America,$106.69,"1,160.0"
+MB-70902,Realme,GT 5,2023,Budget,Android,3,128,6.5,5462,108,4.4,Europe,$81.14,"1,082.9"
+MB-70903,Realme,GT 5,2023,Budget,Android,3,128,6.5,5462,108,4.4,Asia Pacific,$106.57,621.0
+MB-70904,Realme,GT 5,2023,Budget,Android,3,128,6.5,5462,108,4.4,Middle East,$86.80,51.7
+MB-70905,Realme,GT 5,2023,Budget,Android,3,128,6.5,5462,108,4.4,Latin America,$90.80,203.4
+MB-70906,Realme,GT 5,2023,Budget,Android,3,128,6.5,5462,108,4.4,Africa,$107.33,"1,031.5"
+MB-70907,Realme,GT 5,2024,Budget,Android,4,512,6.5,3376,200,4.8,North America,$136.37,"1,045.5"
+MB-70908,Realme,GT 5,2024,Budget,Android,4,512,6.5,3376,200,4.8,Europe,$117.41,547.7
+MB-70909,Realme,GT 5,2024,Budget,Android,4,512,6.5,3376,200,4.8,Asia Pacific,$134.78,601.3
+MB-70910,Realme,GT 5,2024,Budget,Android,4,512,6.5,3376,200,4.8,Middle East,$130.64,432.6
+MB-70911,Realme,GT 5,2024,Budget,Android,4,512,6.5,3376,200,4.8,Latin America,$135.46,883.2
+MB-70912,Realme,GT 5,2024,Budget,Android,4,512,6.5,3376,200,4.8,Africa,$147.43,699.0
+MB-70913,Realme,C55,2021,Budget,Android,3,32,6.8,4453,48,3.8,North America,$173.84,805.0
+MB-70914,Realme,C55,2021,Budget,Android,3,32,6.8,4453,48,3.8,Europe,$220.08,82.4
+MB-70915,Realme,C55,2021,Budget,Android,3,32,6.8,4453,48,3.8,Asia Pacific,$168.59,"1,018.2"
+MB-70916,Realme,C55,2021,Budget,Android,3,32,6.8,4453,48,3.8,Middle East,$167.83,499.8
+MB-70917,Realme,C55,2021,Budget,Android,3,32,6.8,4453,48,3.8,Latin America,$197.52,78.4
+MB-70918,Realme,C55,2021,Budget,Android,3,32,6.8,4453,48,3.8,Africa,$218.43,954.8
+MB-70919,Realme,C55,2022,Mid-Range,Android,16,128,6.5,5304,12,3.8,North America,$238.54,65.3
+MB-70920,Realme,C55,2022,Mid-Range,Android,16,128,6.5,5304,12,3.8,Europe,$191.12,774.9
+MB-70921,Realme,C55,2022,Mid-Range,Android,16,128,6.5,5304,12,3.8,Asia Pacific,$184.89,764.1
+MB-70922,Realme,C55,2022,Mid-Range,Android,16,128,6.5,5304,12,3.8,Middle East,$213.48,999.7
+MB-70923,Realme,C55,2022,Mid-Range,Android,16,128,6.5,5304,12,3.8,Latin America,$232.33,291.2
+MB-70924,Realme,C55,2022,Mid-Range,Android,16,128,6.5,5304,12,3.8,Africa,$227.84,997.2
+MB-70925,Realme,C55,2023,Premium,Android,16,1024,6.5,4723,48,4.4,North America,$775.18,869.2
+MB-70926,Realme,C55,2023,Premium,Android,16,1024,6.5,4723,48,4.4,Europe,$809.05,746.3
+MB-70927,Realme,C55,2023,Premium,Android,16,1024,6.5,4723,48,4.4,Asia Pacific,$791.62,961.8
+MB-70928,Realme,C55,2023,Premium,Android,16,1024,6.5,4723,48,4.4,Middle East,$735.76,396.8
+MB-70929,Realme,C55,2023,Premium,Android,16,1024,6.5,4723,48,4.4,Latin America,$734.18,430.1
+MB-70930,Realme,C55,2023,Premium,Android,16,1024,6.5,4723,48,4.4,Africa,$903.42,668.8
+MB-70931,Realme,C55,2024,Budget,Android,12,128,6.9,3290,200,3.8,North America,$127.35,"1,042.4"
+MB-70932,Realme,C55,2024,Budget,Android,12,128,6.9,3290,200,3.8,Europe,$132.87,63.8
+MB-70933,Realme,C55,2024,Budget,Android,12,128,6.9,3290,200,3.8,Asia Pacific,$144.52,294.9
+MB-70934,Realme,C55,2024,Budget,Android,12,128,6.9,3290,200,3.8,Middle East,$110.80,878.2
+MB-70935,Realme,C55,2024,Budget,Android,12,128,6.9,3290,200,3.8,Latin America,$113.34,381.5
+MB-70936,Realme,C55,2024,Budget,Android,12,128,6.9,3290,200,3.8,Africa,$140.84,357.2
+MB-70937,Realme,10 Pro+,2021,Flagship,Android,12,512,6.4,3548,13,3.8,North America,"$1,404.59",349.8
+MB-70938,Realme,10 Pro+,2021,Flagship,Android,12,512,6.4,3548,13,3.8,Europe,"$1,176.35",874.5
+MB-70939,Realme,10 Pro+,2021,Flagship,Android,12,512,6.4,3548,13,3.8,Asia Pacific,"$1,411.97",250.4
+MB-70940,Realme,10 Pro+,2021,Flagship,Android,12,512,6.4,3548,13,3.8,Middle East,"$1,246.60",784.3
+MB-70941,Realme,10 Pro+,2021,Flagship,Android,12,512,6.4,3548,13,3.8,Latin America,"$1,480.13",289.2
+MB-70942,Realme,10 Pro+,2021,Flagship,Android,12,512,6.4,3548,13,3.8,Africa,"$1,455.80",679.4
+MB-70943,Realme,10 Pro+,2022,Mid-Range,Android,8,32,6.8,4553,50,3.8,North America,$280.87,680.8
+MB-70944,Realme,10 Pro+,2022,Mid-Range,Android,8,32,6.8,4553,50,3.8,Europe,$246.88,241.3
+MB-70945,Realme,10 Pro+,2022,Mid-Range,Android,8,32,6.8,4553,50,3.8,Asia Pacific,$264.86,772.2
+MB-70946,Realme,10 Pro+,2022,Mid-Range,Android,8,32,6.8,4553,50,3.8,Middle East,$269.36,320.0
+MB-70947,Realme,10 Pro+,2022,Mid-Range,Android,8,32,6.8,4553,50,3.8,Latin America,$270.30,805.1
+MB-70948,Realme,10 Pro+,2022,Mid-Range,Android,8,32,6.8,4553,50,3.8,Africa,$221.52,408.1
+MB-70949,Realme,10 Pro+,2024,Mid-Range,Android,4,256,6.9,5351,48,4.4,North America,$261.33,390.0
+MB-70950,Realme,10 Pro+,2024,Mid-Range,Android,4,256,6.9,5351,48,4.4,Europe,$266.50,344.4
+MB-70951,Realme,10 Pro+,2024,Mid-Range,Android,4,256,6.9,5351,48,4.4,Asia Pacific,$316.51,234.7
+MB-70952,Realme,10 Pro+,2024,Mid-Range,Android,4,256,6.9,5351,48,4.4,Middle East,$278.60,460.8
+MB-70953,Realme,10 Pro+,2024,Mid-Range,Android,4,256,6.9,5351,48,4.4,Latin America,$315.34,199.4
+MB-70954,Realme,10 Pro+,2024,Mid-Range,Android,4,256,6.9,5351,48,4.4,Africa,$312.23,"1,074.9"
+MB-70955,Huawei,Nova 11,2021,Mid-Range,Android,6,256,6.1,4108,50,4.5,North America,$221.99,952.0
+MB-70956,Huawei,Nova 11,2021,Mid-Range,Android,6,256,6.1,4108,50,4.5,Europe,$201.46,787.8
+MB-70957,Huawei,Nova 11,2021,Mid-Range,Android,6,256,6.1,4108,50,4.5,Asia Pacific,$220.76,967.1
+MB-70958,Huawei,Nova 11,2021,Mid-Range,Android,6,256,6.1,4108,50,4.5,Middle East,$209.79,"1,011.8"
+MB-70959,Huawei,Nova 11,2021,Mid-Range,Android,6,256,6.1,4108,50,4.5,Latin America,$209.54,979.3
+MB-70960,Huawei,Nova 11,2021,Mid-Range,Android,6,256,6.1,4108,50,4.5,Africa,$244.36,303.4
+MB-70961,Huawei,Nova 11,2023,Flagship,Android,16,64,6.8,3225,48,4.9,North America,"$1,115.09",900.9
+MB-70962,Huawei,Nova 11,2023,Flagship,Android,16,64,6.8,3225,48,4.9,Europe,"$1,180.55",359.5
+MB-70963,Huawei,Nova 11,2023,Flagship,Android,16,64,6.8,3225,48,4.9,Asia Pacific,"$1,165.53",522.8
+MB-70964,Huawei,Nova 11,2023,Flagship,Android,16,64,6.8,3225,48,4.9,Middle East,"$1,276.16",208.0
+MB-70965,Huawei,Nova 11,2023,Flagship,Android,16,64,6.8,3225,48,4.9,Latin America,"$1,208.37",873.7
+MB-70966,Huawei,Nova 11,2023,Flagship,Android,16,64,6.8,3225,48,4.9,Africa,"$1,096.98",78.2
+MB-70967,Huawei,P60,2021,Premium,Android,3,32,6.4,3102,48,3.8,North America,$642.42,88.4
+MB-70968,Huawei,P60,2021,Premium,Android,3,32,6.4,3102,48,3.8,Europe,$575.66,266.9
+MB-70969,Huawei,P60,2021,Premium,Android,3,32,6.4,3102,48,3.8,Asia Pacific,$609.02,454.0
+MB-70970,Huawei,P60,2021,Premium,Android,3,32,6.4,3102,48,3.8,Middle East,$609.82,980.3
+MB-70971,Huawei,P60,2021,Premium,Android,3,32,6.4,3102,48,3.8,Latin America,$516.08,164.8
+MB-70972,Huawei,P60,2021,Premium,Android,3,32,6.4,3102,48,3.8,Africa,$583.94,817.2
+MB-70973,Huawei,P60,2022,Budget,Android,4,128,6.8,4728,50,4.8,North America,$103.97,952.6
+MB-70974,Huawei,P60,2022,Budget,Android,4,128,6.8,4728,50,4.8,Europe,$102.84,850.7
+MB-70975,Huawei,P60,2022,Budget,Android,4,128,6.8,4728,50,4.8,Asia Pacific,$123.26,162.5
+MB-70976,Huawei,P60,2022,Budget,Android,4,128,6.8,4728,50,4.8,Middle East,$124.93,452.8
+MB-70977,Huawei,P60,2022,Budget,Android,4,128,6.8,4728,50,4.8,Latin America,$111.04,"1,048.1"
+MB-70978,Huawei,P60,2022,Budget,Android,4,128,6.8,4728,50,4.8,Africa,$106.97,"1,100.2"
+MB-70979,Huawei,P60,2023,Budget,Android,8,512,6.1,4526,50,4.4,North America,$84.75,327.0
+MB-70980,Huawei,P60,2023,Budget,Android,8,512,6.1,4526,50,4.4,Europe,$89.44,589.6
+MB-70981,Huawei,P60,2023,Budget,Android,8,512,6.1,4526,50,4.4,Asia Pacific,$82.21,899.0
+MB-70982,Huawei,P60,2023,Budget,Android,8,512,6.1,4526,50,4.4,Middle East,$74.89,223.1
+MB-70983,Huawei,P60,2023,Budget,Android,8,512,6.1,4526,50,4.4,Latin America,$82.12,680.0
+MB-70984,Huawei,P60,2023,Budget,Android,8,512,6.1,4526,50,4.4,Africa,$91.70,944.6
+MB-70985,Huawei,Mate 60,2021,Premium,Android,16,32,6.5,4688,50,3.7,North America,$721.26,345.2
+MB-70986,Huawei,Mate 60,2021,Premium,Android,16,32,6.5,4688,50,3.7,Europe,$755.03,357.7
+MB-70987,Huawei,Mate 60,2021,Premium,Android,16,32,6.5,4688,50,3.7,Asia Pacific,$796.68,554.2
+MB-70988,Huawei,Mate 60,2021,Premium,Android,16,32,6.5,4688,50,3.7,Middle East,$840.79,701.9
+MB-70989,Huawei,Mate 60,2021,Premium,Android,16,32,6.5,4688,50,3.7,Latin America,$740.50,516.5
+MB-70990,Huawei,Mate 60,2021,Premium,Android,16,32,6.5,4688,50,3.7,Africa,$823.78,"1,011.2"
+MB-70991,Huawei,Mate 60,2022,Budget,Android,12,128,6.1,5066,200,4.4,North America,$153.28,"1,158.1"
+MB-70992,Huawei,Mate 60,2022,Budget,Android,12,128,6.1,5066,200,4.4,Europe,$157.42,"1,115.7"
+MB-70993,Huawei,Mate 60,2022,Budget,Android,12,128,6.1,5066,200,4.4,Asia Pacific,$157.50,626.5
+MB-70994,Huawei,Mate 60,2022,Budget,Android,12,128,6.1,5066,200,4.4,Middle East,$157.63,957.0
+MB-70995,Huawei,Mate 60,2022,Budget,Android,12,128,6.1,5066,200,4.4,Latin America,$182.51,365.0
+MB-70996,Huawei,Mate 60,2022,Budget,Android,12,128,6.1,5066,200,4.4,Africa,$167.22,657.4
+MB-70997,Huawei,Mate X5,2021,Budget,Android,16,64,6.1,4059,108,3.5,North America,$154.41,"1,180.5"
+MB-70998,Huawei,Mate X5,2021,Budget,Android,16,64,6.1,4059,108,3.5,Europe,$141.10,397.2
+MB-70999,Huawei,Mate X5,2021,Budget,Android,16,64,6.1,4059,108,3.5,Asia Pacific,$154.78,967.3
+MB-71000,Huawei,Mate X5,2021,Budget,Android,16,64,6.1,4059,108,3.5,Middle East,$128.56,849.2
+MB-71001,Huawei,Mate X5,2021,Budget,Android,16,64,6.1,4059,108,3.5,Latin America,$117.21,891.3
+MB-71002,Huawei,Mate X5,2021,Budget,Android,16,64,6.1,4059,108,3.5,Africa,$139.96,"1,063.2"
+MB-71003,Huawei,Mate X5,2022,Mid-Range,Android,6,64,6.4,5280,12,4.2,North America,$377.61,359.4
+MB-71004,Huawei,Mate X5,2022,Mid-Range,Android,6,64,6.4,5280,12,4.2,Europe,$372.09,908.9
+MB-71005,Huawei,Mate X5,2022,Mid-Range,Android,6,64,6.4,5280,12,4.2,Asia Pacific,$373.63,269.8
+MB-71006,Huawei,Mate X5,2022,Mid-Range,Android,6,64,6.4,5280,12,4.2,Middle East,$332.95,"1,141.9"
+MB-71007,Huawei,Mate X5,2022,Mid-Range,Android,6,64,6.4,5280,12,4.2,Latin America,$376.51,"1,123.7"
+MB-71008,Huawei,Mate X5,2022,Mid-Range,Android,6,64,6.4,5280,12,4.2,Africa,$303.98,"1,115.7"
+MB-71009,Huawei,Nova Y91,2021,Budget,Android,3,32,6.4,4082,12,3.8,North America,$142.21,842.2
+MB-71010,Huawei,Nova Y91,2021,Budget,Android,3,32,6.4,4082,12,3.8,Europe,$145.62,150.1
+MB-71011,Huawei,Nova Y91,2021,Budget,Android,3,32,6.4,4082,12,3.8,Asia Pacific,$149.69,470.5
+MB-71012,Huawei,Nova Y91,2021,Budget,Android,3,32,6.4,4082,12,3.8,Middle East,$135.33,869.1
+MB-71013,Huawei,Nova Y91,2021,Budget,Android,3,32,6.4,4082,12,3.8,Latin America,$121.28,236.7
+MB-71014,Huawei,Nova Y91,2021,Budget,Android,3,32,6.4,4082,12,3.8,Africa,$119.80,"1,109.2"
+MB-71015,Huawei,Nova Y91,2022,Premium,Android,16,128,6.7,4659,50,3.6,North America,$898.03,"1,139.9"
+MB-71016,Huawei,Nova Y91,2022,Premium,Android,16,128,6.7,4659,50,3.6,Europe,$887.73,"1,137.6"
+MB-71017,Huawei,Nova Y91,2022,Premium,Android,16,128,6.7,4659,50,3.6,Asia Pacific,$756.87,447.2
+MB-71018,Huawei,Nova Y91,2022,Premium,Android,16,128,6.7,4659,50,3.6,Middle East,$833.21,834.3
+MB-71019,Huawei,Nova Y91,2022,Premium,Android,16,128,6.7,4659,50,3.6,Latin America,$949.13,433.1
+MB-71020,Huawei,Nova Y91,2022,Premium,Android,16,128,6.7,4659,50,3.6,Africa,$933.01,690.6
+MB-71021,Huawei,Nova Y91,2024,Budget,Android,6,128,6.5,3746,64,4.5,North America,$88.97,814.6
+MB-71022,Huawei,Nova Y91,2024,Budget,Android,6,128,6.5,3746,64,4.5,Europe,$84.54,494.9
+MB-71023,Huawei,Nova Y91,2024,Budget,Android,6,128,6.5,3746,64,4.5,Asia Pacific,$83.18,593.9
+MB-71024,Huawei,Nova Y91,2024,Budget,Android,6,128,6.5,3746,64,4.5,Middle East,$81.71,861.8
+MB-71025,Huawei,Nova Y91,2024,Budget,Android,6,128,6.5,3746,64,4.5,Latin America,$88.36,541.8
+MB-71026,Huawei,Nova Y91,2024,Budget,Android,6,128,6.5,3746,64,4.5,Africa,$77.41,529.9
+MB-71027,Motorola,Moto G84,2021,Budget,Android,6,128,6.7,4063,200,4.7,North America,$106.43,451.6
+MB-71028,Motorola,Moto G84,2021,Budget,Android,6,128,6.7,4063,200,4.7,Europe,$115.45,639.7
+MB-71029,Motorola,Moto G84,2021,Budget,Android,6,128,6.7,4063,200,4.7,Asia Pacific,$109.87,401.0
+MB-71030,Motorola,Moto G84,2021,Budget,Android,6,128,6.7,4063,200,4.7,Middle East,$108.56,467.8
+MB-71031,Motorola,Moto G84,2021,Budget,Android,6,128,6.7,4063,200,4.7,Latin America,$110.92,"1,080.4"
+MB-71032,Motorola,Moto G84,2021,Budget,Android,6,128,6.7,4063,200,4.7,Africa,$99.99,197.8
+MB-71033,Motorola,Moto G84,2022,Budget,Android,3,128,5.5,5098,50,4,North America,$115.62,"1,141.4"
+MB-71034,Motorola,Moto G84,2022,Budget,Android,3,128,5.5,5098,50,4,Europe,$116.43,930.3
+MB-71035,Motorola,Moto G84,2022,Budget,Android,3,128,5.5,5098,50,4,Asia Pacific,$133.22,610.7
+MB-71036,Motorola,Moto G84,2022,Budget,Android,3,128,5.5,5098,50,4,Middle East,$113.94,"1,019.4"
+MB-71037,Motorola,Moto G84,2022,Budget,Android,3,128,5.5,5098,50,4,Latin America,$122.34,617.0
+MB-71038,Motorola,Moto G84,2022,Budget,Android,3,128,5.5,5098,50,4,Africa,$129.52,335.4
+MB-71039,Motorola,Moto G84,2024,Budget,Android,16,128,6.9,3926,50,4.9,North America,$209.30,32.7
+MB-71040,Motorola,Moto G84,2024,Budget,Android,16,128,6.9,3926,50,4.9,Europe,$188.34,831.8
+MB-71041,Motorola,Moto G84,2024,Budget,Android,16,128,6.9,3926,50,4.9,Asia Pacific,$195.47,825.7
+MB-71042,Motorola,Moto G84,2024,Budget,Android,16,128,6.9,3926,50,4.9,Middle East,$158.88,293.8
+MB-71043,Motorola,Moto G84,2024,Budget,Android,16,128,6.9,3926,50,4.9,Latin America,$187.20,"1,164.5"
+MB-71044,Motorola,Moto G84,2024,Budget,Android,16,128,6.9,3926,50,4.9,Africa,$204.23,923.4
+MB-71045,Motorola,Edge 40,2023,Premium,Android,3,256,6.9,3804,12,4.2,North America,$632.12,979.2
+MB-71046,Motorola,Edge 40,2023,Premium,Android,3,256,6.9,3804,12,4.2,Europe,$735.85,248.8
+MB-71047,Motorola,Edge 40,2023,Premium,Android,3,256,6.9,3804,12,4.2,Asia Pacific,$695.64,"1,062.8"
+MB-71048,Motorola,Edge 40,2023,Premium,Android,3,256,6.9,3804,12,4.2,Middle East,$587.85,194.3
+MB-71049,Motorola,Edge 40,2023,Premium,Android,3,256,6.9,3804,12,4.2,Latin America,$745.04,672.8
+MB-71050,Motorola,Edge 40,2023,Premium,Android,3,256,6.9,3804,12,4.2,Africa,$649.33,310.5
+MB-71051,Motorola,Edge 40,2024,Budget,Android,16,64,6.1,3572,12,3.7,North America,$136.01,686.2
+MB-71052,Motorola,Edge 40,2024,Budget,Android,16,64,6.1,3572,12,3.7,Europe,$132.38,769.1
+MB-71053,Motorola,Edge 40,2024,Budget,Android,16,64,6.1,3572,12,3.7,Asia Pacific,$138.78,535.7
+MB-71054,Motorola,Edge 40,2024,Budget,Android,16,64,6.1,3572,12,3.7,Middle East,$129.98,602.0
+MB-71055,Motorola,Edge 40,2024,Budget,Android,16,64,6.1,3572,12,3.7,Latin America,$129.83,51.0
+MB-71056,Motorola,Edge 40,2024,Budget,Android,16,64,6.1,3572,12,3.7,Africa,$112.70,145.4
+MB-71057,Motorola,Edge 50,2021,Budget,Android,6,64,6.8,3015,12,4.8,North America,$181.74,946.3
+MB-71058,Motorola,Edge 50,2021,Budget,Android,6,64,6.8,3015,12,4.8,Europe,$203.64,701.7
+MB-71059,Motorola,Edge 50,2021,Budget,Android,6,64,6.8,3015,12,4.8,Asia Pacific,$160.35,221.4
+MB-71060,Motorola,Edge 50,2021,Budget,Android,6,64,6.8,3015,12,4.8,Middle East,$176.76,480.7
+MB-71061,Motorola,Edge 50,2021,Budget,Android,6,64,6.8,3015,12,4.8,Latin America,$211.04,456.6
+MB-71062,Motorola,Edge 50,2021,Budget,Android,6,64,6.8,3015,12,4.8,Africa,$195.07,869.7
+MB-71063,Motorola,Edge 50,2022,Budget,Android,8,128,5.5,5448,48,4.5,North America,$101.67,763.9
+MB-71064,Motorola,Edge 50,2022,Budget,Android,8,128,5.5,5448,48,4.5,Europe,$126.01,502.0
+MB-71065,Motorola,Edge 50,2022,Budget,Android,8,128,5.5,5448,48,4.5,Asia Pacific,$97.29,"1,134.0"
+MB-71066,Motorola,Edge 50,2022,Budget,Android,8,128,5.5,5448,48,4.5,Middle East,$96.83,550.9
+MB-71067,Motorola,Edge 50,2022,Budget,Android,8,128,5.5,5448,48,4.5,Latin America,$128.67,146.5
+MB-71068,Motorola,Edge 50,2022,Budget,Android,8,128,5.5,5448,48,4.5,Africa,$101.01,39.1
+MB-71069,Motorola,Edge 50,2023,Premium,Android,3,512,6.8,3166,108,4.1,North America,$812.04,17.8
+MB-71070,Motorola,Edge 50,2023,Premium,Android,3,512,6.8,3166,108,4.1,Europe,$702.40,518.3
+MB-71071,Motorola,Edge 50,2023,Premium,Android,3,512,6.8,3166,108,4.1,Asia Pacific,$782.80,988.0
+MB-71072,Motorola,Edge 50,2023,Premium,Android,3,512,6.8,3166,108,4.1,Middle East,$828.23,8.1
+MB-71073,Motorola,Edge 50,2023,Premium,Android,3,512,6.8,3166,108,4.1,Latin America,$753.86,630.2
+MB-71074,Motorola,Edge 50,2023,Premium,Android,3,512,6.8,3166,108,4.1,Africa,$762.68,796.3
+MB-71075,Motorola,Edge 50,2024,Budget,Android,12,256,6.5,4622,64,4.7,North America,$140.34,300.7
+MB-71076,Motorola,Edge 50,2024,Budget,Android,12,256,6.5,4622,64,4.7,Europe,$140.50,655.7
+MB-71077,Motorola,Edge 50,2024,Budget,Android,12,256,6.5,4622,64,4.7,Asia Pacific,$150.10,379.2
+MB-71078,Motorola,Edge 50,2024,Budget,Android,12,256,6.5,4622,64,4.7,Middle East,$144.84,405.6
+MB-71079,Motorola,Edge 50,2024,Budget,Android,12,256,6.5,4622,64,4.7,Latin America,$119.82,297.9
+MB-71080,Motorola,Edge 50,2024,Budget,Android,12,256,6.5,4622,64,4.7,Africa,$135.59,"1,081.1"
+MB-71081,Motorola,Razr 40,2022,Mid-Range,Android,3,64,6.9,3596,200,4.5,North America,$337.63,788.6
+MB-71082,Motorola,Razr 40,2022,Mid-Range,Android,3,64,6.9,3596,200,4.5,Europe,$387.30,300.4
+MB-71083,Motorola,Razr 40,2022,Mid-Range,Android,3,64,6.9,3596,200,4.5,Asia Pacific,$389.76,989.3
+MB-71084,Motorola,Razr 40,2022,Mid-Range,Android,3,64,6.9,3596,200,4.5,Middle East,$413.94,938.6
+MB-71085,Motorola,Razr 40,2022,Mid-Range,Android,3,64,6.9,3596,200,4.5,Latin America,$417.01,103.1
+MB-71086,Motorola,Razr 40,2022,Mid-Range,Android,3,64,6.9,3596,200,4.5,Africa,$339.19,85.7
+MB-71087,Motorola,Razr 40,2024,Flagship,Android,12,128,6.4,3243,108,4.6,North America,"$1,568.04","1,135.4"
+MB-71088,Motorola,Razr 40,2024,Flagship,Android,12,128,6.4,3243,108,4.6,Europe,"$1,287.29",989.8
+MB-71089,Motorola,Razr 40,2024,Flagship,Android,12,128,6.4,3243,108,4.6,Asia Pacific,"$1,543.92","1,021.8"
+MB-71090,Motorola,Razr 40,2024,Flagship,Android,12,128,6.4,3243,108,4.6,Middle East,"$1,595.06",462.7
+MB-71091,Motorola,Razr 40,2024,Flagship,Android,12,128,6.4,3243,108,4.6,Latin America,"$1,696.20",38.8
+MB-71092,Motorola,Razr 40,2024,Flagship,Android,12,128,6.4,3243,108,4.6,Africa,"$1,632.68",36.1
+MB-71093,Motorola,Moto G54,2022,Flagship,Android,4,256,6.1,5316,50,4.7,North America,"$1,399.55",342.9
+MB-71094,Motorola,Moto G54,2022,Flagship,Android,4,256,6.1,5316,50,4.7,Europe,"$1,386.50",839.2
+MB-71095,Motorola,Moto G54,2022,Flagship,Android,4,256,6.1,5316,50,4.7,Asia Pacific,"$1,219.41","1,087.9"
+MB-71096,Motorola,Moto G54,2022,Flagship,Android,4,256,6.1,5316,50,4.7,Middle East,"$1,286.75","1,018.7"
+MB-71097,Motorola,Moto G54,2022,Flagship,Android,4,256,6.1,5316,50,4.7,Latin America,"$1,383.57",811.3
+MB-71098,Motorola,Moto G54,2022,Flagship,Android,4,256,6.1,5316,50,4.7,Africa,"$1,438.50",103.3
+MB-71099,Motorola,Moto G54,2023,Mid-Range,Android,6,64,6.1,3906,12,4.6,North America,$397.45,563.4
+MB-71100,Motorola,Moto G54,2023,Mid-Range,Android,6,64,6.1,3906,12,4.6,Europe,$388.39,"1,012.1"
+MB-71101,Motorola,Moto G54,2023,Mid-Range,Android,6,64,6.1,3906,12,4.6,Asia Pacific,$378.55,219.4
+MB-71102,Motorola,Moto G54,2023,Mid-Range,Android,6,64,6.1,3906,12,4.6,Middle East,$359.88,"1,072.2"
+MB-71103,Motorola,Moto G54,2023,Mid-Range,Android,6,64,6.1,3906,12,4.6,Latin America,$364.66,242.6
+MB-71104,Motorola,Moto G54,2023,Mid-Range,Android,6,64,6.1,3906,12,4.6,Africa,$423.30,140.8
+MB-71105,Nokia,G42,2021,Budget,Android,6,512,6.5,4283,12,4.1,North America,$132.09,945.5
+MB-71106,Nokia,G42,2021,Budget,Android,6,512,6.5,4283,12,4.1,Europe,$114.35,15.7
+MB-71107,Nokia,G42,2021,Budget,Android,6,512,6.5,4283,12,4.1,Asia Pacific,$139.63,102.3
+MB-71108,Nokia,G42,2021,Budget,Android,6,512,6.5,4283,12,4.1,Middle East,$137.11,614.6
+MB-71109,Nokia,G42,2021,Budget,Android,6,512,6.5,4283,12,4.1,Latin America,$137.59,317.9
+MB-71110,Nokia,G42,2021,Budget,Android,6,512,6.5,4283,12,4.1,Africa,$124.66,111.3
+MB-71111,Nokia,G42,2022,Premium,Android,6,64,6.8,5415,108,4,North America,$591.41,27.7
+MB-71112,Nokia,G42,2022,Premium,Android,6,64,6.8,5415,108,4,Europe,$620.30,665.9
+MB-71113,Nokia,G42,2022,Premium,Android,6,64,6.8,5415,108,4,Asia Pacific,$586.16,484.6
+MB-71114,Nokia,G42,2022,Premium,Android,6,64,6.8,5415,108,4,Middle East,$671.09,314.2
+MB-71115,Nokia,G42,2022,Premium,Android,6,64,6.8,5415,108,4,Latin America,$598.69,538.9
+MB-71116,Nokia,G42,2022,Premium,Android,6,64,6.8,5415,108,4,Africa,$634.27,20.8
+MB-71117,Nokia,G42,2023,Budget,Android,16,32,6.1,4694,64,4,North America,$189.57,704.5
+MB-71118,Nokia,G42,2023,Budget,Android,16,32,6.1,4694,64,4,Europe,$143.08,400.7
+MB-71119,Nokia,G42,2023,Budget,Android,16,32,6.1,4694,64,4,Asia Pacific,$186.44,660.2
+MB-71120,Nokia,G42,2023,Budget,Android,16,32,6.1,4694,64,4,Middle East,$142.04,105.8
+MB-71121,Nokia,G42,2023,Budget,Android,16,32,6.1,4694,64,4,Latin America,$184.51,489.9
+MB-71122,Nokia,G42,2023,Budget,Android,16,32,6.1,4694,64,4,Africa,$157.65,827.2
+MB-71123,Nokia,G42,2024,Mid-Range,Android,6,256,5.5,3203,64,4,North America,$206.32,524.6
+MB-71124,Nokia,G42,2024,Mid-Range,Android,6,256,5.5,3203,64,4,Europe,$211.64,"1,144.4"
+MB-71125,Nokia,G42,2024,Mid-Range,Android,6,256,5.5,3203,64,4,Asia Pacific,$180.29,880.9
+MB-71126,Nokia,G42,2024,Mid-Range,Android,6,256,5.5,3203,64,4,Middle East,$198.67,"1,081.7"
+MB-71127,Nokia,G42,2024,Mid-Range,Android,6,256,5.5,3203,64,4,Latin America,$186.95,857.2
+MB-71128,Nokia,G42,2024,Mid-Range,Android,6,256,5.5,3203,64,4,Africa,$189.16,663.3
+MB-71129,Nokia,X30,2021,Mid-Range,Android,12,64,6.9,4086,12,4.6,North America,$450.92,378.9
+MB-71130,Nokia,X30,2021,Mid-Range,Android,12,64,6.9,4086,12,4.6,Europe,$539.54,35.8
+MB-71131,Nokia,X30,2021,Mid-Range,Android,12,64,6.9,4086,12,4.6,Asia Pacific,$452.52,819.7
+MB-71132,Nokia,X30,2021,Mid-Range,Android,12,64,6.9,4086,12,4.6,Middle East,$446.77,"1,188.2"
+MB-71133,Nokia,X30,2021,Mid-Range,Android,12,64,6.9,4086,12,4.6,Latin America,$469.48,315.7
+MB-71134,Nokia,X30,2021,Mid-Range,Android,12,64,6.9,4086,12,4.6,Africa,$417.78,212.0
+MB-71135,Nokia,X30,2023,Budget,Android,8,32,6.5,5264,200,3.8,North America,$139.54,925.2
+MB-71136,Nokia,X30,2023,Budget,Android,8,32,6.5,5264,200,3.8,Europe,$124.07,504.8
+MB-71137,Nokia,X30,2023,Budget,Android,8,32,6.5,5264,200,3.8,Asia Pacific,$154.59,103.7
+MB-71138,Nokia,X30,2023,Budget,Android,8,32,6.5,5264,200,3.8,Middle East,$129.00,400.5
+MB-71139,Nokia,X30,2023,Budget,Android,8,32,6.5,5264,200,3.8,Latin America,$134.07,838.5
+MB-71140,Nokia,X30,2023,Budget,Android,8,32,6.5,5264,200,3.8,Africa,$150.16,92.5
+MB-71141,Nokia,X30,2024,Premium,Android,12,32,6.9,3603,50,3.6,North America,$662.85,206.7
+MB-71142,Nokia,X30,2024,Premium,Android,12,32,6.9,3603,50,3.6,Europe,$608.25,585.5
+MB-71143,Nokia,X30,2024,Premium,Android,12,32,6.9,3603,50,3.6,Asia Pacific,$732.38,"1,133.4"
+MB-71144,Nokia,X30,2024,Premium,Android,12,32,6.9,3603,50,3.6,Middle East,$691.69,167.2
+MB-71145,Nokia,X30,2024,Premium,Android,12,32,6.9,3603,50,3.6,Latin America,$708.08,451.5
+MB-71146,Nokia,X30,2024,Premium,Android,12,32,6.9,3603,50,3.6,Africa,$624.68,251.3
+MB-71147,Nokia,C32,2022,Mid-Range,Android,3,64,5.5,5465,12,4.6,North America,$291.97,529.0
+MB-71148,Nokia,C32,2022,Mid-Range,Android,3,64,5.5,5465,12,4.6,Europe,$291.88,454.8
+MB-71149,Nokia,C32,2022,Mid-Range,Android,3,64,5.5,5465,12,4.6,Asia Pacific,$272.72,45.7
+MB-71150,Nokia,C32,2022,Mid-Range,Android,3,64,5.5,5465,12,4.6,Middle East,$360.08,265.2
+MB-71151,Nokia,C32,2022,Mid-Range,Android,3,64,5.5,5465,12,4.6,Latin America,$290.45,"1,174.7"
+MB-71152,Nokia,C32,2022,Mid-Range,Android,3,64,5.5,5465,12,4.6,Africa,$363.83,688.3
+MB-71153,Nokia,C32,2023,Premium,Android,16,512,6.9,4521,48,4.9,North America,$573.75,952.7
+MB-71154,Nokia,C32,2023,Premium,Android,16,512,6.9,4521,48,4.9,Europe,$479.71,308.7
+MB-71155,Nokia,C32,2023,Premium,Android,16,512,6.9,4521,48,4.9,Asia Pacific,$482.41,667.7
+MB-71156,Nokia,C32,2023,Premium,Android,16,512,6.9,4521,48,4.9,Middle East,$498.43,872.6
+MB-71157,Nokia,C32,2023,Premium,Android,16,512,6.9,4521,48,4.9,Latin America,$614.65,375.5
+MB-71158,Nokia,C32,2023,Premium,Android,16,512,6.9,4521,48,4.9,Africa,$610.72,100.8
+MB-71159,Nokia,C32,2024,Premium,Android,3,512,6.4,4243,12,4.9,North America,$650.82,429.9
+MB-71160,Nokia,C32,2024,Premium,Android,3,512,6.4,4243,12,4.9,Europe,$688.28,65.1
+MB-71161,Nokia,C32,2024,Premium,Android,3,512,6.4,4243,12,4.9,Asia Pacific,$793.83,226.5
+MB-71162,Nokia,C32,2024,Premium,Android,3,512,6.4,4243,12,4.9,Middle East,$691.59,"1,064.0"
+MB-71163,Nokia,C32,2024,Premium,Android,3,512,6.4,4243,12,4.9,Latin America,$638.93,569.2
+MB-71164,Nokia,C32,2024,Premium,Android,3,512,6.4,4243,12,4.9,Africa,$590.70,"1,118.4"
+MB-71165,Nokia,XR21,2021,Budget,Android,16,128,6.8,3053,64,4.8,North America,$141.30,571.1
+MB-71166,Nokia,XR21,2021,Budget,Android,16,128,6.8,3053,64,4.8,Europe,$169.08,916.5
+MB-71167,Nokia,XR21,2021,Budget,Android,16,128,6.8,3053,64,4.8,Asia Pacific,$172.26,421.3
+MB-71168,Nokia,XR21,2021,Budget,Android,16,128,6.8,3053,64,4.8,Middle East,$162.38,536.9
+MB-71169,Nokia,XR21,2021,Budget,Android,16,128,6.8,3053,64,4.8,Latin America,$175.02,550.7
+MB-71170,Nokia,XR21,2021,Budget,Android,16,128,6.8,3053,64,4.8,Africa,$154.13,988.4
+MB-71171,Nokia,XR21,2022,Premium,Android,16,32,6.5,5390,12,4.6,North America,$764.95,887.3
+MB-71172,Nokia,XR21,2022,Premium,Android,16,32,6.5,5390,12,4.6,Europe,$788.99,30.9
+MB-71173,Nokia,XR21,2022,Premium,Android,16,32,6.5,5390,12,4.6,Asia Pacific,$739.54,386.7
+MB-71174,Nokia,XR21,2022,Premium,Android,16,32,6.5,5390,12,4.6,Middle East,$769.94,428.9
+MB-71175,Nokia,XR21,2022,Premium,Android,16,32,6.5,5390,12,4.6,Latin America,$850.12,619.9
+MB-71176,Nokia,XR21,2022,Premium,Android,16,32,6.5,5390,12,4.6,Africa,$754.44,890.0
+MB-71177,Nokia,XR21,2023,Budget,Android,16,64,6.5,4502,48,4.5,North America,$138.27,516.6
+MB-71178,Nokia,XR21,2023,Budget,Android,16,64,6.5,4502,48,4.5,Europe,$161.20,853.2
+MB-71179,Nokia,XR21,2023,Budget,Android,16,64,6.5,4502,48,4.5,Asia Pacific,$134.92,643.2
+MB-71180,Nokia,XR21,2023,Budget,Android,16,64,6.5,4502,48,4.5,Middle East,$138.34,44.2
+MB-71181,Nokia,XR21,2023,Budget,Android,16,64,6.5,4502,48,4.5,Latin America,$179.52,80.6
+MB-71182,Nokia,XR21,2023,Budget,Android,16,64,6.5,4502,48,4.5,Africa,$174.72,517.2
+MB-71183,Nokia,XR21,2024,Premium,Android,4,1024,6.4,5296,12,3.9,North America,$570.76,108.9
+MB-71184,Nokia,XR21,2024,Premium,Android,4,1024,6.4,5296,12,3.9,Europe,$520.58,668.6
+MB-71185,Nokia,XR21,2024,Premium,Android,4,1024,6.4,5296,12,3.9,Asia Pacific,$564.60,632.9
+MB-71186,Nokia,XR21,2024,Premium,Android,4,1024,6.4,5296,12,3.9,Middle East,$480.70,184.2
+MB-71187,Nokia,XR21,2024,Premium,Android,4,1024,6.4,5296,12,3.9,Latin America,$516.47,407.3
+MB-71188,Nokia,XR21,2024,Premium,Android,4,1024,6.4,5296,12,3.9,Africa,$484.89,235.9
+MB-71189,Sony,Xperia 1 V,2022,Budget,Android,4,64,6.9,3630,13,4.3,North America,$86.55,170.5
+MB-71190,Sony,Xperia 1 V,2022,Budget,Android,4,64,6.9,3630,13,4.3,Europe,$82.49,472.7
+MB-71191,Sony,Xperia 1 V,2022,Budget,Android,4,64,6.9,3630,13,4.3,Asia Pacific,$103.63,426.7
+MB-71192,Sony,Xperia 1 V,2022,Budget,Android,4,64,6.9,3630,13,4.3,Middle East,$92.43,898.9
+MB-71193,Sony,Xperia 1 V,2022,Budget,Android,4,64,6.9,3630,13,4.3,Latin America,$87.06,91.9
+MB-71194,Sony,Xperia 1 V,2022,Budget,Android,4,64,6.9,3630,13,4.3,Africa,$88.84,711.8
+MB-71195,Sony,Xperia 1 V,2024,Budget,Android,3,64,6.1,4815,13,3.7,North America,$183.41,614.3
+MB-71196,Sony,Xperia 1 V,2024,Budget,Android,3,64,6.1,4815,13,3.7,Europe,$178.09,135.7
+MB-71197,Sony,Xperia 1 V,2024,Budget,Android,3,64,6.1,4815,13,3.7,Asia Pacific,$184.08,48.3
+MB-71198,Sony,Xperia 1 V,2024,Budget,Android,3,64,6.1,4815,13,3.7,Middle East,$204.54,497.1
+MB-71199,Sony,Xperia 1 V,2024,Budget,Android,3,64,6.1,4815,13,3.7,Latin America,$217.89,80.4
+MB-71200,Sony,Xperia 1 V,2024,Budget,Android,3,64,6.1,4815,13,3.7,Africa,$210.72,951.4
+MB-71201,Sony,Xperia 10 V,2021,Budget,Android,6,1024,6.1,3899,64,4.7,North America,$110.11,"1,090.8"
+MB-71202,Sony,Xperia 10 V,2021,Budget,Android,6,1024,6.1,3899,64,4.7,Europe,$106.39,348.2
+MB-71203,Sony,Xperia 10 V,2021,Budget,Android,6,1024,6.1,3899,64,4.7,Asia Pacific,$110.58,930.7
+MB-71204,Sony,Xperia 10 V,2021,Budget,Android,6,1024,6.1,3899,64,4.7,Middle East,$115.83,968.9
+MB-71205,Sony,Xperia 10 V,2021,Budget,Android,6,1024,6.1,3899,64,4.7,Latin America,$99.03,939.2
+MB-71206,Sony,Xperia 10 V,2021,Budget,Android,6,1024,6.1,3899,64,4.7,Africa,$89.36,317.0
+MB-71207,Sony,Xperia 10 V,2022,Premium,Android,3,1024,6.1,3153,13,4.5,North America,$576.70,87.1
+MB-71208,Sony,Xperia 10 V,2022,Premium,Android,3,1024,6.1,3153,13,4.5,Europe,$536.86,797.7
+MB-71209,Sony,Xperia 10 V,2022,Premium,Android,3,1024,6.1,3153,13,4.5,Asia Pacific,$600.58,215.4
+MB-71210,Sony,Xperia 10 V,2022,Premium,Android,3,1024,6.1,3153,13,4.5,Middle East,$521.89,472.6
+MB-71211,Sony,Xperia 10 V,2022,Premium,Android,3,1024,6.1,3153,13,4.5,Latin America,$608.80,330.3
+MB-71212,Sony,Xperia 10 V,2022,Premium,Android,3,1024,6.1,3153,13,4.5,Africa,$584.69,95.6
+MB-71213,Sony,Xperia 10 V,2023,Mid-Range,Android,3,1024,6.5,4625,50,4.8,North America,$283.77,57.6
+MB-71214,Sony,Xperia 10 V,2023,Mid-Range,Android,3,1024,6.5,4625,50,4.8,Europe,$268.51,188.0
+MB-71215,Sony,Xperia 10 V,2023,Mid-Range,Android,3,1024,6.5,4625,50,4.8,Asia Pacific,$323.15,629.6
+MB-71216,Sony,Xperia 10 V,2023,Mid-Range,Android,3,1024,6.5,4625,50,4.8,Middle East,$279.13,789.7
+MB-71217,Sony,Xperia 10 V,2023,Mid-Range,Android,3,1024,6.5,4625,50,4.8,Latin America,$297.33,927.5
+MB-71218,Sony,Xperia 10 V,2023,Mid-Range,Android,3,1024,6.5,4625,50,4.8,Africa,$335.46,"1,045.0"
+MB-71219,Sony,Xperia 5 V,2021,Premium,Android,3,512,5.5,3693,64,3.5,North America,$652.89,"1,107.2"
+MB-71220,Sony,Xperia 5 V,2021,Premium,Android,3,512,5.5,3693,64,3.5,Europe,$638.63,297.6
+MB-71221,Sony,Xperia 5 V,2021,Premium,Android,3,512,5.5,3693,64,3.5,Asia Pacific,$606.18,587.1
+MB-71222,Sony,Xperia 5 V,2021,Premium,Android,3,512,5.5,3693,64,3.5,Middle East,$651.48,107.8
+MB-71223,Sony,Xperia 5 V,2021,Premium,Android,3,512,5.5,3693,64,3.5,Latin America,$558.76,987.4
+MB-71224,Sony,Xperia 5 V,2021,Premium,Android,3,512,5.5,3693,64,3.5,Africa,$511.80,927.8
+MB-71225,Sony,Xperia 5 V,2022,Budget,Android,12,32,6.5,4255,50,4.2,North America,$188.50,81.3
+MB-71226,Sony,Xperia 5 V,2022,Budget,Android,12,32,6.5,4255,50,4.2,Europe,$178.83,837.9
+MB-71227,Sony,Xperia 5 V,2022,Budget,Android,12,32,6.5,4255,50,4.2,Asia Pacific,$154.10,63.0
+MB-71228,Sony,Xperia 5 V,2022,Budget,Android,12,32,6.5,4255,50,4.2,Middle East,$151.99,344.8
+MB-71229,Sony,Xperia 5 V,2022,Budget,Android,12,32,6.5,4255,50,4.2,Latin America,$180.88,308.9
+MB-71230,Sony,Xperia 5 V,2022,Budget,Android,12,32,6.5,4255,50,4.2,Africa,$152.46,"1,123.6"
+MB-71231,Sony,Xperia 5 V,2024,Premium,Android,8,128,5.5,4234,64,4.1,North America,$500.40,602.9
+MB-71232,Sony,Xperia 5 V,2024,Premium,Android,8,128,5.5,4234,64,4.1,Europe,$566.24,279.2
+MB-71233,Sony,Xperia 5 V,2024,Premium,Android,8,128,5.5,4234,64,4.1,Asia Pacific,$503.36,230.9
+MB-71234,Sony,Xperia 5 V,2024,Premium,Android,8,128,5.5,4234,64,4.1,Middle East,$498.57,40.3
+MB-71235,Sony,Xperia 5 V,2024,Premium,Android,8,128,5.5,4234,64,4.1,Latin America,$537.41,696.9
+MB-71236,Sony,Xperia 5 V,2024,Premium,Android,8,128,5.5,4234,64,4.1,Africa,$536.33,340.9
+MB-71237,Asus,Zenfone 10,2022,Premium,Android,4,1024,6.4,4913,13,3.7,North America,$739.35,448.9
+MB-71238,Asus,Zenfone 10,2022,Premium,Android,4,1024,6.4,4913,13,3.7,Europe,$689.72,590.9
+MB-71239,Asus,Zenfone 10,2022,Premium,Android,4,1024,6.4,4913,13,3.7,Asia Pacific,$814.94,12.4
+MB-71240,Asus,Zenfone 10,2022,Premium,Android,4,1024,6.4,4913,13,3.7,Middle East,$701.45,423.7
+MB-71241,Asus,Zenfone 10,2022,Premium,Android,4,1024,6.4,4913,13,3.7,Latin America,$711.56,958.9
+MB-71242,Asus,Zenfone 10,2022,Premium,Android,4,1024,6.4,4913,13,3.7,Africa,$786.38,"1,030.6"
+MB-71243,Asus,Zenfone 10,2023,Budget,Android,16,64,6.8,3198,50,3.7,North America,$104.46,"1,065.4"
+MB-71244,Asus,Zenfone 10,2023,Budget,Android,16,64,6.8,3198,50,3.7,Europe,$120.68,"1,044.8"
+MB-71245,Asus,Zenfone 10,2023,Budget,Android,16,64,6.8,3198,50,3.7,Asia Pacific,$109.15,446.8
+MB-71246,Asus,Zenfone 10,2023,Budget,Android,16,64,6.8,3198,50,3.7,Middle East,$104.35,597.9
+MB-71247,Asus,Zenfone 10,2023,Budget,Android,16,64,6.8,3198,50,3.7,Latin America,$114.61,555.3
+MB-71248,Asus,Zenfone 10,2023,Budget,Android,16,64,6.8,3198,50,3.7,Africa,$119.06,988.6
+MB-71249,Asus,Zenfone 10,2024,Mid-Range,Android,12,1024,6.8,3202,64,4.3,North America,$252.72,"1,169.1"
+MB-71250,Asus,Zenfone 10,2024,Mid-Range,Android,12,1024,6.8,3202,64,4.3,Europe,$252.70,"1,167.7"
+MB-71251,Asus,Zenfone 10,2024,Mid-Range,Android,12,1024,6.8,3202,64,4.3,Asia Pacific,$257.98,604.3
+MB-71252,Asus,Zenfone 10,2024,Mid-Range,Android,12,1024,6.8,3202,64,4.3,Middle East,$276.61,"1,063.8"
+MB-71253,Asus,Zenfone 10,2024,Mid-Range,Android,12,1024,6.8,3202,64,4.3,Latin America,$281.23,"1,062.1"
+MB-71254,Asus,Zenfone 10,2024,Mid-Range,Android,12,1024,6.8,3202,64,4.3,Africa,$290.26,100.1
+MB-71255,Asus,ROG Phone 8,2022,Budget,Android,6,128,6.9,4987,48,4.4,North America,$100.41,"1,023.3"
+MB-71256,Asus,ROG Phone 8,2022,Budget,Android,6,128,6.9,4987,48,4.4,Europe,$108.66,353.6
+MB-71257,Asus,ROG Phone 8,2022,Budget,Android,6,128,6.9,4987,48,4.4,Asia Pacific,$82.09,909.3
+MB-71258,Asus,ROG Phone 8,2022,Budget,Android,6,128,6.9,4987,48,4.4,Middle East,$109.48,941.7
+MB-71259,Asus,ROG Phone 8,2022,Budget,Android,6,128,6.9,4987,48,4.4,Latin America,$108.41,149.7
+MB-71260,Asus,ROG Phone 8,2022,Budget,Android,6,128,6.9,4987,48,4.4,Africa,$96.74,825.4
+MB-71261,Asus,ROG Phone 8,2023,Mid-Range,Android,4,256,6.8,4514,200,4.1,North America,$236.71,"1,193.4"
+MB-71262,Asus,ROG Phone 8,2023,Mid-Range,Android,4,256,6.8,4514,200,4.1,Europe,$217.96,561.3
+MB-71263,Asus,ROG Phone 8,2023,Mid-Range,Android,4,256,6.8,4514,200,4.1,Asia Pacific,$209.39,12.4
+MB-71264,Asus,ROG Phone 8,2023,Mid-Range,Android,4,256,6.8,4514,200,4.1,Middle East,$195.65,228.3
+MB-71265,Asus,ROG Phone 8,2023,Mid-Range,Android,4,256,6.8,4514,200,4.1,Latin America,$241.23,534.8
+MB-71266,Asus,ROG Phone 8,2023,Mid-Range,Android,4,256,6.8,4514,200,4.1,Africa,$200.26,"1,081.9"
+MB-71267,Asus,ROG Phone 7,2022,Premium,Android,8,64,6.8,5243,50,4.7,North America,$981.57,205.2
+MB-71268,Asus,ROG Phone 7,2022,Premium,Android,8,64,6.8,5243,50,4.7,Europe,$889.51,5.1
+MB-71269,Asus,ROG Phone 7,2022,Premium,Android,8,64,6.8,5243,50,4.7,Asia Pacific,$939.46,"1,148.0"
+MB-71270,Asus,ROG Phone 7,2022,Premium,Android,8,64,6.8,5243,50,4.7,Middle East,$809.51,410.1
+MB-71271,Asus,ROG Phone 7,2022,Premium,Android,8,64,6.8,5243,50,4.7,Latin America,$927.44,300.9
+MB-71272,Asus,ROG Phone 7,2022,Premium,Android,8,64,6.8,5243,50,4.7,Africa,$969.20,280.4
+MB-71273,Asus,ROG Phone 7,2023,Budget,Android,3,128,6.7,3135,108,3.6,North America,$106.25,507.2
+MB-71274,Asus,ROG Phone 7,2023,Budget,Android,3,128,6.7,3135,108,3.6,Europe,$102.71,126.8
+MB-71275,Asus,ROG Phone 7,2023,Budget,Android,3,128,6.7,3135,108,3.6,Asia Pacific,$106.41,58.7
+MB-71276,Asus,ROG Phone 7,2023,Budget,Android,3,128,6.7,3135,108,3.6,Middle East,$135.50,603.1
+MB-71277,Asus,ROG Phone 7,2023,Budget,Android,3,128,6.7,3135,108,3.6,Latin America,$108.78,893.7
+MB-71278,Asus,ROG Phone 7,2023,Budget,Android,3,128,6.7,3135,108,3.6,Africa,$117.68,539.7
+MB-71279,Asus,ROG Phone 7,2024,Budget,Android,6,32,6.1,5388,12,3.6,North America,$164.64,"1,157.3"
+MB-71280,Asus,ROG Phone 7,2024,Budget,Android,6,32,6.1,5388,12,3.6,Europe,$179.07,852.0
+MB-71281,Asus,ROG Phone 7,2024,Budget,Android,6,32,6.1,5388,12,3.6,Asia Pacific,$168.69,864.6
+MB-71282,Asus,ROG Phone 7,2024,Budget,Android,6,32,6.1,5388,12,3.6,Middle East,$160.47,34.6
+MB-71283,Asus,ROG Phone 7,2024,Budget,Android,6,32,6.1,5388,12,3.6,Latin America,$181.25,687.2
+MB-71284,Asus,ROG Phone 7,2024,Budget,Android,6,32,6.1,5388,12,3.6,Africa,$185.78,333.8
+MB-71285,Honor,Magic6,2021,Premium,Android,8,128,6.4,3166,108,3.9,North America,$905.20,91.1
+MB-71286,Honor,Magic6,2021,Premium,Android,8,128,6.4,3166,108,3.9,Europe,$845.43,71.6
+MB-71287,Honor,Magic6,2021,Premium,Android,8,128,6.4,3166,108,3.9,Asia Pacific,$952.90,30.0
+MB-71288,Honor,Magic6,2021,Premium,Android,8,128,6.4,3166,108,3.9,Middle East,$927.79,734.9
+MB-71289,Honor,Magic6,2021,Premium,Android,8,128,6.4,3166,108,3.9,Latin America,$775.50,511.0
+MB-71290,Honor,Magic6,2021,Premium,Android,8,128,6.4,3166,108,3.9,Africa,$898.60,304.7
+MB-71291,Honor,Magic6,2022,Mid-Range,Android,8,128,6.9,4385,108,4.8,North America,$264.23,604.5
+MB-71292,Honor,Magic6,2022,Mid-Range,Android,8,128,6.9,4385,108,4.8,Europe,$282.47,837.0
+MB-71293,Honor,Magic6,2022,Mid-Range,Android,8,128,6.9,4385,108,4.8,Asia Pacific,$264.31,534.3
+MB-71294,Honor,Magic6,2022,Mid-Range,Android,8,128,6.9,4385,108,4.8,Middle East,$291.43,"1,135.1"
+MB-71295,Honor,Magic6,2022,Mid-Range,Android,8,128,6.9,4385,108,4.8,Latin America,$321.75,877.4
+MB-71296,Honor,Magic6,2022,Mid-Range,Android,8,128,6.9,4385,108,4.8,Africa,$295.83,990.4
+MB-71297,Honor,Magic6,2023,Premium,Android,6,512,6.7,3387,200,4.4,North America,$467.13,819.6
+MB-71298,Honor,Magic6,2023,Premium,Android,6,512,6.7,3387,200,4.4,Europe,$570.77,56.6
+MB-71299,Honor,Magic6,2023,Premium,Android,6,512,6.7,3387,200,4.4,Asia Pacific,$479.33,570.3
+MB-71300,Honor,Magic6,2023,Premium,Android,6,512,6.7,3387,200,4.4,Middle East,$460.69,930.3
+MB-71301,Honor,Magic6,2023,Premium,Android,6,512,6.7,3387,200,4.4,Latin America,$539.95,"1,158.3"
+MB-71302,Honor,Magic6,2023,Premium,Android,6,512,6.7,3387,200,4.4,Africa,$430.20,55.6
+MB-71303,Honor,Magic6,2024,Budget,Android,6,256,5.5,5320,200,3.5,North America,$148.71,481.9
+MB-71304,Honor,Magic6,2024,Budget,Android,6,256,5.5,5320,200,3.5,Europe,$118.20,782.3
+MB-71305,Honor,Magic6,2024,Budget,Android,6,256,5.5,5320,200,3.5,Asia Pacific,$128.04,412.8
+MB-71306,Honor,Magic6,2024,Budget,Android,6,256,5.5,5320,200,3.5,Middle East,$138.12,129.9
+MB-71307,Honor,Magic6,2024,Budget,Android,6,256,5.5,5320,200,3.5,Latin America,$146.54,"1,024.6"
+MB-71308,Honor,Magic6,2024,Budget,Android,6,256,5.5,5320,200,3.5,Africa,$115.40,"1,120.4"
+MB-71309,Honor,90,2021,Mid-Range,Android,3,32,5.5,3292,13,4.3,North America,$272.09,335.5
+MB-71310,Honor,90,2021,Mid-Range,Android,3,32,5.5,3292,13,4.3,Europe,$259.17,720.3
+MB-71311,Honor,90,2021,Mid-Range,Android,3,32,5.5,3292,13,4.3,Asia Pacific,$319.51,920.6
+MB-71312,Honor,90,2021,Mid-Range,Android,3,32,5.5,3292,13,4.3,Middle East,$302.75,"1,008.1"
+MB-71313,Honor,90,2021,Mid-Range,Android,3,32,5.5,3292,13,4.3,Latin America,$263.93,"1,138.2"
+MB-71314,Honor,90,2021,Mid-Range,Android,3,32,5.5,3292,13,4.3,Africa,$304.82,766.9
+MB-71315,Honor,90,2022,Budget,Android,16,64,5.5,3533,108,4.5,North America,$203.68,931.5
+MB-71316,Honor,90,2022,Budget,Android,16,64,5.5,3533,108,4.5,Europe,$163.78,704.9
+MB-71317,Honor,90,2022,Budget,Android,16,64,5.5,3533,108,4.5,Asia Pacific,$176.50,"1,016.2"
+MB-71318,Honor,90,2022,Budget,Android,16,64,5.5,3533,108,4.5,Middle East,$202.55,238.3
+MB-71319,Honor,90,2022,Budget,Android,16,64,5.5,3533,108,4.5,Latin America,$168.26,434.9
+MB-71320,Honor,90,2022,Budget,Android,16,64,5.5,3533,108,4.5,Africa,$214.44,154.8
+MB-71321,Honor,X9b,2021,Mid-Range,Android,16,256,6.9,4744,64,4.4,North America,$202.52,254.7
+MB-71322,Honor,X9b,2021,Mid-Range,Android,16,256,6.9,4744,64,4.4,Europe,$220.21,672.1
+MB-71323,Honor,X9b,2021,Mid-Range,Android,16,256,6.9,4744,64,4.4,Asia Pacific,$192.29,770.5
+MB-71324,Honor,X9b,2021,Mid-Range,Android,16,256,6.9,4744,64,4.4,Middle East,$240.28,229.4
+MB-71325,Honor,X9b,2021,Mid-Range,Android,16,256,6.9,4744,64,4.4,Latin America,$218.68,750.7
+MB-71326,Honor,X9b,2021,Mid-Range,Android,16,256,6.9,4744,64,4.4,Africa,$217.73,"1,082.3"
+MB-71327,Honor,X9b,2022,Mid-Range,Android,8,32,6.9,3364,12,4.3,North America,$245.79,168.7
+MB-71328,Honor,X9b,2022,Mid-Range,Android,8,32,6.9,3364,12,4.3,Europe,$263.14,574.2
+MB-71329,Honor,X9b,2022,Mid-Range,Android,8,32,6.9,3364,12,4.3,Asia Pacific,$281.06,174.2
+MB-71330,Honor,X9b,2022,Mid-Range,Android,8,32,6.9,3364,12,4.3,Middle East,$266.02,885.4
+MB-71331,Honor,X9b,2022,Mid-Range,Android,8,32,6.9,3364,12,4.3,Latin America,$267.51,461.1
+MB-71332,Honor,X9b,2022,Mid-Range,Android,8,32,6.9,3364,12,4.3,Africa,$284.90,687.4
+MB-71333,Honor,X9b,2023,Mid-Range,Android,12,256,6.1,5036,200,3.5,North America,$496.57,435.3
+MB-71334,Honor,X9b,2023,Mid-Range,Android,12,256,6.1,5036,200,3.5,Europe,$464.30,519.5
+MB-71335,Honor,X9b,2023,Mid-Range,Android,12,256,6.1,5036,200,3.5,Asia Pacific,$462.34,668.6
+MB-71336,Honor,X9b,2023,Mid-Range,Android,12,256,6.1,5036,200,3.5,Middle East,$418.10,118.0
+MB-71337,Honor,X9b,2023,Mid-Range,Android,12,256,6.1,5036,200,3.5,Latin America,$477.47,"1,030.5"
+MB-71338,Honor,X9b,2023,Mid-Range,Android,12,256,6.1,5036,200,3.5,Africa,$406.28,453.0
+MB-71339,Honor,X9b,2024,Budget,Android,16,1024,6.4,3811,48,3.9,North America,$99.00,450.5
+MB-71340,Honor,X9b,2024,Budget,Android,16,1024,6.4,3811,48,3.9,Europe,$89.89,23.3
+MB-71341,Honor,X9b,2024,Budget,Android,16,1024,6.4,3811,48,3.9,Asia Pacific,$101.79,191.9
+MB-71342,Honor,X9b,2024,Budget,Android,16,1024,6.4,3811,48,3.9,Middle East,$98.21,454.1
+MB-71343,Honor,X9b,2024,Budget,Android,16,1024,6.4,3811,48,3.9,Latin America,$103.64,731.0
+MB-71344,Honor,X9b,2024,Budget,Android,16,1024,6.4,3811,48,3.9,Africa,$98.29,"1,084.9"
+MB-71345,Honor,200 Pro,2021,Mid-Range,Android,4,32,6.7,4915,108,4,North America,$358.68,175.0
+MB-71346,Honor,200 Pro,2021,Mid-Range,Android,4,32,6.7,4915,108,4,Europe,$403.10,919.5
+MB-71347,Honor,200 Pro,2021,Mid-Range,Android,4,32,6.7,4915,108,4,Asia Pacific,$467.78,831.1
+MB-71348,Honor,200 Pro,2021,Mid-Range,Android,4,32,6.7,4915,108,4,Middle East,$376.15,89.6
+MB-71349,Honor,200 Pro,2021,Mid-Range,Android,4,32,6.7,4915,108,4,Latin America,$426.25,838.2
+MB-71350,Honor,200 Pro,2021,Mid-Range,Android,4,32,6.7,4915,108,4,Africa,$376.59,279.6
+MB-71351,Honor,200 Pro,2022,Premium,Android,8,512,6.5,3917,64,4.2,North America,$646.63,469.7
+MB-71352,Honor,200 Pro,2022,Premium,Android,8,512,6.5,3917,64,4.2,Europe,$665.20,413.6
+MB-71353,Honor,200 Pro,2022,Premium,Android,8,512,6.5,3917,64,4.2,Asia Pacific,$568.18,716.8
+MB-71354,Honor,200 Pro,2022,Premium,Android,8,512,6.5,3917,64,4.2,Middle East,$552.81,270.6
+MB-71355,Honor,200 Pro,2022,Premium,Android,8,512,6.5,3917,64,4.2,Latin America,$648.66,89.5
+MB-71356,Honor,200 Pro,2022,Premium,Android,8,512,6.5,3917,64,4.2,Africa,$552.40,"1,141.1"
+MB-71357,Honor,200 Pro,2023,Mid-Range,Android,6,32,6.9,3503,108,4.2,North America,$307.46,819.7
+MB-71358,Honor,200 Pro,2023,Mid-Range,Android,6,32,6.9,3503,108,4.2,Europe,$310.79,481.5
+MB-71359,Honor,200 Pro,2023,Mid-Range,Android,6,32,6.9,3503,108,4.2,Asia Pacific,$255.89,255.9
+MB-71360,Honor,200 Pro,2023,Mid-Range,Android,6,32,6.9,3503,108,4.2,Middle East,$284.89,"1,070.7"
+MB-71361,Honor,200 Pro,2023,Mid-Range,Android,6,32,6.9,3503,108,4.2,Latin America,$268.55,"1,090.9"
+MB-71362,Honor,200 Pro,2023,Mid-Range,Android,6,32,6.9,3503,108,4.2,Africa,$262.18,851.5
+MB-71363,Honor,200 Pro,2024,Mid-Range,Android,4,32,6.5,5347,12,4,North America,$434.31,"1,053.5"
+MB-71364,Honor,200 Pro,2024,Mid-Range,Android,4,32,6.5,5347,12,4,Europe,$364.32,853.5
+MB-71365,Honor,200 Pro,2024,Mid-Range,Android,4,32,6.5,5347,12,4,Asia Pacific,$430.26,277.6
+MB-71366,Honor,200 Pro,2024,Mid-Range,Android,4,32,6.5,5347,12,4,Middle East,$446.85,864.5
+MB-71367,Honor,200 Pro,2024,Mid-Range,Android,4,32,6.5,5347,12,4,Latin America,$362.44,218.8
+MB-71368,Honor,200 Pro,2024,Mid-Range,Android,4,32,6.5,5347,12,4,Africa,$393.80,"1,092.2"
+MB-71369,Infinix,Note 40,2021,Budget,Android,8,64,6.1,3421,12,4.1,North America,$134.83,224.0
+MB-71370,Infinix,Note 40,2021,Budget,Android,8,64,6.1,3421,12,4.1,Europe,$128.64,650.6
+MB-71371,Infinix,Note 40,2021,Budget,Android,8,64,6.1,3421,12,4.1,Asia Pacific,$107.04,177.0
+MB-71372,Infinix,Note 40,2021,Budget,Android,8,64,6.1,3421,12,4.1,Middle East,$123.23,534.9
+MB-71373,Infinix,Note 40,2021,Budget,Android,8,64,6.1,3421,12,4.1,Latin America,$102.24,749.5
+MB-71374,Infinix,Note 40,2021,Budget,Android,8,64,6.1,3421,12,4.1,Africa,$118.53,87.7
+MB-71375,Infinix,Note 40,2022,Mid-Range,Android,8,32,5.5,5175,48,3.6,North America,$430.89,617.1
+MB-71376,Infinix,Note 40,2022,Mid-Range,Android,8,32,5.5,5175,48,3.6,Europe,$407.25,163.4
+MB-71377,Infinix,Note 40,2022,Mid-Range,Android,8,32,5.5,5175,48,3.6,Asia Pacific,$442.36,"1,072.1"
+MB-71378,Infinix,Note 40,2022,Mid-Range,Android,8,32,5.5,5175,48,3.6,Middle East,$444.57,981.1
+MB-71379,Infinix,Note 40,2022,Mid-Range,Android,8,32,5.5,5175,48,3.6,Latin America,$467.91,801.6
+MB-71380,Infinix,Note 40,2022,Mid-Range,Android,8,32,5.5,5175,48,3.6,Africa,$427.40,912.3
+MB-71381,Infinix,Note 40,2023,Mid-Range,Android,6,512,5.5,3610,50,4.3,North America,$220.81,182.4
+MB-71382,Infinix,Note 40,2023,Mid-Range,Android,6,512,5.5,3610,50,4.3,Europe,$209.16,456.7
+MB-71383,Infinix,Note 40,2023,Mid-Range,Android,6,512,5.5,3610,50,4.3,Asia Pacific,$268.98,824.6
+MB-71384,Infinix,Note 40,2023,Mid-Range,Android,6,512,5.5,3610,50,4.3,Middle East,$224.45,490.0
+MB-71385,Infinix,Note 40,2023,Mid-Range,Android,6,512,5.5,3610,50,4.3,Latin America,$226.41,136.1
+MB-71386,Infinix,Note 40,2023,Mid-Range,Android,6,512,5.5,3610,50,4.3,Africa,$262.91,"1,071.3"
+MB-71387,Infinix,Note 40,2024,Premium,Android,8,32,6.4,4143,48,4.7,North America,$546.59,844.7
+MB-71388,Infinix,Note 40,2024,Premium,Android,8,32,6.4,4143,48,4.7,Europe,$511.67,168.5
+MB-71389,Infinix,Note 40,2024,Premium,Android,8,32,6.4,4143,48,4.7,Asia Pacific,$491.45,"1,016.7"
+MB-71390,Infinix,Note 40,2024,Premium,Android,8,32,6.4,4143,48,4.7,Middle East,$434.88,690.9
+MB-71391,Infinix,Note 40,2024,Premium,Android,8,32,6.4,4143,48,4.7,Latin America,$497.13,740.5
+MB-71392,Infinix,Note 40,2024,Premium,Android,8,32,6.4,4143,48,4.7,Africa,$531.06,699.4
+MB-71393,Infinix,Zero 30,2021,Mid-Range,Android,3,32,6.9,3676,48,3.7,North America,$416.72,485.2
+MB-71394,Infinix,Zero 30,2021,Mid-Range,Android,3,32,6.9,3676,48,3.7,Europe,$479.87,212.8
+MB-71395,Infinix,Zero 30,2021,Mid-Range,Android,3,32,6.9,3676,48,3.7,Asia Pacific,$384.81,768.2
+MB-71396,Infinix,Zero 30,2021,Mid-Range,Android,3,32,6.9,3676,48,3.7,Middle East,$437.15,"1,062.7"
+MB-71397,Infinix,Zero 30,2021,Mid-Range,Android,3,32,6.9,3676,48,3.7,Latin America,$393.44,"1,052.3"
+MB-71398,Infinix,Zero 30,2021,Mid-Range,Android,3,32,6.9,3676,48,3.7,Africa,$404.92,811.0
+MB-71399,Infinix,Zero 30,2022,Flagship,Android,12,64,5.5,4689,48,3.8,North America,"$1,729.99",549.3
+MB-71400,Infinix,Zero 30,2022,Flagship,Android,12,64,5.5,4689,48,3.8,Europe,"$1,567.00",989.8
+MB-71401,Infinix,Zero 30,2022,Flagship,Android,12,64,5.5,4689,48,3.8,Asia Pacific,"$1,881.67",146.3
+MB-71402,Infinix,Zero 30,2022,Flagship,Android,12,64,5.5,4689,48,3.8,Middle East,"$1,960.16",866.6
+MB-71403,Infinix,Zero 30,2022,Flagship,Android,12,64,5.5,4689,48,3.8,Latin America,"$1,546.36",719.3
+MB-71404,Infinix,Zero 30,2022,Flagship,Android,12,64,5.5,4689,48,3.8,Africa,"$1,772.93",814.3
+MB-71405,Infinix,Zero 30,2024,Mid-Range,Android,8,1024,6.9,4635,12,3.8,North America,$404.33,939.4
+MB-71406,Infinix,Zero 30,2024,Mid-Range,Android,8,1024,6.9,4635,12,3.8,Europe,$319.29,869.1
+MB-71407,Infinix,Zero 30,2024,Mid-Range,Android,8,1024,6.9,4635,12,3.8,Asia Pacific,$375.18,5.8
+MB-71408,Infinix,Zero 30,2024,Mid-Range,Android,8,1024,6.9,4635,12,3.8,Middle East,$360.77,"1,131.1"
+MB-71409,Infinix,Zero 30,2024,Mid-Range,Android,8,1024,6.9,4635,12,3.8,Latin America,$313.20,"1,129.9"
+MB-71410,Infinix,Zero 30,2024,Mid-Range,Android,8,1024,6.9,4635,12,3.8,Africa,$405.50,942.2
+MB-71411,Infinix,Hot 40,2021,Budget,Android,12,256,6.1,4046,13,3.6,North America,$153.89,882.1
+MB-71412,Infinix,Hot 40,2021,Budget,Android,12,256,6.1,4046,13,3.6,Europe,$128.31,303.4
+MB-71413,Infinix,Hot 40,2021,Budget,Android,12,256,6.1,4046,13,3.6,Asia Pacific,$164.19,47.3
+MB-71414,Infinix,Hot 40,2021,Budget,Android,12,256,6.1,4046,13,3.6,Middle East,$141.73,843.9
+MB-71415,Infinix,Hot 40,2021,Budget,Android,12,256,6.1,4046,13,3.6,Latin America,$145.96,774.8
+MB-71416,Infinix,Hot 40,2021,Budget,Android,12,256,6.1,4046,13,3.6,Africa,$140.96,"1,084.4"
+MB-71417,Infinix,Hot 40,2023,Premium,Android,12,64,6.7,4542,48,4.7,North America,$541.08,755.2
+MB-71418,Infinix,Hot 40,2023,Premium,Android,12,64,6.7,4542,48,4.7,Europe,$522.76,567.5
+MB-71419,Infinix,Hot 40,2023,Premium,Android,12,64,6.7,4542,48,4.7,Asia Pacific,$532.24,682.4
+MB-71420,Infinix,Hot 40,2023,Premium,Android,12,64,6.7,4542,48,4.7,Middle East,$443.10,519.2
+MB-71421,Infinix,Hot 40,2023,Premium,Android,12,64,6.7,4542,48,4.7,Latin America,$464.38,995.1
+MB-71422,Infinix,Hot 40,2023,Premium,Android,12,64,6.7,4542,48,4.7,Africa,$501.98,24.7
+MB-71423,Infinix,Hot 40,2024,Flagship,Android,4,512,5.5,5248,108,3.8,North America,"$1,276.22",558.1
+MB-71424,Infinix,Hot 40,2024,Flagship,Android,4,512,5.5,5248,108,3.8,Europe,"$1,017.49",737.8
+MB-71425,Infinix,Hot 40,2024,Flagship,Android,4,512,5.5,5248,108,3.8,Asia Pacific,"$1,140.47",378.9
+MB-71426,Infinix,Hot 40,2024,Flagship,Android,4,512,5.5,5248,108,3.8,Middle East,$975.31,440.0
+MB-71427,Infinix,Hot 40,2024,Flagship,Android,4,512,5.5,5248,108,3.8,Latin America,"$1,100.15",543.1
+MB-71428,Infinix,Hot 40,2024,Flagship,Android,4,512,5.5,5248,108,3.8,Africa,"$1,161.52","1,001.7"
+MB-71429,Infinix,GT 20 Pro,2021,Mid-Range,Android,8,64,6.9,5171,48,3.6,North America,$290.33,"1,140.2"
+MB-71430,Infinix,GT 20 Pro,2021,Mid-Range,Android,8,64,6.9,5171,48,3.6,Europe,$291.10,508.2
+MB-71431,Infinix,GT 20 Pro,2021,Mid-Range,Android,8,64,6.9,5171,48,3.6,Asia Pacific,$303.16,691.8
+MB-71432,Infinix,GT 20 Pro,2021,Mid-Range,Android,8,64,6.9,5171,48,3.6,Middle East,$236.79,647.7
+MB-71433,Infinix,GT 20 Pro,2021,Mid-Range,Android,8,64,6.9,5171,48,3.6,Latin America,$287.57,530.2
+MB-71434,Infinix,GT 20 Pro,2021,Mid-Range,Android,8,64,6.9,5171,48,3.6,Africa,$307.02,135.8
+MB-71435,Infinix,GT 20 Pro,2022,Mid-Range,Android,8,1024,6.4,4910,13,4.1,North America,$346.46,"1,079.8"
+MB-71436,Infinix,GT 20 Pro,2022,Mid-Range,Android,8,1024,6.4,4910,13,4.1,Europe,$389.82,618.9
+MB-71437,Infinix,GT 20 Pro,2022,Mid-Range,Android,8,1024,6.4,4910,13,4.1,Asia Pacific,$332.41,551.8
+MB-71438,Infinix,GT 20 Pro,2022,Mid-Range,Android,8,1024,6.4,4910,13,4.1,Middle East,$394.60,"1,046.0"
+MB-71439,Infinix,GT 20 Pro,2022,Mid-Range,Android,8,1024,6.4,4910,13,4.1,Latin America,$406.19,847.3
+MB-71440,Infinix,GT 20 Pro,2022,Mid-Range,Android,8,1024,6.4,4910,13,4.1,Africa,$387.74,525.8
